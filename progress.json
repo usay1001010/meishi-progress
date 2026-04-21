@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 91,
-  "created": 64,
-  "updated": 27,
+  "success": 98,
+  "created": 66,
+  "updated": 32,
   "failed": 0,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 419.7,
-  "eta_sec": 4233.8,
+  "elapsed_sec": 450.8,
+  "eta_sec": 4193.4,
   "by_group": {
     "k1": {
       "total": 56,
@@ -44,18 +44,67 @@
     },
     "s1": {
       "total": 52,
-      "success": 4,
+      "success": 11,
       "failed": 0
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s1/20260418_140.jpg",
+    "key": "s1/20260418_147.jpg",
     "low_confidence": false,
-    "confidence": 0.98,
-    "idx": 92
+    "confidence": 1.0,
+    "idx": 99
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "s1/20260418_146.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381d58241e4c459d4b0ad"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_145.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381278751c39525843371"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_144.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381038f96d1f1af075b44"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_143.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381058780c2ade20602af"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_142.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381ae8e21d8c80d3e300c"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_141.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381f2bd17e267d3b54f25"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_140.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381d998fafa0e6a1f4066"
+    },
     {
       "status": "ok",
       "key": "s1/20260418_139.jpg",
