@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 275,
-  "created": 94,
-  "updated": 181,
-  "failed": 22,
+  "success": 284,
+  "created": 96,
+  "updated": 188,
+  "failed": 23,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 1112.8,
-  "eta_sec": 2696.2,
+  "elapsed_sec": 1145.4,
+  "eta_sec": 2647.7,
   "by_group": {
     "k1": {
       "total": 56,
@@ -69,18 +69,90 @@
     },
     "s14": {
       "total": 37,
-      "success": 21,
-      "failed": 7
+      "success": 29,
+      "failed": 8
+    },
+    "s15": {
+      "total": 40,
+      "success": 1,
+      "failed": 0
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s14/20260418_440.jpg",
+    "key": "s15/20260418_450.jpg",
     "low_confidence": false,
-    "confidence": 0.98,
-    "idx": 298
+    "confidence": 1.0,
+    "idx": 308
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "s15/20260418_449.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/Tomohiro-Minamisawa-345aa45a3f1381f097e6efe40b60413b"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_448.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f13816ea3d3fea977c01ac8"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_447.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f138105bb03cf68ad6f393e"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_446.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f13816f9500c08c9e99b3ce"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_445.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f138103be18f538bb179c35"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_444.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f138106bffefd020ae823f8"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_443.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13819e9d67d636b0b1d714"
+    },
+    {
+      "status": "error",
+      "key": "s14/20260418_442.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_441.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381f5bc2dee4bee645920"
+    },
+    {
+      "status": "ok",
+      "key": "s14/20260418_440.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381e3aec8e9f9ac289943"
+    },
     {
       "status": "ok",
       "key": "s14/20260418_439.jpg",
