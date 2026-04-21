@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 34,
+  "success": 41,
   "created": 0,
-  "updated": 34,
+  "updated": 41,
   "failed": 0,
-  "skipped_already_done": 481,
+  "skipped_already_done": 589,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 155.6,
-  "eta_sec": 2432.4,
+  "elapsed_sec": 187.7,
+  "eta_sec": 2412.9,
   "by_group": {
     "k1": {
       "total": 56,
@@ -74,18 +74,82 @@
     },
     "s15": {
       "total": 40,
-      "success": 11,
+      "success": 13,
+      "failed": 0
+    },
+    "s16": {
+      "total": 45,
+      "success": 1,
+      "failed": 0
+    },
+    "s17": {
+      "total": 44,
+      "success": 2,
+      "failed": 0
+    },
+    "s18": {
+      "total": 28,
+      "success": 2,
       "failed": 0
     }
   },
   "current": {
-    "idx": 35,
-    "key": "s15/20260418_483.jpg",
+    "idx": 42,
+    "key": "s18/20260418_598.jpg",
     "low_confidence": false,
     "is_sh": true,
     "confidence": 1.0
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Tomotake-Katayama-345aa45a3f13817283bdfd3d1a24aaca",
+      "key": "s18/20260418_597.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381149da8c3dbcacc52c5",
+      "key": "s18/20260418_592.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138182b199eb79f95e10d1",
+      "key": "s17/20260418_543.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13819ab3efe37a6ddfb5d8",
+      "key": "s17/20260418_541.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f13810a9c79c5afc80d9bea",
+      "key": "s16/20260418_511.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13817bbacee833609de0bc",
+      "key": "s15/20260418_484.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13814cb3a9dbafd961a09a",
+      "key": "s15/20260418_483.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13813baff1ef503642f555",
