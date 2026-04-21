@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 41,
-  "created": 29,
-  "updated": 12,
+  "success": 48,
+  "created": 35,
+  "updated": 13,
   "failed": 0,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 189.2,
-  "eta_sec": 4405.9,
+  "elapsed_sec": 221.3,
+  "eta_sec": 4386.3,
   "by_group": {
     "k1": {
       "total": 56,
@@ -34,18 +34,67 @@
     },
     "k5": {
       "total": 41,
-      "success": 27,
+      "success": 34,
       "failed": 0
     }
   },
   "current": {
     "is_sh": false,
-    "key": "k5/20260418_160.jpg",
+    "key": "k5/20260418_167.jpg",
     "low_confidence": false,
-    "confidence": 1.0,
-    "idx": 42
+    "confidence": 0.95,
+    "idx": 49
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "k5/20260418_166.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13815c8ec7f7ac092b20ee"
+    },
+    {
+      "status": "ok",
+      "key": "k5/20260418_165.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f138132b00ed9f7744db94b"
+    },
+    {
+      "status": "ok",
+      "key": "k5/20260418_164.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13812b865ed9150947791b"
+    },
+    {
+      "status": "ok",
+      "key": "k5/20260418_163.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381a39755d5b380ed046b"
+    },
+    {
+      "status": "ok",
+      "key": "k5/20260418_162.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f138157a368de609d675365"
+    },
+    {
+      "status": "ok",
+      "key": "k5/20260418_161.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381059d9cea1ccc6705ab"
+    },
+    {
+      "status": "ok",
+      "key": "k5/20260418_160.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13817e9dcced89a03dd4ef"
+    },
     {
       "status": "ok",
       "key": "k5/20260418_159.jpg",
