@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 305,
-  "created": 97,
-  "updated": 208,
-  "failed": 32,
+  "success": 311,
+  "created": 98,
+  "updated": 213,
+  "failed": 36,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 1244.0,
-  "eta_sec": 2510.2,
+  "elapsed_sec": 1275.6,
+  "eta_sec": 2463.2,
   "by_group": {
     "k1": {
       "total": 56,
@@ -74,18 +74,81 @@
     },
     "s15": {
       "total": 40,
-      "success": 22,
-      "failed": 9
+      "success": 27,
+      "failed": 13
+    },
+    "s16": {
+      "total": 45,
+      "success": 1,
+      "failed": 0
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s15/20260418_480.jpg",
+    "key": "s16/20260418_490.jpg",
     "low_confidence": false,
     "confidence": 1.0,
-    "idx": 338
+    "idx": 348
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "s16/20260418_489.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381bc8abbe1ec7ec00627"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_488.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381ed8c6ecb74fb1a9c1a"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_487.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381ed8c6ecb74fb1a9c1a"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_486.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381168eb4c6e7e157afb0"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_485.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/347aa45a3f1381368870da284a1c30bc"
+    },
+    {
+      "status": "error",
+      "key": "s15/20260418_484.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s15/20260418_483.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s15/20260418_482.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s15/20260418_481.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_480.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f13814d885dd8384452650f"
+    },
     {
       "status": "ok",
       "key": "s15/20260418_479.jpg",
