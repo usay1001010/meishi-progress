@@ -1,27 +1,32 @@
 {
   "started_at": "2026-04-22 01:22:42",
-  "finished_at": null,
+  "finished_at": "2026-04-22 01:22:44",
   "dry_run": true,
   "total": 56,
-  "success": 0,
+  "success": 2,
   "failed": 0,
   "skipped_already_done": 0,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 0.0,
-  "eta_sec": 0.0,
+  "elapsed_sec": 1.2,
+  "eta_sec": 32.0,
   "by_group": {
     "k1": {
       "total": 56,
-      "success": 0,
+      "success": 2,
       "failed": 0
     }
   },
-  "current": {
-    "confidence": 1.0,
-    "key": "k1/",
-    "idx": 1,
-    "is_sh": false,
-    "low_confidence": false
-  },
-  "recent": []
+  "current": null,
+  "recent": [
+    {
+      "status": "ok",
+      "key": "k1/",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "key": "k1/",
+      "low_confidence": false
+    }
+  ]
 }
