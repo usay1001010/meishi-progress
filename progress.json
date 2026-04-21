@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 245,
+  "success": 252,
   "created": 91,
-  "updated": 154,
-  "failed": 8,
+  "updated": 161,
+  "failed": 13,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 988.8,
-  "eta_sec": 2981.9,
+  "elapsed_sec": 1019.1,
+  "eta_sec": 2888.8,
   "by_group": {
     "k1": {
       "total": 56,
@@ -64,18 +64,87 @@
     },
     "s13": {
       "total": 31,
-      "success": 14,
-      "failed": 1
+      "success": 21,
+      "failed": 6
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s13/20260418_396.jpg",
+    "key": "s13/20260418_408.jpg",
     "low_confidence": false,
     "confidence": 1.0,
-    "idx": 254
+    "idx": 266
   },
   "recent": [
+    {
+      "status": "error",
+      "key": "s13/20260418_407.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s13/20260418_406.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_405.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381958dd3fbe684beca34"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_404.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/Dai-Yamane-345aa45a3f13812aad01f196196291d4"
+    },
+    {
+      "status": "error",
+      "key": "s13/20260418_403.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_402.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381e78d23d7002909bbfd"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_401.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381518fded1de4ef90e8e"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_400.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381c6b833fc8018965316"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_399.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381e5a8cce4320c8cbdd0"
+    },
+    {
+      "status": "error",
+      "key": "s13/20260418_398.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s13/20260418_397.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s13/20260418_396.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381489dfbf6765055a92d"
+    },
     {
       "status": "ok",
       "key": "s13/20260418_395.jpg",
