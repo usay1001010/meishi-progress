@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 298,
+  "success": 305,
   "created": 97,
-  "updated": 201,
-  "failed": 30,
+  "updated": 208,
+  "failed": 32,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 1214.0,
-  "eta_sec": 2549.8,
+  "elapsed_sec": 1244.0,
+  "eta_sec": 2510.2,
   "by_group": {
     "k1": {
       "total": 56,
@@ -74,18 +74,75 @@
     },
     "s15": {
       "total": 40,
-      "success": 15,
-      "failed": 7
+      "success": 22,
+      "failed": 9
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s15/20260418_471.jpg",
+    "key": "s15/20260418_480.jpg",
     "low_confidence": false,
-    "confidence": 0.95,
-    "idx": 329
+    "confidence": 1.0,
+    "idx": 338
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "s15/20260418_479.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381999207f14236abd66a"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_478.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f138198b28dd3aea949b00b"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_477.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/Tomohiro-Izaki-345aa45a3f138130b48ce990939b3049"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_476.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381829820c08990879361"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_475.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/Ham-Dayoung-346aa45a3f1381c7a024f809f2f01420"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_474.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/Shigeru-Shoji-345aa45a3f138173b56ef5975ba90253"
+    },
+    {
+      "status": "error",
+      "key": "s15/20260418_473.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s15/20260418_472.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s15/20260418_471.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381d7bef5d4761d38937c"
+    },
     {
       "status": "ok",
       "key": "s15/20260418_470.jpg",
