@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 26,
+  "success": 34,
   "created": 0,
-  "updated": 26,
+  "updated": 34,
   "failed": 0,
-  "skipped_already_done": 469,
+  "skipped_already_done": 481,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 123.3,
-  "eta_sec": 2533.7,
+  "elapsed_sec": 155.6,
+  "eta_sec": 2432.4,
   "by_group": {
     "k1": {
       "total": 56,
@@ -74,18 +74,74 @@
     },
     "s15": {
       "total": 40,
-      "success": 3,
+      "success": 11,
       "failed": 0
     }
   },
   "current": {
-    "idx": 27,
-    "key": "s15/20260418_463.jpg",
+    "idx": 35,
+    "key": "s15/20260418_483.jpg",
     "low_confidence": false,
     "is_sh": true,
     "confidence": 1.0
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13813baff1ef503642f555",
+      "key": "s15/20260418_482.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138116a51af6fc54e4a268",
+      "key": "s15/20260418_481.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e79320ccc25958c451",
+      "key": "s15/20260418_473.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a3bfb5cfb20a11c511",
+      "key": "s15/20260418_472.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381748343c80bf4d26379",
+      "key": "s15/20260418_467.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381938151fad6fb707e05",
+      "key": "s15/20260418_465.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13819f9ae5d861f69e28ab",
+      "key": "s15/20260418_464.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Shinichi-Saijo-345aa45a3f1381fb9108d97d40a925b0",
+      "key": "s15/20260418_463.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Takaaki-Kando-345aa45a3f1381fe8385e142629ef905",
