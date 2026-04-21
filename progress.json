@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 144,
-  "created": 114,
-  "updated": 30,
+  "success": 151,
+  "created": 120,
+  "updated": 31,
   "failed": 0,
   "skipped_already_done": 2,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 720.2,
-  "eta_sec": 5205.4,
+  "elapsed_sec": 752.2,
+  "eta_sec": 5151.6,
   "by_group": {
     "k1": {
       "total": 56,
@@ -24,18 +24,72 @@
     },
     "k3": {
       "total": 38,
-      "success": 31,
+      "success": 38,
+      "failed": 0
+    },
+    "k4": {
+      "total": 36,
+      "success": 0,
       "failed": 0
     }
   },
   "current": {
     "low_confidence": false,
-    "key": "k3/20260418_090.jpg",
-    "confidence": 0.95,
+    "key": "k4/20260418_097.jpg",
+    "confidence": 0.98,
     "is_sh": false,
-    "idx": 145
+    "idx": 152
   },
   "recent": [
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "updated",
+      "key": "k3/20260418_096.jpg",
+      "notion_url": "https://www.notion.so/33aaa45a3f138123aa44d3b5bdb97601"
+    },
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "created",
+      "key": "k3/20260418_095.jpg",
+      "notion_url": "https://www.notion.so/349aa45a3f138178ad5dc51fdde4f591"
+    },
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "created",
+      "key": "k3/20260418_094.jpg",
+      "notion_url": "https://www.notion.so/349aa45a3f13817a9c84dad6bff46f61"
+    },
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "created",
+      "key": "k3/20260418_093.jpg",
+      "notion_url": "https://www.notion.so/349aa45a3f13817eb818dc7c32461909"
+    },
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "created",
+      "key": "k3/20260418_092.jpg",
+      "notion_url": "https://www.notion.so/349aa45a3f138160bd8ef408b6f33c7d"
+    },
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "created",
+      "key": "k3/20260418_091.jpg",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d382cbdce9e1374c94"
+    },
+    {
+      "low_confidence": false,
+      "status": "ok",
+      "action": "created",
+      "key": "k3/20260418_090.jpg",
+      "notion_url": "https://www.notion.so/349aa45a3f13811aad36f39708bac587"
+    },
     {
       "low_confidence": false,
       "status": "ok",
@@ -126,55 +180,6 @@
       "action": "created",
       "key": "k3/20260418_077.jpg",
       "notion_url": "https://www.notion.so/349aa45a3f13810c88a8c0f764f8ee86"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "created",
-      "key": "k3/20260418_076.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f1381da90d8e5d9ba0861a3"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "created",
-      "key": "k3/20260418_075.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f69077f7fa7831f83a"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "created",
-      "key": "k3/20260418_074.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f13816b82eee32494196ef3"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "created",
-      "key": "k3/20260418_073.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f5a145c8db1261a53d"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "created",
-      "key": "k3/20260418_072.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e1a48de40f80ed902c"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "updated",
-      "key": "k3/20260418_071.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f1381beb3edf96ce210a24b"
-    },
-    {
-      "low_confidence": false,
-      "status": "ok",
-      "action": "created",
-      "key": "k3/20260418_070.jpg",
-      "notion_url": "https://www.notion.so/349aa45a3f1381beb3edf96ce210a24b"
     }
   ]
 }
