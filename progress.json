@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 6,
-  "created": 5,
+  "success": 12,
+  "created": 11,
   "updated": 1,
   "failed": 0,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 30.2,
-  "eta_sec": 4367.2,
+  "elapsed_sec": 60.6,
+  "eta_sec": 4693.4,
   "by_group": {
     "k1": {
       "total": 56,
@@ -29,18 +29,60 @@
     },
     "k4": {
       "total": 36,
-      "success": 6,
+      "success": 12,
       "failed": 0
     }
   },
   "current": {
     "is_sh": false,
-    "key": "k4/20260418_125.jpg",
+    "key": "k4/20260418_131.jpg",
     "low_confidence": false,
-    "confidence": 1.0,
-    "idx": 7
+    "confidence": 0.98,
+    "idx": 13
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "k4/20260418_130.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13817a89d4f7c2fe4ed33e"
+    },
+    {
+      "status": "ok",
+      "key": "k4/20260418_129.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13818fbc05cf539899afd9"
+    },
+    {
+      "status": "ok",
+      "key": "k4/20260418_128.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381718a3df45555bbc264"
+    },
+    {
+      "status": "ok",
+      "key": "k4/20260418_127.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381cda427e94017715747"
+    },
+    {
+      "status": "ok",
+      "key": "k4/20260418_126.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381158b68e93f151c6ec9"
+    },
+    {
+      "status": "ok",
+      "key": "k4/20260418_125.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381b687a9e50f6ffe6240"
+    },
     {
       "status": "ok",
       "key": "k4/20260418_124.jpg",
