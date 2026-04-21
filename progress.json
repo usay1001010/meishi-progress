@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 69,
-  "created": 51,
-  "updated": 18,
+  "success": 76,
+  "created": 56,
+  "updated": 20,
   "failed": 0,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 321.0,
-  "eta_sec": 4355.9,
+  "elapsed_sec": 353.9,
+  "eta_sec": 4334.3,
   "by_group": {
     "k1": {
       "total": 56,
@@ -39,18 +39,67 @@
     },
     "k6": {
       "total": 32,
-      "success": 14,
+      "success": 21,
       "failed": 0
     }
   },
   "current": {
     "is_sh": false,
-    "key": "k6/20260418_188.jpg",
+    "key": "k6/20260418_195.jpg",
     "low_confidence": false,
     "confidence": 1.0,
-    "idx": 70
+    "idx": 77
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "k6/20260418_194.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/33aaa45a3f13817180eaf848ab8cb023"
+    },
+    {
+      "status": "ok",
+      "key": "k6/20260418_193.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381349e72e4b06ac936b1"
+    },
+    {
+      "status": "ok",
+      "key": "k6/20260418_192.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13818f81fff0a207561ac1"
+    },
+    {
+      "status": "ok",
+      "key": "k6/20260418_191.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13815ab22aecff1c0f5b09"
+    },
+    {
+      "status": "ok",
+      "key": "k6/20260418_190.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f13815ab22aecff1c0f5b09"
+    },
+    {
+      "status": "ok",
+      "key": "k6/20260418_189.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f138191932ddb10f31dce1e"
+    },
+    {
+      "status": "ok",
+      "key": "k6/20260418_188.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381bb92b4fd459cf8395f"
+    },
     {
       "status": "ok",
       "key": "k6/20260418_187.jpg",
