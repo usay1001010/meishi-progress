@@ -31,6 +31,8 @@
   .pill.new { background: #16a34a; }
   .pill.upd { background: #d97706; }
   code { background: #0f172a; padding: 1px 6px; border-radius: 4px; font-size: 12px; }
+  a { color: #60a5fa; text-decoration: none; font-size: 12px; }
+  a:hover { text-decoration: underline; }
   .current-big { font-size: 16px; margin-top: 6px; }
   h2 { font-size: 13px; color:#94a3b8; margin:14px 0 6px; font-weight: 500; text-transform: uppercase; letter-spacing: .05em; }
   .group-row { display: grid; grid-template-columns: 60px 1fr 90px; gap: 10px; align-items: center; padding: 6px 0; font-size: 12px; }
@@ -61,7 +63,7 @@
 
 <section>
   <h2>直近のイベント（最新20件）</h2>
-  <table id="recent"><thead><tr><th>Key</th><th>Status</th><th>種別</th><th>Note</th></tr></thead><tbody></tbody></table>
+  <table id="recent"><thead><tr><th>Key</th><th>Status</th><th>種別</th><th>Notion</th><th>Note</th></tr></thead><tbody></tbody></table>
 </section>
 
 <div class="sub" id="last-update">—</div>
@@ -142,8 +144,9 @@ async function tick(){
       let actPill = "";
       if(e.action==="created") actPill = '<span class="pill new">新規</span>';
       else if(e.action==="updated") actPill = '<span class="pill upd">更新</span>';
-      return `<tr><td><code>${e.key}</code></td><td class="${cls}">${e.status}</td><td>${actPill}</td><td class="muted">${e.error||(e.low_confidence?'low-conf':'')}</td></tr>`;
-    }).join("") || '<tr><td colspan="4" class="muted">—</td></tr>';
+      const link = e.notion_url ? `<a href="${e.notion_url}" target="_blank" rel="noopener">開く ↗</a>` : '';
+      return `<tr><td><code>${e.key}</code></td><td class="${cls}">${e.status}</td><td>${actPill}</td><td>${link}</td><td class="muted">${e.error||(e.low_confidence?'low-conf':'')}</td></tr>`;
+    }).join("") || '<tr><td colspan="5" class="muted">—</td></tr>';
 
     document.getElementById("status").textContent =
       (s.finished_at ? "完了: "+s.finished_at : (s.started_at ? "開始: "+s.started_at : ""));
