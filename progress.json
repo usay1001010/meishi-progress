@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 134,
-  "created": 73,
-  "updated": 61,
+  "success": 145,
+  "created": 74,
+  "updated": 71,
   "failed": 0,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 577.7,
-  "eta_sec": 3787.1,
+  "elapsed_sec": 608.6,
+  "eta_sec": 3643.2,
   "by_group": {
     "k1": {
       "total": 56,
@@ -44,18 +44,100 @@
     },
     "s1": {
       "total": 52,
-      "success": 47,
+      "success": 52,
+      "failed": 0
+    },
+    "s10": {
+      "total": 37,
+      "success": 6,
       "failed": 0
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s1/20260418_183.jpg",
+    "key": "s10/20260418_288.jpg",
     "low_confidence": false,
     "confidence": 1.0,
-    "idx": 135
+    "idx": 146
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "s10/20260418_287.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f13815fb2ccc1369960de95"
+    },
+    {
+      "status": "ok",
+      "key": "s10/20260418_286.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381df89d7f11a9c26089d"
+    },
+    {
+      "status": "ok",
+      "key": "s10/20260418_285.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381e5b20cedf4f0008b95"
+    },
+    {
+      "status": "ok",
+      "key": "s10/20260418_284.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381c9afcee57c5787be30"
+    },
+    {
+      "status": "ok",
+      "key": "s10/20260418_283.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f138132b84fdf395ebdfa23"
+    },
+    {
+      "status": "ok",
+      "key": "s10/20260418_282.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f13812aa407d9e16b042b23"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_187.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381899496f42d92ff5ec6"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_186.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381fbaf42c4cf91330694"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_185.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381ecbb83f08400264e80"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_184.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381bdbf9bfea6eccad42c"
+    },
+    {
+      "status": "ok",
+      "key": "s1/20260418_183.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f138116a359d17ab414060d"
+    },
     {
       "status": "ok",
       "key": "s1/20260418_182.jpg",
