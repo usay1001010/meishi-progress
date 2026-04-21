@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 252,
+  "success": 258,
   "created": 32,
-  "updated": 220,
+  "updated": 226,
   "failed": 0,
   "skipped_already_done": 613,
   "low_confidence_warnings": 1,
-  "elapsed_sec": 879.2,
-  "eta_sec": 1143.3,
+  "elapsed_sec": 910.7,
+  "eta_sec": 1135.8,
   "by_group": {
     "k1": {
       "total": 56,
@@ -114,18 +114,60 @@
     },
     "s22": {
       "total": 51,
-      "success": 25,
+      "success": 31,
       "failed": 0
     }
   },
   "current": {
-    "idx": 253,
-    "key": "s22/20260418_790.jpg",
+    "idx": 259,
+    "key": "s22/20260418_796.jpg",
     "low_confidence": false,
     "is_sh": true,
-    "confidence": 0.95
+    "confidence": 0.98
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13810aa886f24d04e7bcdc",
+      "key": "s22/20260418_795.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381babff0f25a9e0b0128",
+      "key": "s22/20260418_794.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381b8a3dadc3f8e5d346b",
+      "key": "s22/20260418_793.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138144a9d8fab7e10b023c",
+      "key": "s22/20260418_792.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138144a9d8fab7e10b023c",
+      "key": "s22/20260418_791.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381939e95c89d44b8cbbd",
+      "key": "s22/20260418_790.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13818ba89cd83f277a86d6",
