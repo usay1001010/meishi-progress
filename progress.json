@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 106,
+  "success": 116,
   "created": 7,
-  "updated": 99,
+  "updated": 109,
   "failed": 0,
   "skipped_already_done": 613,
   "low_confidence_warnings": 1,
-  "elapsed_sec": 409.4,
-  "eta_sec": 1817.4,
+  "elapsed_sec": 440.9,
+  "eta_sec": 1752.1,
   "by_group": {
     "k1": {
       "total": 56,
@@ -99,18 +99,93 @@
     },
     "s2": {
       "total": 43,
-      "success": 34,
+      "success": 43,
+      "failed": 0
+    },
+    "s20": {
+      "total": 54,
+      "success": 1,
       "failed": 0
     }
   },
   "current": {
-    "idx": 107,
-    "key": "s2/20260418_034.jpg",
+    "idx": 117,
+    "key": "s20/20260418_654.jpg",
     "low_confidence": false,
     "is_sh": true,
-    "confidence": 1.0
+    "confidence": 0.9
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381eb8e0fc6c315ab2b47",
+      "key": "s20/20260418_653.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381ea8634d8417d19449e",
+      "key": "s2/20260418_042.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138164ac10e5d21422ceca",
+      "key": "s2/20260418_041.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381d7a259da733452f16e",
+      "key": "s2/20260418_040.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138157b6dfcf50b9553b2a",
+      "key": "s2/20260418_039.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13819db49eff2a0a09a902",
+      "key": "s2/20260418_038.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381efbe37d7e7db999d00",
+      "key": "s2/20260418_037.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381c5a863c5da4a1d42fc",
+      "key": "s2/20260418_036.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Kohei-Takizawa-346aa45a3f1381509529d784fb95c693",
+      "key": "s2/20260418_035.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138162845edbd2bad37f3d",
+      "key": "s2/20260418_034.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381779341c804ce897741",
