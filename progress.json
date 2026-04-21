@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 210,
-  "created": 88,
-  "updated": 122,
-  "failed": 3,
+  "success": 217,
+  "created": 89,
+  "updated": 128,
+  "failed": 7,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 862.8,
-  "eta_sec": 3249.5,
+  "elapsed_sec": 894.3,
+  "eta_sec": 3159.7,
   "by_group": {
     "k1": {
       "total": 56,
@@ -59,18 +59,83 @@
     },
     "s12": {
       "total": 31,
-      "success": 6,
-      "failed": 0
+      "success": 13,
+      "failed": 4
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s12/20260418_356.jpg",
+    "key": "s12/20260418_367.jpg",
     "low_confidence": false,
-    "confidence": 0.95,
-    "idx": 214
+    "confidence": 1.0,
+    "idx": 225
   },
   "recent": [
+    {
+      "status": "ok",
+      "key": "s12/20260418_366.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381478e4bd0cfcf8d42a0"
+    },
+    {
+      "status": "ok",
+      "key": "s12/20260418_365.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381d8b842eb10bef82d4d"
+    },
+    {
+      "status": "ok",
+      "key": "s12/20260418_364.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381349766d32e2cdf3197"
+    },
+    {
+      "status": "ok",
+      "key": "s12/20260418_363.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f138135ba05f3a8972d24d9"
+    },
+    {
+      "status": "ok",
+      "key": "s12/20260418_362.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381c4b2a1d6538b727b79"
+    },
+    {
+      "status": "ok",
+      "key": "s12/20260418_361.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/346aa45a3f1381ebb02ef96edb88e1a3"
+    },
+    {
+      "status": "error",
+      "key": "s12/20260418_360.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s12/20260418_359.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s12/20260418_358.jpg"
+    },
+    {
+      "status": "error",
+      "key": "s12/20260418_357.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s12/20260418_356.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/Keisuke-Sasada-345aa45a3f1381a89c53d69ed40f9ddc"
+    },
     {
       "status": "ok",
       "key": "s12/20260418_355.jpg",
