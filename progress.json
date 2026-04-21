@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 409,
-  "created": 114,
-  "updated": 295,
-  "failed": 39,
+  "success": 414,
+  "created": 116,
+  "updated": 298,
+  "failed": 41,
   "skipped_already_done": 175,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 1622.5,
-  "eta_sec": 2063.4,
+  "elapsed_sec": 1653.0,
+  "eta_sec": 2044.5,
   "by_group": {
     "k1": {
       "total": 56,
@@ -89,18 +89,61 @@
     },
     "s18": {
       "total": 28,
-      "success": 13,
-      "failed": 0
+      "success": 18,
+      "failed": 2
     }
   },
   "current": {
     "is_sh": true,
-    "key": "s18/20260418_591.jpg",
+    "key": "s18/20260418_598.jpg",
     "low_confidence": false,
     "confidence": 1.0,
-    "idx": 449
+    "idx": 456
   },
   "recent": [
+    {
+      "status": "error",
+      "key": "s18/20260418_597.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s18/20260418_596.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f138185a23ad7ebcb58e75c"
+    },
+    {
+      "status": "ok",
+      "key": "s18/20260418_595.jpg",
+      "action": "created",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/349aa45a3f1381edbf0cd8ab400c47f8"
+    },
+    {
+      "status": "ok",
+      "key": "s18/20260418_594.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f138195a3cac21a1e149435"
+    },
+    {
+      "status": "ok",
+      "key": "s18/20260418_593.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381658d62cd516575c7d5"
+    },
+    {
+      "status": "error",
+      "key": "s18/20260418_592.jpg"
+    },
+    {
+      "status": "ok",
+      "key": "s18/20260418_591.jpg",
+      "action": "updated",
+      "low_confidence": false,
+      "notion_url": "https://www.notion.so/345aa45a3f1381878831c8b97ed3a5fd"
+    },
     {
       "status": "ok",
       "key": "s18/20260418_590.jpg",
