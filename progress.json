@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 0,
+  "success": 6,
   "created": 0,
-  "updated": 0,
+  "updated": 6,
   "failed": 0,
-  "skipped_already_done": 359,
+  "skipped_already_done": 386,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 0.0,
-  "eta_sec": 0.6,
+  "elapsed_sec": 30.1,
+  "eta_sec": 2475.3,
   "by_group": {
     "k1": {
       "total": 56,
@@ -54,16 +54,64 @@
     },
     "s11": {
       "total": 31,
-      "success": 0,
+      "success": 3,
+      "failed": 0
+    },
+    "s12": {
+      "total": 31,
+      "success": 3,
       "failed": 0
     }
   },
   "current": {
-    "idx": 1,
-    "key": "s11/20260418_327.jpg",
+    "idx": 7,
+    "key": "s12/20260418_360.jpg",
     "low_confidence": false,
     "is_sh": true,
-    "confidence": 1.0
+    "confidence": 0.9
   },
-  "recent": []
+  "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381b9850af9022bd1cf99",
+      "key": "s12/20260418_359.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Shunsuke-Nakaji-346aa45a3f1381d29efffd97db4cb2ab",
+      "key": "s12/20260418_358.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13815a9d76e68a5b94ad67",
+      "key": "s12/20260418_357.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381daa649e4b3e2f7d17f",
+      "key": "s11/20260418_347.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381f19477d0b6df1d7945",
+      "key": "s11/20260418_328.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138112aa02c3f4238e0f21",
+      "key": "s11/20260418_327.jpg",
+      "action": "updated",
+      "low_confidence": false
+    }
+  ]
 }
