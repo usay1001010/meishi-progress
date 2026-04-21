@@ -3,14 +3,14 @@
   "finished_at": null,
   "dry_run": false,
   "total": 1195,
-  "success": 41,
-  "created": 0,
-  "updated": 41,
+  "success": 50,
+  "created": 1,
+  "updated": 49,
   "failed": 0,
-  "skipped_already_done": 589,
+  "skipped_already_done": 613,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 187.7,
-  "eta_sec": 2412.9,
+  "elapsed_sec": 221.2,
+  "eta_sec": 2302.8,
   "by_group": {
     "k1": {
       "total": 56,
@@ -89,18 +89,86 @@
     },
     "s18": {
       "total": 28,
-      "success": 2,
+      "success": 3,
+      "failed": 0
+    },
+    "s19": {
+      "total": 47,
+      "success": 8,
       "failed": 0
     }
   },
   "current": {
-    "idx": 42,
-    "key": "s18/20260418_598.jpg",
+    "idx": 51,
+    "key": "s19/20260418_631.jpg",
     "low_confidence": false,
     "is_sh": true,
     "confidence": 1.0
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381fe86e2dba13aac566c",
+      "key": "s19/20260418_630.jpg",
+      "action": "created",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138175980ffac3dbcca1f4",
+      "key": "s19/20260418_629.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d4bf34fa65df0fbdad",
+      "key": "s19/20260418_628.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138172be93e584031bc609",
+      "key": "s19/20260418_627.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381fdb30cd52439af2089",
+      "key": "s19/20260418_626.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138172be93e584031bc609",
+      "key": "s19/20260418_625.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13814c83e3e0532322276d",
+      "key": "s19/20260418_624.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381aa868afe25bd50b428",
+      "key": "s19/20260418_623.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Takeyuki-Kato-345aa45a3f138181bde0ff7d9338a33d",
+      "key": "s18/20260418_598.jpg",
+      "action": "updated",
+      "low_confidence": false
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Tomotake-Katayama-345aa45a3f13817283bdfd3d1a24aaca",
