@@ -1,32 +1,27 @@
 {
-  "started_at": "2026-04-22 01:22:42",
-  "finished_at": "2026-04-22 01:22:44",
+  "started_at": "2026-04-22 01:23:11",
+  "finished_at": null,
   "dry_run": true,
   "total": 56,
-  "success": 2,
+  "success": 0,
   "failed": 0,
   "skipped_already_done": 0,
   "low_confidence_warnings": 0,
-  "elapsed_sec": 1.2,
-  "eta_sec": 32.0,
+  "elapsed_sec": 0.0,
+  "eta_sec": 0.0,
   "by_group": {
     "k1": {
       "total": 56,
-      "success": 2,
+      "success": 0,
       "failed": 0
     }
   },
-  "current": null,
-  "recent": [
-    {
-      "status": "ok",
-      "key": "k1/",
-      "low_confidence": false
-    },
-    {
-      "status": "ok",
-      "key": "k1/",
-      "low_confidence": false
-    }
-  ]
+  "current": {
+    "key": "k1/20260418_080.jpg",
+    "idx": 1,
+    "low_confidence": false,
+    "is_sh": false,
+    "confidence": 1.0
+  },
+  "recent": []
 }
