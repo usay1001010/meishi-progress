@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 138,
-  "verified": 130,
-  "patched": 135,
+  "processed": 141,
+  "verified": 133,
+  "patched": 138,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2455.9,
-  "eta_sec": 12582.0,
+  "elapsed_sec": 2496.1,
+  "eta_sec": 12462.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 138,
-      "patched": 135,
+      "processed": 141,
+      "patched": 138,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 138,
-    "key": "株式会社 Think Life",
+    "idx": 141,
+    "key": "株式会社 ライフモア",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社トリニティパートナーズ",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d28082f0973b6fe8c2",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "Plus Fukushi 株式会社",
+      "notion_url": "https://www.notion.so/Plus-Fukushi-349aa45a3f1381678c92e597ac101cae",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 Think Life",
+      "notion_url": "https://www.notion.so/Think-Life-349aa45a3f13811b822acfb8314b1802",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "社会福祉法人 愛知県厚生事業団",
       "notion_url": "https://www.notion.so/349aa45a3f1381fa90a3f93e6e72ee60",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人賛永会",
-      "notion_url": "https://www.notion.so/349aa45a3f138186a76edd9424b4a3fb",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "一般社団法人 拠",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dda0e1c7271a048f32",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 キート",
-      "notion_url": "https://www.notion.so/349aa45a3f138198b0e6df89faa17088",
-      "note": "7項目"
     }
   ]
 }
