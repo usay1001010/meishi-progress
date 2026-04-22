@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 148,
-  "verified": 145,
-  "patched": 147,
+  "processed": 151,
+  "verified": 148,
+  "patched": 150,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2247.2,
-  "eta_sec": 10583.1,
+  "elapsed_sec": 2288.0,
+  "eta_sec": 10515.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 148,
-      "patched": 147,
+      "processed": 151,
+      "patched": 150,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 148,
-    "key": "Helppad",
+    "idx": 151,
+    "key": "株式会社SPOTS",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Rehab-for-JAPAN-349aa45a3f138148895cfce782d735b3",
+      "key": "株式会社 Rehab for JAPAN",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SOMPO-346aa45a3f138166bc4aeb1bbe1948c3",
+      "key": "SOMPOケア株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Helppad-349aa45a3f138168aee0e9b73dd303a3",
+      "key": "Helppad",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/CBC-345aa45a3f13813cbfa0d787b35cd4d4",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381b195e4dbd203ac0fdc",
       "key": "鳥取市",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13819b8304cf70ec453425",
-      "key": "株式会社 鳥取銀行",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138171a41ff41074f2399c",
-      "key": "株式会社アトラエ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/LobbyAI-345aa45a3f138147bd14f09d18f1fe30",
-      "key": "LobbyAI株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
