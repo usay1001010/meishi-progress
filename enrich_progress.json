@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 159,
-  "verified": 156,
-  "patched": 158,
+  "processed": 161,
+  "verified": 157,
+  "patched": 160,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 2,
+  "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2406.2,
-  "eta_sec": 10381.4,
+  "elapsed_sec": 2438.1,
+  "eta_sec": 10358.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 159,
-      "patched": 158,
+      "processed": 161,
+      "patched": 160,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 159,
-    "key": "株式会社 ケアモンスター",
+    "idx": 161,
+    "key": "株式会社スズケン",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f138176b05fed7c9f84e6cb",
+      "key": "リコージャパン株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e5b38bf4a44ec05f18",
+      "key": "株式会社 ケアモンスター",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/PARTNERS-FUND-349aa45a3f1381c29affd0eb9ca25a0e",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/344aa45a3f1381a0951af44219aba2f2",
       "key": "愛知県",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138180a1c7f8cbba2abded",
-      "key": "株式会社デンソー",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/labo-349aa45a3f13815f82f2fc4150ddd478",
-      "key": "山県-labo",
-      "note": "2項目",
       "action": "patched",
       "phase": "sh"
     }
