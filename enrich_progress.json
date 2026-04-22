@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 72,
-  "verified": 69,
-  "patched": 70,
+  "processed": 75,
+  "verified": 72,
+  "patched": 73,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1318.1,
-  "eta_sec": 14151.4,
+  "elapsed_sec": 1355.4,
+  "eta_sec": 13914.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 72,
-      "patched": 70,
+      "processed": 75,
+      "patched": 73,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 72,
-    "key": "社会福祉法人 元気村",
+    "idx": 75,
+    "key": "メディカル・ケア・サービス株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "ワイツーエム 株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381088fa2cb4bc1860c50",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 ニチイ学館",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381a69155cc69f80ec05a",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 元気村",
+      "notion_url": "https://www.notion.so/349aa45a3f13814b9e3de0b8df7d814e",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "株式会社 慶",
       "notion_url": "https://www.notion.so/349aa45a3f13813ba411ea6ebec6a1c4",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ピコグラム",
-      "notion_url": "https://www.notion.so/349aa45a3f138157b47eeba3e5dfd7a4",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 ピコグラム",
-      "notion_url": "https://www.notion.so/349aa45a3f13817b8639cd3a1d60cce5",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 あいち",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a494b9c7b1e5709acc",
-      "note": "8項目"
     }
   ]
 }
