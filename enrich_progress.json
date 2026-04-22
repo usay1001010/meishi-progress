@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 301,
-  "verified": 295,
-  "patched": 300,
+  "processed": 304,
+  "verified": 298,
+  "patched": 303,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4752.8,
-  "eta_sec": 8589.9,
+  "elapsed_sec": 4792.9,
+  "eta_sec": 8529.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 301,
-      "patched": 300,
+      "processed": 304,
+      "patched": 303,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 301,
-    "key": "SysC 株式会社 システムクリエイト",
+    "idx": 304,
+    "key": "リコー・ジャパン 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13811f8e7eea36845cef61",
+      "key": "株式会社 医療給食",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381f4bb39cfe1582ba269",
+      "key": "三島市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SysC-349aa45a3f1381e4a0c5eb61fafa43da",
+      "key": "SysC 株式会社 システムクリエイト",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381ccb477cd5e61cd3606",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/mediVR-349aa45a3f1381fd8363f16fd8affdfe",
       "key": "株式会社mediVR",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13810eb5ead5a02df1ca33",
-      "key": "株式会社テレビ朝日ホールディングス",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/UNERI-346aa45a3f138151a191f767d86a2dd9",
-      "key": "株式会社UNERI",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381ca8296cc841461d2b2",
-      "key": "イグニション・ポイント ベンチャーパートナーズ 株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
