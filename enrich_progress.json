@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 27,
-  "verified": 26,
-  "patched": 26,
+  "processed": 28,
+  "verified": 27,
+  "patched": 27,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 470.5,
-  "eta_sec": 14253.9,
+  "elapsed_sec": 514.5,
+  "eta_sec": 15013.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 27,
-      "patched": 26,
+      "processed": 28,
+      "patched": 27,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,19 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 27,
-    "key": "社会福祉法人あいち",
+    "idx": 28,
+    "key": "社会福祉法人 名古屋市総合リハビリテーション事業団",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人あいち",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381788212c14a4e5146d8",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
