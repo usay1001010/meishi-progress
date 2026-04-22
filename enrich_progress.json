@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 167,
-  "verified": 163,
-  "patched": 166,
+  "processed": 170,
+  "verified": 166,
+  "patched": 169,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2545.3,
-  "eta_sec": 10333.7,
+  "elapsed_sec": 2599.9,
+  "eta_sec": 10323.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 167,
-      "patched": 166,
+      "processed": 170,
+      "patched": 169,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 167,
-    "key": "福島県",
+    "idx": 170,
+    "key": "ソフトバンク株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138113b330f713b27f4a45",
+      "key": "ホワイトベアーパソコン教室",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/TMI-349aa45a3f1381c89a24ef6e6f3aaa34",
+      "key": "TMI 総合法律事務所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e8869ef03035a03cba",
+      "key": "福島県",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381e09c45eb23b3f9d19a",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13817cb67dc637880a20bc",
       "key": "鳥取県商工労働部",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13811d8258dc3725ac7ca3",
-      "key": "独立行政法人 中小企業基盤整備機構",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/ANOBAKA-345aa45a3f1381659599f00f22358a6d",
-      "key": "株式会社ANOBAKA",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/MEGAZONE-349aa45a3f1381eba9a6cff95c1523b2",
-      "key": "MEGAZONE 株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
