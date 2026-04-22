@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 288,
-  "verified": 246,
-  "patched": 240,
+  "processed": 290,
+  "verified": 247,
+  "patched": 241,
   "unchanged": 6,
-  "failed": 27,
+  "failed": 28,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5117.1,
-  "eta_sec": 9896.6,
+  "elapsed_sec": 5147.4,
+  "eta_sec": 9851.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,34 @@
     },
     "sh": {
       "total": 650,
-      "processed": 93,
-      "patched": 65,
+      "processed": 95,
+      "patched": 66,
       "not_found": 0,
-      "failed": 27
+      "failed": 28
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 288,
-    "key": "株式会社ターンアラウンド研究所",
+    "idx": 290,
+    "key": "株式会社エス・エム・エス",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社メティスコム",
+      "notion_url": "https://www.notion.so/346aa45a3f1381a78eb2ddb1abc37f41",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社ターンアラウンド研究所",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 経営コンサルティング, 人材育成"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -397,22 +411,6 @@
       "action": "patched",
       "key": "日本電技株式会社",
       "notion_url": "https://www.notion.so/345aa45a3f1381669fd7d0f1dae1ba90",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社テレビ朝日",
-      "notion_url": "https://www.notion.so/345aa45a3f13815e898bdb5afc5cae1d",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "東京大学大学院",
-      "notion_url": "https://www.notion.so/349aa45a3f13811fb197ec79e1ef0896",
       "note": "10項目"
     }
   ]
