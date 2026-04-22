@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 11,
-  "verified": 10,
-  "patched": 10,
+  "processed": 13,
+  "verified": 12,
+  "patched": 12,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 159.3,
-  "eta_sec": 12080.1,
+  "elapsed_sec": 206.0,
+  "eta_sec": 13183.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 11,
-      "patched": 10,
+      "processed": 13,
+      "patched": 12,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 11,
-    "key": "滝子通一丁目福祉施設",
+    "idx": 13,
+    "key": "スギホールディングス株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社フロンティア",
+      "notion_url": "https://www.notion.so/349aa45a3f1381ada827ef6258943acd",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "滝子通一丁目福祉施設",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d3ab56de879ff0b954",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
