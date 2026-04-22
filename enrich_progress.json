@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 269,
-  "verified": 264,
-  "patched": 268,
+  "processed": 272,
+  "verified": 267,
+  "patched": 271,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 4222.2,
-  "eta_sec": 9040.8,
+  "elapsed_sec": 4264.0,
+  "eta_sec": 8982.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 269,
-      "patched": 268,
+      "processed": 272,
+      "patched": 271,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 269,
-    "key": "株式会社トヨタシステムズ",
+    "idx": 272,
+    "key": "ジャフコグループ株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Scalebase-346aa45a3f1381219841fadacf9f285a",
+      "key": "Scalebase株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138104a3b1d8d8f5f4532c",
+      "key": "株式会社ジャストキーマン",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13816f9866efba0f8797ac",
+      "key": "株式会社トヨタシステムズ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381a38ba0d344714fafde",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/CONOMINI-DESIGN-345aa45a3f138178bc9fda495c4644f2",
       "key": "CONOMINI DESIGN",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381a4a6fbc16c498b75a1",
-      "key": "中京起業サークル",
-      "note": "7項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/DCON-345aa45a3f1381f6a5f6e2b6ff8aea00",
-      "key": "全国高等専門学校 ディープラーニングコンテスト DCON実行委員会",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/iSGS-345aa45a3f1381519092f9b642a8d45d",
-      "key": "株式会社iSGSインベストメントワークス",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
