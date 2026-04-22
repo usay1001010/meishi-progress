@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 344,
-  "verified": 338,
-  "patched": 343,
+  "processed": 347,
+  "verified": 341,
+  "patched": 346,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5333.7,
-  "eta_sec": 7767.9,
+  "elapsed_sec": 5373.3,
+  "eta_sec": 7711.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 344,
-      "patched": 343,
+      "processed": 347,
+      "patched": 346,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 344,
-    "key": "株式会社 ifoods",
+    "idx": 347,
+    "key": "ジャフコ グループ 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13813c9fecee040e497c2f",
+      "key": "グロービス・キャピタル・パートナーズ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SBI-345aa45a3f138101afcade626ca00afb",
+      "key": "SBIインベストメント株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/ifoods-349aa45a3f1381538cfbc3aae3e1f07c",
+      "key": "株式会社 ifoods",
+      "note": "7項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/344aa45a3f1381008292e755bd4a1ddb",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381a1a628fba03bc3f035",
       "key": "株式会社フュージョン",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381a08ffff4430e90741a",
-      "key": "株式会社バイオシルバー",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381218293eff9828456a1",
-      "key": "名古屋理研電具株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381908525e0569e083e2c",
-      "key": "株式会社環境新聞社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
