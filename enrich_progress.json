@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 409,
-  "verified": 401,
-  "patched": 408,
+  "processed": 412,
+  "verified": 404,
+  "patched": 411,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6307.9,
-  "eta_sec": 6724.3,
+  "elapsed_sec": 6349.6,
+  "eta_sec": 6673.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 409,
-      "patched": 408,
+      "processed": 412,
+      "patched": 411,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 409,
-    "key": "アソビュー株式会社",
+    "idx": 412,
+    "key": "公益財団法人 福島県産業振興センター",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b391fcd60a4a253b69",
+      "key": "とやまビジネスインキュベーション",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13818db184c9421757bcc3",
+      "key": "刈谷市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a89c9bf39b08cfac6d",
+      "key": "アソビュー株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381c19d6cd76bdd3fcd7a",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/One-Terrace-349aa45a3f1381d5a569f9b5d0e6c89c",
       "key": "株式会社 One Terrace",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381eca5b5d98aa1d78afd",
-      "key": "いちい信用金庫",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138138b398ee84f6ca547b",
-      "key": "株式会社ノバケア",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13816c874df7acb2d6ffcc",
-      "key": "株式会社ブライト・ヴィー",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
