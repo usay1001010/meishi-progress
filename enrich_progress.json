@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 84,
-  "verified": 81,
-  "patched": 82,
+  "processed": 87,
+  "verified": 84,
+  "patched": 85,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1520.0,
-  "eta_sec": 13770.7,
+  "elapsed_sec": 1560.6,
+  "eta_sec": 13596.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 84,
-      "patched": 82,
+      "processed": 87,
+      "patched": 85,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 84,
-    "key": "社会福祉法人市原寮",
+    "idx": 87,
+    "key": "株式会社 ナンブ",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 真誠会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381ce8b35cc61b22b194b",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "N.K.Cナーシングコアコーポレーション合同会社",
+      "notion_url": "https://www.notion.so/N-K-C-349aa45a3f138138a0a2cf1c4b0eb000",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人市原寮",
+      "notion_url": "https://www.notion.so/33aaa45a3f13815fa97dc534e9c99f93",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "医療法人 幸晴会",
       "notion_url": "https://www.notion.so/349aa45a3f1381afb9cce30d39b98eaf",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ビスカス",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f3ab8fd74d504adb59",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人 幸世会",
-      "notion_url": "https://www.notion.so/349aa45a3f13815796dadf804a1dfeb6",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 香西会",
-      "notion_url": "https://www.notion.so/349aa45a3f13815a920df60aab89ef70",
-      "note": "9項目"
     }
   ]
 }
