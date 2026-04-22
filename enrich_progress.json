@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 203,
-  "verified": 199,
-  "patched": 202,
+  "processed": 206,
+  "verified": 202,
+  "patched": 205,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3107.4,
-  "eta_sec": 9827.3,
+  "elapsed_sec": 3150.6,
+  "eta_sec": 9772.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 203,
-      "patched": 202,
+      "processed": 206,
+      "patched": 205,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 203,
-    "key": "株式会社NEWRECT",
+    "idx": 206,
+    "key": "株式会社 メイドー",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/codeless-technology-345aa45a3f138156a9cfc9ecb8260583",
+      "key": "codeless technology 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138128860fd0bb2971745b",
+      "key": "トヨタ自動車株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/NEWRECT-349aa45a3f13815bb0f9df024eced99e",
+      "key": "株式会社NEWRECT",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/AlphaDrive-349aa45a3f1381879aefc43dd7dba723",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381bea69cedfeb64e89a0",
       "key": "中央建託株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138169850dca9d5a516a09",
-      "key": "日刊工業新聞社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/MTG-Ventures-Inc-349aa45a3f13817c94dde0f0e3359301",
-      "key": "MTG Ventures,Inc.",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/AMEX-349aa45a3f1381c289f1c6e71bdc5da4",
-      "key": "セゾンAMEX",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
