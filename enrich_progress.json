@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 407,
-  "verified": 399,
-  "patched": 406,
+  "processed": 409,
+  "verified": 401,
+  "patched": 408,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6277.2,
-  "eta_sec": 6755.3,
+  "elapsed_sec": 6307.9,
+  "eta_sec": 6724.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 407,
-      "patched": 406,
+      "processed": 409,
+      "patched": 408,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 407,
-    "key": "DriveZ",
+    "idx": 409,
+    "key": "アソビュー株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381c19d6cd76bdd3fcd7a",
+      "key": "株式会社 医学書院",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/DriveZ-349aa45a3f1381df8106e82925e3b160",
+      "key": "DriveZ",
+      "note": "6項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b292b4e12670a2b5b2",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13816c874df7acb2d6ffcc",
       "key": "株式会社ブライト・ヴィー",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13818b99eedc9701fcdad5",
-      "key": "株式会社 グッドツリー",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13815a9023ccc5b5306732",
-      "key": "シューペルブリアン株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
