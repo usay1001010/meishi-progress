@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 478,
-  "verified": 470,
-  "patched": 477,
+  "processed": 480,
+  "verified": 472,
+  "patched": 479,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7322.6,
-  "eta_sec": 5622.2,
+  "elapsed_sec": 7353.6,
+  "eta_sec": 5591.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 478,
-      "patched": 477,
+      "processed": 480,
+      "patched": 479,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 478,
-    "key": "セコム株式会社",
+    "idx": 480,
+    "key": "名城大学附属高等学校",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13812cbbc8ffdbe39e7e9d",
+      "key": "株式会社ゼロワンブースターキャピタル",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e5be1be5408e751173",
+      "key": "セコム株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/EY-349aa45a3f1381d58337f973528db891",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f138105ab2cc4e0ece479a2",
       "key": "東京大学協創プラットフォーム開発株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13817e955ff62cdc6029b4",
-      "key": "株式会社マイスター・ギルド",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/KeyWeave-347aa45a3f1381eb8497dc86eb40766e",
-      "key": "株式会社KeyWeave",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
