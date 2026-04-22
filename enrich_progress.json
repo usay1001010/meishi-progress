@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 122,
-  "verified": 114,
-  "patched": 119,
+  "processed": 123,
+  "verified": 115,
+  "patched": 120,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2203.6,
-  "eta_sec": 13059.0,
+  "elapsed_sec": 2238.4,
+  "eta_sec": 13139.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 122,
-      "patched": 119,
+      "processed": 123,
+      "patched": 120,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,19 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 122,
-    "key": "社会福祉法人 さくら会",
+    "idx": 123,
+    "key": "株式会社マザアス",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 さくら会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b8bc3adaea17882d59",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -436,14 +444,6 @@
       "key": "株式会社 ニチイ学館",
       "notion_url": "https://www.notion.so/33aaa45a3f1381a69155cc69f80ec05a",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 元気村",
-      "notion_url": "https://www.notion.so/349aa45a3f13814b9e3de0b8df7d814e",
-      "note": "9項目"
     }
   ]
 }
