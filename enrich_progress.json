@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 464,
-  "verified": 456,
-  "patched": 463,
+  "processed": 466,
+  "verified": 458,
+  "patched": 465,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7090.9,
-  "eta_sec": 5822.5,
+  "elapsed_sec": 7125.7,
+  "eta_sec": 5795.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 464,
-      "patched": 463,
+      "processed": 466,
+      "patched": 465,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 464,
-    "key": "日東工業株式会社",
+    "idx": 466,
+    "key": "CityCamp株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e4978cc0d05ee59cdf",
+      "key": "株式会社ハーベスト・クロップス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138149827ed086e9864a0c",
+      "key": "日東工業株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13817eafccc2d2749715fe",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/AI-349aa45a3f13816dafc3e28efed70bb6",
       "key": "一般社団法人 AIロボット協会",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dca754c490e4c0ccb5",
-      "key": "独立行政法人 国立高等専門学校機構 群馬工業高等専門学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381b19d4dd74cf9b0acac",
-      "key": "内閣官房",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
