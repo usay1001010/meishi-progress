@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 296,
-  "verified": 250,
-  "patched": 244,
+  "processed": 298,
+  "verified": 252,
+  "patched": 246,
   "unchanged": 6,
   "failed": 31,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5274.6,
-  "eta_sec": 9782.9,
+  "elapsed_sec": 5308.8,
+  "eta_sec": 9744.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 101,
-      "patched": 69,
+      "processed": 103,
+      "patched": 71,
       "not_found": 0,
       "failed": 31
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 296,
-    "key": "アシックス・ベンチャーズ株式会社",
+    "idx": 298,
+    "key": "税理士法人 中央総研",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社セイノー商事",
+      "notion_url": "https://www.notion.so/345aa45a3f1381499476cbc103241f68",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "アシックス・ベンチャーズ株式会社",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e4a438f0a6494f009a",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -396,20 +412,6 @@
       "key": "富山高専専本郷キャンパス",
       "notion_url": "https://www.notion.so/349aa45a3f13816aa3cccf38662e4b93",
       "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "呉工業高等専門学校",
-      "notion_url": "https://www.notion.so/349aa45a3f13817088dad2ce9562323d",
-      "note": "9項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社 Tol Nexus",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, コンサルティング"
     }
   ]
 }
