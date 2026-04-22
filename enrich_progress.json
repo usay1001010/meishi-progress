@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 35,
-  "verified": 34,
-  "patched": 34,
+  "processed": 37,
+  "verified": 36,
+  "patched": 36,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 471.9,
-  "eta_sec": 10921.8,
+  "elapsed_sec": 508.5,
+  "eta_sec": 11104.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 35,
-      "patched": 34,
+      "processed": 37,
+      "patched": 36,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 35,
-    "key": "株式会社 LOZI",
+    "idx": 37,
+    "key": "株式会社プレゼンス・メディカル",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e2a6c9eaee2eca0c3c",
+      "key": "株式会社 エフトス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/LOZI-349aa45a3f1381108d83d40201a511f7",
+      "key": "株式会社 LOZI",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381648523de6c3be7ea7a",
