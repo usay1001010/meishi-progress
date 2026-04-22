@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 100,
-  "verified": 97,
-  "patched": 98,
+  "processed": 101,
+  "verified": 98,
+  "patched": 99,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1800.3,
-  "eta_sec": 13412.0,
+  "elapsed_sec": 1850.1,
+  "eta_sec": 13628.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 100,
-      "patched": 98,
+      "processed": 101,
+      "patched": 99,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,19 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 100,
-    "key": "株式会社 安 里",
+    "idx": 101,
+    "key": "医療法人 純正会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 安 里",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b18fa0d4f484760d51",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -436,14 +444,6 @@
       "key": "株式会社 豊田ほっとかん",
       "notion_url": "https://www.notion.so/33aaa45a3f1381f89c08f03f680a99f5",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "GOOD LIFE",
-      "notion_url": "https://www.notion.so/GOOD-LIFE-349aa45a3f13816189d4df8c5aeaaa9b",
-      "note": "9項目"
     }
   ]
 }
