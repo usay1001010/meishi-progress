@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 228,
-  "verified": 223,
-  "patched": 227,
+  "processed": 231,
+  "verified": 226,
+  "patched": 230,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3541.8,
-  "eta_sec": 9584.5,
+  "elapsed_sec": 3583.7,
+  "eta_sec": 9525.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 228,
-      "patched": 227,
+      "processed": 231,
+      "patched": 230,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 228,
-    "key": "株式会社タナベコンサルティング",
+    "idx": 231,
+    "key": "慶應義塾大学大学院 メディアデザイン研究科附属研究所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/WCS-349aa45a3f1381fc957bc259824f14ba",
+      "key": "株式会社WCS",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381c9ac0bd4fe80717e98",
+      "key": "石川県",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a68d37f65236ec13e7",
+      "key": "株式会社タナベコンサルティング",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381d8b3aff6f6423fe229",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f138155bf60c5955c69a192",
       "key": "裾野市役所",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/AZAPA-349aa45a3f138179b222c175c28fc28a",
-      "key": "AZAPA 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138117a506c21b7f5bffc9",
-      "key": "神田須田町二丁目町会",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13811581fcfa4311e8e5fc",
-      "key": "有限会社 中澤硝子店",
-      "note": "8項目",
       "action": "patched",
       "phase": "sh"
     }
