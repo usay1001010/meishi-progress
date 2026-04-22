@@ -5,24 +5,39 @@
   "force": false,
   "mode": "overwrite",
   "total": 158,
-  "processed": 0,
-  "verified": 0,
+  "processed": 2,
+  "verified": 1,
   "patched": 0,
-  "unchanged": 0,
+  "unchanged": 1,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": null,
-  "eta_sec": null,
+  "elapsed_sec": 31.3,
+  "eta_sec": 2444.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 0,
+      "processed": 2,
       "patched": 0,
       "not_found": 0,
       "failed": 0
     }
   },
-  "current": null,
-  "recent": []
+  "current": {
+    "patched": false,
+    "phase": "kkaku",
+    "verified": false,
+    "idx": 2,
+    "key": "株式会社 SOYOKAZE"
+  },
+  "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "note": "8項目",
+      "action": "dry-run",
+      "key": "株式会社アルバ",
+      "notion_url": ""
+    }
+  ]
 }
