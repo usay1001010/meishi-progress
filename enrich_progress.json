@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 292,
-  "verified": 247,
-  "patched": 241,
+  "processed": 294,
+  "verified": 249,
+  "patched": 243,
   "unchanged": 6,
   "failed": 30,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5202.6,
-  "eta_sec": 9852.8,
+  "elapsed_sec": 5241.6,
+  "eta_sec": 9823.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 97,
-      "patched": 66,
+      "processed": 99,
+      "patched": 68,
       "not_found": 0,
       "failed": 30
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 292,
-    "key": "株式会社富士ワールド",
+    "idx": 294,
+    "key": "エー・アイ・キャピタル株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "Bayfront Partners",
+      "notion_url": "https://www.notion.so/Bayfront-Partners-349aa45a3f138190987cd5b96f921d7a",
+      "note": "6項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社富士ワールド",
+      "notion_url": "https://www.notion.so/345aa45a3f138124b793df84e1b2e32f",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -393,20 +409,6 @@
       "action": "patched",
       "key": "NECソリューションイノベータ株式会社",
       "notion_url": "https://www.notion.so/NEC-345aa45a3f1381578a58fb6d5e89e783",
-      "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社 セブン＆アイ・ネットメディア",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: システム開発, ITサービス"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "東京大学",
-      "notion_url": "https://www.notion.so/349aa45a3f138173b1c0f008bf571858",
       "note": "10項目"
     }
   ]
