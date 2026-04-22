@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 385,
-  "verified": 378,
-  "patched": 384,
+  "processed": 388,
+  "verified": 381,
+  "patched": 387,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5960.4,
-  "eta_sec": 7121.5,
+  "elapsed_sec": 6009.0,
+  "eta_sec": 7077.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 385,
-      "patched": 384,
+      "processed": 388,
+      "patched": 387,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 385,
-    "key": "みはたま株式会社",
+    "idx": 388,
+    "key": "豊田市",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381199d98cc598fb0ddc9",
+      "key": "刈谷イノベーション推進プラットフォーム",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381c294bef52cd9adf152",
+      "key": "三谷産業株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381aaadd3d7fb5e76bc31",
+      "key": "みはたま株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Prime-Partners-Inc-349aa45a3f13812e8bfbc27d9ea9f0ed",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/Dress-Code-345aa45a3f138106a802c3df1d97e159",
       "key": "Dress Code 株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13810abedcd1bc385b28d4",
-      "key": "クレイジーゼロ株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/FriSTi-349aa45a3f138130be20d8cdee6e7ba7",
-      "key": "FriSTi",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138123b8c6c3f2d690cd68",
-      "key": "国立研究開発法人 情報通信研究機構",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
