@@ -5,27 +5,27 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 158,
-  "verified": 150,
-  "patched": 155,
+  "processed": 160,
+  "verified": 152,
+  "patched": 157,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2788.7,
-  "eta_sec": 12125.6,
+  "elapsed_sec": 2830.5,
+  "eta_sec": 12117.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
       "processed": 158,
-      "patched": 155,
+      "patched": 156,
       "not_found": 0,
       "failed": 0
     },
     "office": {
       "total": 37,
-      "processed": 0,
-      "patched": 0,
+      "processed": 2,
+      "patched": 1,
       "not_found": 0,
       "failed": 0
     },
@@ -38,13 +38,29 @@
     }
   },
   "current": {
-    "phase": "kkaku",
+    "phase": "office",
     "patched": false,
-    "idx": 158,
-    "key": "株式会社ミライプロジェクト",
+    "idx": 160,
+    "key": "ニチイ学館 / GENBA SMILE Lab",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "長寿メディカル株式会社 / 訪問介護ステーション",
+      "notion_url": "https://www.notion.so/349aa45a3f13811ea167d2ac45406dd8",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ミライプロジェクト",
+      "notion_url": "https://www.notion.so/349aa45a3f138184860ef0f1ee481446",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "株式会社 mei-mei",
       "notion_url": "https://www.notion.so/mei-mei-349aa45a3f1381e3aa9fc8955742a00d",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "SUNCARE HOLDINGS株式会社",
-      "notion_url": "https://www.notion.so/SUNCARE-HOLDINGS-349aa45a3f1381a6825cc259dfd8c478",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人Flower",
-      "notion_url": "https://www.notion.so/Flower-349aa45a3f1381c5ac11cf4b27862bc2",
       "note": "8項目"
     }
   ]
