@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 156,
-  "verified": 153,
-  "patched": 155,
+  "processed": 159,
+  "verified": 156,
+  "patched": 158,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2366.5,
-  "eta_sec": 10452.2,
+  "elapsed_sec": 2406.2,
+  "eta_sec": 10381.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 156,
-      "patched": 155,
+      "processed": 159,
+      "patched": 158,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 156,
-    "key": "中央建託株式会社",
+    "idx": 159,
+    "key": "株式会社 ケアモンスター",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/PARTNERS-FUND-349aa45a3f1381c29affd0eb9ca25a0e",
+      "key": "PARTNERS FUND",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f4862ac26e4cb7d3d2",
+      "key": "仙台高等専門学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381bea69cedfeb64e89a0",
+      "key": "中央建託株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138169850dca9d5a516a09",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/labo-349aa45a3f13815f82f2fc4150ddd478",
       "key": "山県-labo",
       "note": "2項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/On-Co-349aa45a3f13812cb789e5818ac0acd0",
-      "key": "株式会社 On-Co",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Leaps-349aa45a3f13813e9b02efae1e62c932",
-      "key": "株式会社 Leaps",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Blank-349aa45a3f1381818ab9eff389a426b1",
-      "key": "株式会社Blank",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
