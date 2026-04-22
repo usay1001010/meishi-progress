@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 329,
-  "verified": 323,
-  "patched": 328,
+  "processed": 332,
+  "verified": 326,
+  "patched": 331,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5143.4,
-  "eta_sec": 8066.8,
+  "elapsed_sec": 5181.0,
+  "eta_sec": 8005.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 329,
-      "patched": 328,
+      "processed": 332,
+      "patched": 331,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 329,
-    "key": "株式会社はんぽさき",
+    "idx": 332,
+    "key": "株式会社ミナカノ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138179b860c904854690d0",
+      "key": "福井県",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/XRice-345aa45a3f1381c8a8d1cda4fa18718b",
+      "key": "株式会社XRice",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138195b43cff41a12c9c3f",
+      "key": "株式会社はんぽさき",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381588ebdcb62c768371f",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381208e78f126c903e8bf",
       "key": "東海旅客鉄道株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13815c951ceb896f0b95a0",
-      "key": "百十四銀行",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b28647e2bb60bf79e0",
-      "key": "ボンとらや",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/BLANCO-349aa45a3f138157965ff09ebf064cd5",
-      "key": "株式会社 BLANCO",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
