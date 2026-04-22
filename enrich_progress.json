@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 209,
-  "verified": 205,
-  "patched": 208,
+  "processed": 211,
+  "verified": 207,
+  "patched": 210,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3210.8,
-  "eta_sec": 9770.7,
+  "elapsed_sec": 3260.0,
+  "eta_sec": 9795.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 209,
-      "patched": 208,
+      "processed": 211,
+      "patched": 210,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 209,
-    "key": "cake factory",
+    "idx": 211,
+    "key": "ひまわりネットワーク株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/in-Cruises-349aa45a3f1381e38287fab9e0c435ae",
+      "key": "in Cruises",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/cake-factory-349aa45a3f1381499bb7e3ce5e0fda11",
+      "key": "cake factory",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13816abaaec3b463f393a7",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f138196841fc7b9c0b0fba8",
       "key": "株式会社スズケン",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f138176b05fed7c9f84e6cb",
-      "key": "リコージャパン株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e5b38bf4a44ec05f18",
-      "key": "株式会社 ケアモンスター",
-      "note": "8項目",
       "action": "patched",
       "phase": "sh"
     }
