@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 123,
-  "verified": 120,
-  "patched": 122,
+  "processed": 126,
+  "verified": 123,
+  "patched": 125,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1858.4,
-  "eta_sec": 10908.7,
+  "elapsed_sec": 1904.5,
+  "eta_sec": 10867.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 123,
-      "patched": 122,
+      "processed": 126,
+      "patched": 125,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 123,
-    "key": "翁玉川屋株式会社",
+    "idx": 126,
+    "key": "pinnovation",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/MON-345aa45a3f1381a29ae0de5b1d2b36c5",
+      "key": "蔵カフェ MON",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/B-Inc-349aa45a3f138100b43bf6dca9a297cd",
+      "key": "株式会社 B Inc. ビーインク",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138111949efd742353396f",
+      "key": "翁玉川屋株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381beb980e13c39184398",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138175bc47dc0b7800f845",
       "key": "株式会社みずほ銀行",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381749731fdbda72c45df",
-      "key": "とっとりキャピタル株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/TOM-JAPAN-349aa45a3f13816499e1fac585c03ca0",
-      "key": "TOM JAPAN",
-      "note": "5項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/ONETRIP-349aa45a3f1381119c84d29f347ab7c5",
-      "key": "ONETRIP",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
