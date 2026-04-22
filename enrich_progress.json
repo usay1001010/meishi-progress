@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 192,
-  "verified": 180,
-  "patched": 172,
+  "processed": 194,
+  "verified": 182,
+  "patched": 174,
   "unchanged": 6,
   "failed": 0,
   "low_confidence": 11,
   "not_found": 13,
-  "elapsed_sec": 3543.0,
-  "eta_sec": 12049.8,
+  "elapsed_sec": 3575.5,
+  "eta_sec": 11998.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,8 +24,8 @@
     },
     "office": {
       "total": 37,
-      "processed": 34,
-      "patched": 16,
+      "processed": 36,
+      "patched": 18,
       "not_found": 13,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 192,
-    "key": "合同会社訪問介護人生らくらく / 訪問介護人生らくらく",
+    "idx": 194,
+    "key": "社会福祉法人 豊川市社会福祉協議会 / 豊川市東部福祉相談センター",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "社会福祉法人 美竹会 / みその居宅介護支援事業所",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a48f61deecb25c18b7",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "合同会社訪問介護人生らくらく / 訪問介護人生らくらく",
+      "notion_url": "https://www.notion.so/349aa45a3f13813993d6c23dc01f2d30",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 希清軒傳六会",
       "notion_url": "https://www.notion.so/349aa45a3f138170ad82e06c3ae50423",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 ニチイケアパレス",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381549e65ce57ddfdc9ea",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ふれあいの里",
-      "notion_url": "https://www.notion.so/349aa45a3f13813ca4e2fd1e02687d25",
       "note": "8項目"
     }
   ]
