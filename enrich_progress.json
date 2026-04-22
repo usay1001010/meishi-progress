@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 206,
-  "verified": 191,
-  "patched": 182,
+  "processed": 208,
+  "verified": 192,
+  "patched": 183,
   "unchanged": 6,
-  "failed": 3,
+  "failed": 4,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3769.8,
-  "eta_sec": 11693.6,
+  "elapsed_sec": 3800.3,
+  "eta_sec": 11638.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,34 @@
     },
     "sh": {
       "total": 650,
-      "processed": 11,
-      "patched": 7,
+      "processed": 13,
+      "patched": 8,
       "not_found": 0,
-      "failed": 3
+      "failed": 4
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 206,
-    "key": "株式会社CairoPlus",
+    "idx": 208,
+    "key": "合同会社 テックスタンドJAPAN",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "日本経済新聞社",
+      "notion_url": "https://www.notion.so/349aa45a3f13817c989edfcb129761a2",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社CairoPlus",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, 製造DX"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -422,22 +436,6 @@
       "key": "株式会社ミライプロジェクト",
       "notion_url": "https://www.notion.so/349aa45a3f138184860ef0f1ee481446",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 豊川市社会福祉協議会",
-      "notion_url": "https://www.notion.so/349aa45a3f138176a23af4e8ae017b3f",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 美竹会",
-      "notion_url": "https://www.notion.so/349aa45a3f138149babef5775107d141",
-      "note": "9項目"
     }
   ]
 }
