@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 63,
-  "verified": 61,
-  "patched": 62,
+  "processed": 65,
+  "verified": 63,
+  "patched": 64,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1243.4,
-  "eta_sec": 15434.5,
+  "elapsed_sec": 1275.5,
+  "eta_sec": 15306.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 63,
-      "patched": 62,
+      "processed": 65,
+      "patched": 64,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 63,
-    "key": "株式会社モノクローム"
+    "idx": 65,
+    "key": "株式会社Yoii"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/sikm-346aa45a3f138192a7fddd2f31896e86",
+      "status": "ok",
+      "note": "10項目",
+      "key": "sikm株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f1381ff8244cf1cd42d17e7",
+      "status": "ok",
+      "note": "9項目",
+      "key": "株式会社モノクローム",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/345aa45a3f1381599cfdd1ff5e54c338",
@@ -427,22 +443,6 @@
       "status": "ok",
       "note": "9項目",
       "key": "株式会社 Tol Nexus",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/346aa45a3f1381f590dce689f827523c",
-      "status": "ok",
-      "note": "9項目",
-      "key": "クウジット株式会社",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/349aa45a3f138118a260f0caba9d4f0d",
-      "status": "ok",
-      "note": "9項目",
-      "key": "株式会社 セブン＆アイ・ネットメディア",
       "action": "patched"
     }
   ]
