@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 257,
-  "verified": 225,
-  "patched": 218,
+  "processed": 260,
+  "verified": 228,
+  "patched": 221,
   "unchanged": 6,
   "failed": 18,
   "low_confidence": 13,
   "not_found": 14,
-  "elapsed_sec": 4632.7,
-  "eta_sec": 10599.4,
+  "elapsed_sec": 4679.8,
+  "eta_sec": 10529.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 62,
-      "patched": 43,
+      "processed": 65,
+      "patched": 46,
       "not_found": 0,
       "failed": 18
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 257,
-    "key": "大矢伝動精機株式会社",
+    "idx": 260,
+    "key": "シンニチ互業株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "愛知県中小企業青年中央会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381048feac4a6df9f373f",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "一般社団法人ものづくりパートナーズ",
+      "notion_url": "https://www.notion.so/345aa45a3f13818e8f96c6094a6e63c7",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "大矢伝動精機株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f13814daffae076f05b6745",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -394,28 +418,6 @@
       "key": "(有)名古屋タイトルデザインセンター",
       "notion_url": "https://www.notion.so/349aa45a3f1381aca563de7d2210d205",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "愛知信用金庫",
-      "notion_url": "https://www.notion.so/345aa45a3f1381beb510f4f22d7af86e",
-      "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "合同会社 テックスタンドJAPAN",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: IT機器販売, ドローンレンタル"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "日本経済新聞社",
-      "notion_url": "https://www.notion.so/349aa45a3f13817c989edfcb129761a2",
-      "note": "10項目"
     }
   ]
 }
