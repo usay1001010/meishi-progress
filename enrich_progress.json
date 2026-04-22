@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 396,
-  "verified": 388,
-  "patched": 395,
+  "processed": 398,
+  "verified": 390,
+  "patched": 397,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6121.1,
-  "eta_sec": 6940.3,
+  "elapsed_sec": 6153.8,
+  "eta_sec": 6911.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 396,
-      "patched": 395,
+      "processed": 398,
+      "patched": 397,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 396,
-    "key": "レガシープロジェクツ株式会社",
+    "idx": 398,
+    "key": "栗田工業株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/TOKYO-KIRABOSHI-FINANCIAL-GROUP-349aa45a3f1381d09232ce93f2d94857",
+      "key": "TOKYO KIRABOSHI FINANCIAL GROUP",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381feb31cc7ece29e9825",
+      "key": "レガシープロジェクツ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381359e7be15957268ec7",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/epiST-Ventures-345aa45a3f1381aabf83d6b339bed4a9",
       "key": "epiST Ventures 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13816aa1ead6c09b68e80b",
-      "key": "ジャフコ グループ 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13813c9fecee040e497c2f",
-      "key": "グロービス・キャピタル・パートナーズ株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
