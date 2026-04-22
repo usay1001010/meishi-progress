@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 171,
-  "verified": 161,
-  "patched": 162,
+  "processed": 173,
+  "verified": 163,
+  "patched": 164,
   "unchanged": 4,
   "failed": 0,
   "low_confidence": 9,
   "not_found": 4,
-  "elapsed_sec": 3068.7,
-  "eta_sec": 12095.2,
+  "elapsed_sec": 3100.7,
+  "eta_sec": 12044.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,8 +24,8 @@
     },
     "office": {
       "total": 37,
-      "processed": 13,
-      "patched": 6,
+      "processed": 15,
+      "patched": 8,
       "not_found": 4,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 171,
-    "key": "サンケア杜の里株式会社 / 訪問介護",
+    "idx": 173,
+    "key": "医療法人社団 大和会 / おうち診療所 西新井",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "社会福祉法人 刈谷市社会福祉協議会 / 訪問介護事業所",
+      "notion_url": "https://www.notion.so/349aa45a3f138102b0a0c821c29ff8bf",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "サンケア杜の里株式会社 / 訪問介護",
+      "notion_url": "https://www.notion.so/349aa45a3f1381419cfdf272764add5f",
+      "note": "11項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -428,22 +444,6 @@
       "key": "株式会社マザアス",
       "notion_url": "https://www.notion.so/349aa45a3f13816680f9cdab8419e022",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 さくら会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b8bc3adaea17882d59",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社いるてと",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381ca98d5c7d10fc79146",
-      "note": "9項目"
     }
   ]
 }
