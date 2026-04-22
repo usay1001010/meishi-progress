@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 49,
-  "verified": 47,
-  "patched": 48,
+  "processed": 51,
+  "verified": 49,
+  "patched": 50,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 844.4,
-  "eta_sec": 13718.0,
+  "elapsed_sec": 894.6,
+  "eta_sec": 13927.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 49,
-      "patched": 48,
+      "processed": 51,
+      "patched": 50,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 49,
-    "key": "有限会社ミヤビサポート",
+    "idx": 51,
+    "key": "株式会社 豊田ほっとかん",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "GOOD LIFE",
+      "notion_url": "https://www.notion.so/GOOD-LIFE-349aa45a3f13816189d4df8c5aeaaa9b",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "有限会社ミヤビサポート",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e385f6f85101cfde86",
+      "note": "7項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
