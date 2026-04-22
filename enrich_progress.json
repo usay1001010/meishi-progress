@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 155,
-  "verified": 147,
-  "patched": 152,
+  "processed": 158,
+  "verified": 150,
+  "patched": 155,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2745.4,
-  "eta_sec": 12221.3,
+  "elapsed_sec": 2788.7,
+  "eta_sec": 12125.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 155,
-      "patched": 152,
+      "processed": 158,
+      "patched": 155,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 155,
-    "key": "合同会社訪問介護人生らくらく",
+    "idx": 158,
+    "key": "株式会社ミライプロジェクト",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 豊川市社会福祉協議会",
+      "notion_url": "https://www.notion.so/349aa45a3f138176a23af4e8ae017b3f",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 美竹会",
+      "notion_url": "https://www.notion.so/349aa45a3f138149babef5775107d141",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "合同会社訪問介護人生らくらく",
+      "notion_url": "https://www.notion.so/349aa45a3f1381c19c1bd9a0ac6ca030",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "社会福祉法人Flower",
       "notion_url": "https://www.notion.so/Flower-349aa45a3f1381c5ac11cf4b27862bc2",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 スパーテル",
-      "notion_url": "https://www.notion.so/349aa45a3f1381728ab4da3a90590e50",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社mei-mei",
-      "notion_url": "https://www.notion.so/mei-mei-33aaa45a3f13812bb4fdd913b5cd11ec",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "empty",
-      "key": "四ツ谷グループ",
-      "notion_url": "",
-      "note": "0項目"
     }
   ]
 }
