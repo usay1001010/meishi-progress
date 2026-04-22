@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 369,
-  "verified": 363,
-  "patched": 368,
+  "processed": 371,
+  "verified": 364,
+  "patched": 370,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 5,
+  "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5713.4,
-  "eta_sec": 7370.1,
+  "elapsed_sec": 5748.5,
+  "eta_sec": 7344.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 369,
-      "patched": 368,
+      "processed": 371,
+      "patched": 370,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 369,
-    "key": "公益財団法人介護労働安定センター",
+    "idx": 371,
+    "key": "公益財団法人 東京都中小企業振興公社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138168a441eca6c39ff131",
+      "key": "一般社団法人日本単独居宅介護支援事業所協会",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a4955cf76453e2e154",
+      "key": "公益財団法人介護労働安定センター",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138168893fc427a2a31fc7",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/YORIDO-349aa45a3f1381ae9e40eaad5df1686b",
       "key": "YORIDO",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/DMM-com-349aa45a3f1381ba91a5e11254b5a5ed",
-      "key": "合同会社 DMM.com",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/T-T-Adviser-349aa45a3f13812c8868ecef497125ff",
-      "key": "合同会社 T・T Adviser",
-      "note": "8項目",
       "action": "patched",
       "phase": "sh"
     }
