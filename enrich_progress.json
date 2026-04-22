@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 83,
-  "verified": 81,
-  "patched": 82,
+  "processed": 85,
+  "verified": 83,
+  "patched": 84,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1263.4,
-  "eta_sec": 11599.2,
+  "elapsed_sec": 1296.0,
+  "eta_sec": 11587.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 83,
-      "patched": 82,
+      "processed": 85,
+      "patched": 84,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 83,
-    "key": "官民連携事業研究所",
+    "idx": 85,
+    "key": "株式会社 大丸松坂屋百貨店",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
+      "key": "VENTURE CAFÉ TOKYO",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a9b70df82fa2bb6a75",
+      "key": "官民連携事業研究所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381af8fe2e49a43be951a",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/LOZI-349aa45a3f1381108d83d40201a511f7",
       "key": "株式会社 LOZI",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381648523de6c3be7ea7a",
-      "key": "株式会社ボードルア",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381b69050ccf9608fd41c",
-      "key": "岡谷鋼機株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
