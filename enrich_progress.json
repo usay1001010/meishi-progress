@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 99,
-  "verified": 96,
-  "patched": 97,
+  "processed": 100,
+  "verified": 97,
+  "patched": 98,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1768.0,
-  "eta_sec": 13322.8,
+  "elapsed_sec": 1800.3,
+  "eta_sec": 13412.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 99,
-      "patched": 97,
+      "processed": 100,
+      "patched": 98,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,19 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 99,
-    "key": "株式会社コンフォート",
+    "idx": 100,
+    "key": "株式会社 安 里",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社コンフォート",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381ab8850d35cb6636460",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -436,14 +444,6 @@
       "key": "GOOD LIFE",
       "notion_url": "https://www.notion.so/GOOD-LIFE-349aa45a3f13816189d4df8c5aeaaa9b",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "有限会社ミヤビサポート",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e385f6f85101cfde86",
-      "note": "7項目"
     }
   ]
 }
