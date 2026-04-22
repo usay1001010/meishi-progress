@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 94,
-  "verified": 91,
-  "patched": 92,
+  "processed": 96,
+  "verified": 93,
+  "patched": 94,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1674.6,
-  "eta_sec": 13379.1,
+  "elapsed_sec": 1707.4,
+  "eta_sec": 13321.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 94,
-      "patched": 92,
+      "processed": 96,
+      "patched": 94,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 94,
-    "key": "愛知県厚生農業協同組合連合会",
+    "idx": 96,
+    "key": "合同会社 P-BEANS",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 エンドレスロード",
+      "notion_url": "https://www.notion.so/349aa45a3f1381de8819fd906392540a",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "愛知県厚生農業協同組合連合会",
+      "notion_url": "https://www.notion.so/349aa45a3f138132bf47ff6a228fa221",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "日本ライフケアソリューションズ 株式会社",
       "notion_url": "https://www.notion.so/349aa45a3f138103ac7bf06d772cd3c1",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人信愛会",
-      "notion_url": "https://www.notion.so/349aa45a3f138124b46ff29fc4a25475",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "ハピリス",
-      "notion_url": "https://www.notion.so/349aa45a3f1381419018efc291462f0b",
       "note": "8項目"
     }
   ]
