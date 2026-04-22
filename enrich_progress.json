@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 196,
-  "verified": 184,
-  "patched": 175,
+  "processed": 199,
+  "verified": 185,
+  "patched": 176,
   "unchanged": 6,
-  "failed": 0,
+  "failed": 2,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3626.2,
-  "eta_sec": 12007.2,
+  "elapsed_sec": 3660.4,
+  "eta_sec": 11882.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,40 @@
     },
     "sh": {
       "total": 650,
-      "processed": 1,
-      "patched": 0,
+      "processed": 4,
+      "patched": 1,
       "not_found": 0,
-      "failed": 0
+      "failed": 2
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 196,
-    "key": "株式会社ビーブリッド",
+    "idx": 199,
+    "key": "株式会社 八神製作所",
     "verified": false
   },
   "recent": [
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社ジョシュ",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 医療介護DX, 情報連携プラットフォーム"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社NTTデータ",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: システムインテグレーション, ITサービス"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社ビーブリッド",
+      "notion_url": "https://www.notion.so/345aa45a3f1381b782cdff424faf98f6",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -420,30 +440,6 @@
       "key": "株式会社ウィルグループ",
       "notion_url": "https://www.notion.so/349aa45a3f13815fad3ad46ddc8a9287",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ウィルオブ・ワーク",
-      "notion_url": "https://www.notion.so/349aa45a3f1381c08810d00d3d83a505",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 幸会",
-      "notion_url": "https://www.notion.so/349aa45a3f13811fafedf091329eb22f",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 兼六福祉社会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381399bb3e422c63cde94",
-      "note": "9項目"
     }
   ]
 }
