@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 17,
-  "verified": 16,
-  "patched": 16,
+  "processed": 20,
+  "verified": 19,
+  "patched": 19,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 298.7,
-  "eta_sec": 14547.1,
+  "elapsed_sec": 350.1,
+  "eta_sec": 14440.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 17,
-      "patched": 16,
+      "processed": 20,
+      "patched": 19,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 17,
-    "key": "医療法人 並木会",
+    "idx": 20,
+    "key": "株式会社i&fホールディングス",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人ふたば福祉会",
+      "notion_url": "https://www.notion.so/349aa45a3f13819abf5ed2cccdbd8bb4",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "一般財団法人 太田総合病院",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a89e5cd1effa3719d9",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人 並木会",
+      "notion_url": "https://www.notion.so/33aaa45a3f138158b1c7d8971e52c664",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
