@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 106,
-  "verified": 104,
-  "patched": 105,
+  "processed": 108,
+  "verified": 106,
+  "patched": 107,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1597.0,
-  "eta_sec": 11133.5,
+  "elapsed_sec": 1634.3,
+  "eta_sec": 11152.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 106,
-      "patched": 105,
+      "processed": 108,
+      "patched": 107,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 106,
-    "key": "株式会社Blank",
+    "idx": 108,
+    "key": "株式会社 On-Co",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Leaps-349aa45a3f13813e9b02efae1e62c932",
+      "key": "株式会社 Leaps",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Blank-349aa45a3f1381818ab9eff389a426b1",
+      "key": "株式会社Blank",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Activ8-349aa45a3f138186b1afc9387494b935",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/GOAT-trip-347aa45a3f13819caeabc8efb42dfd37",
       "key": "GOAT trip株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381ebaca2c5962ed2a069",
-      "key": "中部電力株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381838e4cd80b99e52a72",
-      "key": "株式会社 ひびき精機",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
