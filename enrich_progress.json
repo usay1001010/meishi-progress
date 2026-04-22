@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 230,
-  "verified": 206,
-  "patched": 198,
+  "processed": 232,
+  "verified": 208,
+  "patched": 200,
   "unchanged": 6,
   "failed": 11,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 4144.6,
-  "eta_sec": 11082.2,
+  "elapsed_sec": 4184.9,
+  "eta_sec": 11057.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 35,
-      "patched": 23,
+      "processed": 37,
+      "patched": 25,
       "not_found": 0,
       "failed": 11
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 230,
-    "key": "株式会社 新東通信",
+    "idx": 232,
+    "key": "日本放送協会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "参議院",
+      "notion_url": "https://www.notion.so/344aa45a3f1381a28b18ea8bd382168c",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 新東通信",
+      "notion_url": "https://www.notion.so/345aa45a3f13814cb923d82f092f5d43",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -406,22 +422,6 @@
       "key": "株式会社ベネッセスタイルケアグループ / 新宿本社",
       "notion_url": "",
       "note": "4項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "社会福祉法人「ゼノ」 / JOBプラスはんど",
-      "notion_url": "",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "株式会社 Ki・Zu・Na / つなぐ訪問看護 リハビリステーション",
-      "notion_url": "https://www.notion.so/349aa45a3f1381149a42dbb55f2dfa76",
-      "note": "10項目"
     }
   ]
 }
