@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 281,
-  "verified": 275,
-  "patched": 280,
+  "processed": 283,
+  "verified": 277,
+  "patched": 282,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4437.2,
-  "eta_sec": 8906.1,
+  "elapsed_sec": 4471.3,
+  "eta_sec": 8879.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 281,
-      "patched": 280,
+      "processed": 283,
+      "patched": 282,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 281,
-    "key": "百十四銀行",
+    "idx": 283,
+    "key": "careplussolutions株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381208e78f126c903e8bf",
+      "key": "東海旅客鉄道株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13815c951ceb896f0b95a0",
+      "key": "百十四銀行",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b28647e2bb60bf79e0",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13812ebd01e3b035755e46",
       "key": "株式会社北陸レジャー",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/FURAZOA-349aa45a3f13812ea28dedc402007ea2",
-      "key": "株式会社FURAZOA",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381fba469d07782c58182",
-      "key": "慶應義塾大学大学院 メディアデザイン研究科附属研究所",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
