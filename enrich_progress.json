@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 87,
-  "verified": 84,
-  "patched": 85,
+  "processed": 89,
+  "verified": 86,
+  "patched": 87,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1560.6,
-  "eta_sec": 13596.6,
+  "elapsed_sec": 1596.6,
+  "eta_sec": 13562.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 87,
-      "patched": 85,
+      "processed": 89,
+      "patched": 87,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 87,
-    "key": "株式会社 ナンブ",
+    "idx": 89,
+    "key": "一般社団法人 拠",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 キート",
+      "notion_url": "https://www.notion.so/349aa45a3f138198b0e6df89faa17088",
+      "note": "7項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 ナンブ",
+      "notion_url": "https://www.notion.so/349aa45a3f138171b30fc159422b01b3",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "株式会社 碧介護サービス",
       "notion_url": "https://www.notion.so/349aa45a3f1381b8b29adfbaf37e45ca",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 恩賜財団 愛知県同胞援護会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e7b3c2cd93b3b493d3",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人 幸晴会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381afb9cce30d39b98eaf",
       "note": "8項目"
     }
   ]
