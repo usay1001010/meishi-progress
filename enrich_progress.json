@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 199,
-  "verified": 185,
-  "patched": 176,
+  "processed": 201,
+  "verified": 187,
+  "patched": 178,
   "unchanged": 6,
   "failed": 2,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3660.4,
-  "eta_sec": 11882.4,
+  "elapsed_sec": 3691.3,
+  "eta_sec": 11826.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 4,
-      "patched": 1,
+      "processed": 6,
+      "patched": 3,
       "not_found": 0,
       "failed": 2
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 199,
-    "key": "株式会社 八神製作所",
+    "idx": 201,
+    "key": "ホームエクスプレス",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 オープンハウス・ディベロップメント",
+      "notion_url": "https://www.notion.so/349aa45a3f1381699b61e713f2ae1346",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 八神製作所",
+      "notion_url": "https://www.notion.so/346aa45a3f1381a88916c6912514b517",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -423,22 +439,6 @@
       "action": "patched",
       "key": "株式会社 波の女",
       "notion_url": "https://www.notion.so/349aa45a3f13818face1efdf183bf995",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "ALSOK介護株式会社",
-      "notion_url": "https://www.notion.so/ALSOK-349aa45a3f1381bd958dd0176722c782",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ウィルグループ",
-      "notion_url": "https://www.notion.so/349aa45a3f13815fad3ad46ddc8a9287",
       "note": "8項目"
     }
   ]
