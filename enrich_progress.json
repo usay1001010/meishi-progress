@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 2,
-  "verified": 1,
-  "patched": 1,
+  "processed": 5,
+  "verified": 4,
+  "patched": 4,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 34.9,
-  "eta_sec": 14705.9,
+  "elapsed_sec": 78.0,
+  "eta_sec": 13099.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 2,
-      "patched": 1,
+      "processed": 5,
+      "patched": 4,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 2,
-    "key": "株式会社 SOYOKAZE",
+    "idx": 5,
+    "key": "株式会社ベネッセスタイルケア",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 なごや福祉施設協会",
+      "notion_url": "https://www.notion.so/349aa45a3f13815ea6a1f96db1b96f48",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "一般社団法人 福祉のまどぐち",
+      "notion_url": "https://www.notion.so/349aa45a3f138109a657f58895e6e93c",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 SOYOKAZE",
+      "notion_url": "https://www.notion.so/SOYOKAZE-349aa45a3f138149b772c26e5503c57b",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
