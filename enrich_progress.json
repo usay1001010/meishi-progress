@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 188,
-  "verified": 176,
+  "processed": 190,
+  "verified": 178,
   "patched": 171,
   "unchanged": 6,
   "failed": 0,
   "low_confidence": 11,
-  "not_found": 10,
-  "elapsed_sec": 3452.9,
-  "eta_sec": 12066.9,
+  "not_found": 12,
+  "elapsed_sec": 3501.4,
+  "eta_sec": 12070.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,9 +24,9 @@
     },
     "office": {
       "total": 37,
-      "processed": 30,
+      "processed": 32,
       "patched": 15,
-      "not_found": 10,
+      "not_found": 12,
       "failed": 0
     },
     "sh": {
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 188,
-    "key": "社会福祉法人 郡上市社会福祉協議会 / すみれ作業所",
+    "idx": 190,
+    "key": "合同会社Think Body Japan / リハビリフィットネス訪問看護ステーション守山",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "株式会社ラシエル / 大阪オフィス",
+      "notion_url": "",
+      "note": "4項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "社会福祉法人 郡上市社会福祉協議会 / すみれ作業所",
+      "notion_url": "",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "株式会社トリニティパートナーズ",
       "notion_url": "https://www.notion.so/349aa45a3f1381d28082f0973b6fe8c2",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "Plus Fukushi 株式会社",
-      "notion_url": "https://www.notion.so/Plus-Fukushi-349aa45a3f1381678c92e597ac101cae",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 Think Life",
-      "notion_url": "https://www.notion.so/Think-Life-349aa45a3f13811b822acfb8314b1802",
       "note": "9項目"
     }
   ]
