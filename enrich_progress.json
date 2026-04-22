@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 31,
-  "verified": 30,
-  "patched": 30,
+  "processed": 34,
+  "verified": 33,
+  "patched": 33,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 555.2,
-  "eta_sec": 14579.3,
+  "elapsed_sec": 609.2,
+  "eta_sec": 14531.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 31,
-      "patched": 30,
+      "processed": 34,
+      "patched": 33,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 31,
-    "key": "医療法人 光生会",
+    "idx": 34,
+    "key": "社会福祉法人 香西会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 アイシア",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d59a8ae83db0f2b7a8",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社アイシア",
+      "notion_url": "https://www.notion.so/33aaa45a3f13813998e0e36b4aad4865",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人 光生会",
+      "notion_url": "https://www.notion.so/349aa45a3f13818abd37d3addbc9c59a",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
