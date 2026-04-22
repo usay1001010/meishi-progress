@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 195,
-  "verified": 191,
-  "patched": 194,
+  "processed": 197,
+  "verified": 193,
+  "patched": 196,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2995.3,
-  "eta_sec": 9984.4,
+  "elapsed_sec": 3025.9,
+  "eta_sec": 9953.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 195,
-      "patched": 194,
+      "processed": 197,
+      "patched": 196,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 195,
-    "key": "株式会社カチノデ",
+    "idx": 197,
+    "key": "株式会社 OKBキャピタル",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13815c8d30cadb42a7b460",
+      "key": "学校法人 椙山女学園",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f138170a841eda472355361",
+      "key": "株式会社カチノデ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Crystal-349aa45a3f13812a8f3de7968936f963",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/CBC-345aa45a3f13813cbfa0d787b35cd4d4",
       "key": "株式会社CBCテレビ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13819496e6e47a89edb29c",
-      "key": "石田国際特許事務所",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381318d65ce00bdd61ac3",
-      "key": "株式会社ユーザベース",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
