@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 18,
-  "verified": 17,
-  "patched": 17,
+  "processed": 20,
+  "verified": 19,
+  "patched": 19,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 261.5,
-  "eta_sec": 12016.7,
+  "elapsed_sec": 293.6,
+  "eta_sec": 12109.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 18,
-      "patched": 17,
+      "processed": 20,
+      "patched": 19,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 18,
-    "key": "株式会社Brownie"
+    "idx": 20,
+    "key": "株式会社HERITAGE"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f138175a9c9ed78f77aa922",
+      "status": "ok",
+      "note": "10項目",
+      "key": "社会保険労務士法人 ふたば",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Brownie-349aa45a3f1381b6946ce2ed7ffeddea",
+      "status": "ok",
+      "note": "9項目",
+      "key": "株式会社Brownie",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/STUDIO-POLAR-S-349aa45a3f1381719f16ff15d5b9d331",
