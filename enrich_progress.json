@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 22,
-  "verified": 21,
-  "patched": 21,
+  "processed": 25,
+  "verified": 24,
+  "patched": 24,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 343.4,
-  "eta_sec": 12846.8,
+  "elapsed_sec": 387.4,
+  "eta_sec": 12706.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 22,
-      "patched": 21,
+      "processed": 25,
+      "patched": 24,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 22,
-    "key": "I'mbesideyou Inc."
+    "idx": 25,
+    "key": "株式会社 日経BP"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/STATION-Ai-345aa45a3f13819fa9aedadf005818f0",
+      "status": "ok",
+      "note": "10項目",
+      "key": "STATION Ai 株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/IMOM-349aa45a3f1381b08f0cd7a968d9436b",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社IMOM",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/I-mbesideyou-Inc-349aa45a3f13816e968ce0ca64714574",
+      "status": "ok",
+      "note": "9項目",
+      "key": "I'mbesideyou Inc.",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/344aa45a3f13811292c0ef31e758be52",
