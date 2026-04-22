@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 15,
-  "verified": 14,
-  "patched": 14,
+  "processed": 17,
+  "verified": 16,
+  "patched": 16,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 240.5,
-  "eta_sec": 13305.5,
+  "elapsed_sec": 298.7,
+  "eta_sec": 14547.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 15,
-      "patched": 14,
+      "processed": 17,
+      "patched": 16,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 15,
-    "key": "社会医療法人 名古屋記念財団",
+    "idx": 17,
+    "key": "医療法人 並木会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社メディエール",
+      "notion_url": "https://www.notion.so/349aa45a3f1381deaa77cdfb52947241",
+      "note": "6項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会医療法人 名古屋記念財団",
+      "notion_url": "https://www.notion.so/c72aa45a3f138359a710019d52b73df7",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
