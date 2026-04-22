@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 450,
-  "verified": 442,
-  "patched": 449,
+  "processed": 453,
+  "verified": 445,
+  "patched": 452,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6866.3,
-  "eta_sec": 6027.1,
+  "elapsed_sec": 6913.7,
+  "eta_sec": 5982.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 450,
-      "patched": 449,
+      "processed": 453,
+      "patched": 452,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 450,
-    "key": "FUSOグループホールディングス株式会社",
+    "idx": 453,
+    "key": "株式会社 NHKエンタープライズ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e9a688c4af19da0392",
+      "key": "ヒューマンネットワーク高専",
+      "note": "5項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138152851bf53a1ba7594c",
+      "key": "ライオン株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/FUSO-345aa45a3f1381a3b782ce292f9667a4",
+      "key": "FUSOグループホールディングス株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13810a8063e2e04c673af9",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f13818981becb8f447c00aa",
       "key": "株式会社プライムパートナーズ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13818a93c5f681d00eba7c",
-      "key": "株式会社ロング・タイム・キャピタル",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/mihatama-349aa45a3f1381ea86dddc6f7b21f9d6",
-      "key": "mihatama",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13818780bed4923fd806d2",
-      "key": "株式会社 十六銀行",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
