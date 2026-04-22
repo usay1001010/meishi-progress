@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 148,
-  "verified": 140,
-  "patched": 145,
+  "processed": 151,
+  "verified": 143,
+  "patched": 148,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2626.8,
-  "eta_sec": 12371.0,
+  "elapsed_sec": 2669.8,
+  "eta_sec": 12270.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 148,
-      "patched": 145,
+      "processed": 151,
+      "patched": 148,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 148,
-    "key": "株式会社ウィルオブ・ワーク",
+    "idx": 151,
+    "key": "株式会社 波の女",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "ALSOK介護株式会社",
+      "notion_url": "https://www.notion.so/ALSOK-349aa45a3f1381bd958dd0176722c782",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ウィルグループ",
+      "notion_url": "https://www.notion.so/349aa45a3f13815fad3ad46ddc8a9287",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ウィルオブ・ワーク",
+      "notion_url": "https://www.notion.so/349aa45a3f1381c08810d00d3d83a505",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -419,30 +443,6 @@
       "action": "patched",
       "key": "医療法人 純正会",
       "notion_url": "https://www.notion.so/349aa45a3f1381759211f5e4960d6c43",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 安 里",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b18fa0d4f484760d51",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社コンフォート",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381ab8850d35cb6636460",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 こすもす",
-      "notion_url": "https://www.notion.so/349aa45a3f1381798cd3e393f0102643",
       "note": "9項目"
     }
   ]
