@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 298,
+  "processed": 299,
   "verified": 252,
   "patched": 246,
   "unchanged": 6,
-  "failed": 31,
+  "failed": 32,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5308.8,
-  "eta_sec": 9744.6,
+  "elapsed_sec": 5340.9,
+  "eta_sec": 9752.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,26 @@
     },
     "sh": {
       "total": 650,
-      "processed": 103,
+      "processed": 104,
       "patched": 71,
       "not_found": 0,
-      "failed": 31
+      "failed": 32
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 298,
-    "key": "税理士法人 中央総研",
+    "idx": 299,
+    "key": "株式会社 星医療酸器",
     "verified": false
   },
   "recent": [
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "税理士法人 中央総研",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 税務会計, 経営コンサルティング"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -404,14 +410,6 @@
       "key": "雷山高専",
       "notion_url": "https://www.notion.so/349aa45a3f1381ed8fe1ffc8226fa356",
       "note": "2項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "富山高専専本郷キャンパス",
-      "notion_url": "https://www.notion.so/349aa45a3f13816aa3cccf38662e4b93",
-      "note": "10項目"
     }
   ]
 }
