@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 120,
-  "verified": 117,
-  "patched": 119,
+  "processed": 123,
+  "verified": 120,
+  "patched": 122,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1820.2,
-  "eta_sec": 10997.2,
+  "elapsed_sec": 1858.4,
+  "eta_sec": 10908.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 120,
-      "patched": 119,
+      "processed": 123,
+      "patched": 122,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 120,
-    "key": "鳥取県商工労働部",
+    "idx": 123,
+    "key": "翁玉川屋株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381beb980e13c39184398",
+      "key": "パーソル ベンチャーパートナーズ合同会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138128b033c47cf9126f4e",
+      "key": "パーソル ベンチャーパートナーズ 合同会社",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13817cb67dc637880a20bc",
+      "key": "鳥取県商工労働部",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13811d8258dc3725ac7ca3",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/ONETRIP-349aa45a3f1381119c84d29f347ab7c5",
       "key": "ONETRIP",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381efa106ed7ce8c7a474",
-      "key": "大同大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/TEENS-ENTREPRENEURS-349aa45a3f1381daa46afeff90311448",
-      "key": "TEENS ENTREPRENEURS",
-      "note": "7項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138124add7da71c881e425",
-      "key": "国立大学法人 名古屋工業大学",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
