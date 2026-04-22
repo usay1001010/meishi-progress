@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 151,
-  "verified": 143,
-  "patched": 148,
+  "processed": 153,
+  "verified": 145,
+  "patched": 150,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2669.8,
-  "eta_sec": 12270.3,
+  "elapsed_sec": 2700.7,
+  "eta_sec": 12214.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 151,
-      "patched": 148,
+      "processed": 153,
+      "patched": 150,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 151,
-    "key": "株式会社 波の女",
+    "idx": 153,
+    "key": "社会福祉法人 和光会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ウェルヴィレッジ",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381c883f0d55c5693e289",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 波の女",
+      "notion_url": "https://www.notion.so/349aa45a3f13818face1efdf183bf995",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 愛徳社会",
       "notion_url": "https://www.notion.so/349aa45a3f1381578b87ff6f89e66b4f",
       "note": "1項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 北伸福祉会",
-      "notion_url": "https://www.notion.so/349aa45a3f13819eb38eff17c0e4428f",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人 純正会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381759211f5e4960d6c43",
-      "note": "9項目"
     }
   ]
 }
