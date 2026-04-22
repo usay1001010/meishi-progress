@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 49,
-  "verified": 47,
-  "patched": 48,
+  "processed": 52,
+  "verified": 50,
+  "patched": 51,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1068.3,
-  "eta_sec": 17354.7,
+  "elapsed_sec": 1100.5,
+  "eta_sec": 16782.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 49,
-      "patched": 48,
+      "processed": 52,
+      "patched": 51,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 49,
-    "key": "株式会社NAGARA"
+    "idx": 52,
+    "key": "BEENEXT Capital Management Pte. Ltd."
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f13810cad54c914396491f1",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社三井住友銀行",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/MCP-345aa45a3f1381e694e4d2cbf6639341",
+      "status": "ok",
+      "note": "10項目",
+      "key": "MCPアセット・マネジメント株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/NAGARA-345aa45a3f1381658d96cbbf36490239",
+      "status": "ok",
+      "note": "9項目",
+      "key": "株式会社NAGARA",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/Cargo-Robotics-349aa45a3f13815684cbe0dea6487a3b",
@@ -419,14 +443,6 @@
       "status": "ok",
       "note": "10項目",
       "key": "株式会社ジョシュ",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/NTT-345aa45a3f138181b442c201d2b0ae46",
-      "status": "ok",
-      "note": "10項目",
-      "key": "株式会社NTTデータ",
       "action": "patched"
     }
   ]
