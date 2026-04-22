@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 24,
-  "verified": 23,
-  "patched": 23,
+  "processed": 26,
+  "verified": 25,
+  "patched": 25,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 313.8,
-  "eta_sec": 10736.1,
+  "elapsed_sec": 349.2,
+  "eta_sec": 10999.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 24,
-      "patched": 23,
+      "processed": 26,
+      "patched": 25,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 24,
-    "key": "株式会社HEARTBEATS",
+    "idx": 26,
+    "key": "株式会社 ADLS",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SecureNavi-345aa45a3f13812b9adfd95bc301afc7",
+      "key": "SecureNavi株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/HEARTBEATS-345aa45a3f1381da9cb5ebec02e7b40a",
+      "key": "株式会社HEARTBEATS",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/bgrass-346aa45a3f13815b9bb7fd06ead1c65a",
