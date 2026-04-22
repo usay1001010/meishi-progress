@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 283,
-  "verified": 243,
-  "patched": 237,
+  "processed": 286,
+  "verified": 244,
+  "patched": 238,
   "unchanged": 6,
-  "failed": 25,
+  "failed": 27,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5048.1,
-  "eta_sec": 10024.9,
+  "elapsed_sec": 5086.8,
+  "eta_sec": 9942.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,40 @@
     },
     "sh": {
       "total": 650,
-      "processed": 88,
-      "patched": 62,
+      "processed": 91,
+      "patched": 63,
       "not_found": 0,
-      "failed": 25
+      "failed": 27
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 283,
-    "key": "株式会社 地域資源バンクNIU",
+    "idx": 286,
+    "key": "NOBUNAGAキャピタルビレッジ株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "岐阜県立飛騨高山高等学校",
+      "notion_url": "https://www.notion.so/345aa45a3f138153b4dbd71a8268cb10",
+      "note": "9項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社 Otono",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 観光IT, 音声コンテンツ制作"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社 地域資源バンクNIU",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 地域資源プロデュース, サイクルツーリズム, まちづくり"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -392,30 +412,6 @@
       "phase": "sh",
       "key": "株式会社ワイズ",
       "note": "APIResponseError: Invalid multi_select option, commas not allowed: ITソリューション, OA機器販売"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "一般社団法人 日本ディープラーニング協会",
-      "notion_url": "https://www.notion.so/346aa45a3f13814a94e6ca759bdba8c7",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "トピー工業株式会社",
-      "notion_url": "https://www.notion.so/345aa45a3f13818a88bdd43d8f8249de",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "香川高等専門学校",
-      "notion_url": "https://www.notion.so/345aa45a3f138116a1f8e94f04e66c1f",
-      "note": "10項目"
     }
   ]
 }
