@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 40,
-  "verified": 39,
-  "patched": 39,
+  "processed": 43,
+  "verified": 42,
+  "patched": 42,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 950.6,
-  "eta_sec": 19130.1,
+  "elapsed_sec": 986.1,
+  "eta_sec": 18392.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 40,
-      "patched": 39,
+      "processed": 43,
+      "patched": 42,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 40,
-    "key": "SHOGO OKAWA DESIGN"
+    "idx": 43,
+    "key": "東海東京証券"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Yobou-349aa45a3f1381ddb3f8f9f5d3f8f71d",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社 Yobou",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f1aa65f7043b4f56f1",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社 野村総合研究所",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/SHOGO-OKAWA-DESIGN-345aa45a3f138113ba3ee194cd0f0823",
+      "status": "ok",
+      "note": "5項目",
+      "key": "SHOGO OKAWA DESIGN",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/349aa45a3f13814c8d2ed66239481ed5",
