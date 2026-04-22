@@ -1,0 +1,28 @@
+{
+  "started_at": "2026-04-22 18:27:40",
+  "finished_at": null,
+  "dry_run": true,
+  "force": false,
+  "mode": "overwrite",
+  "total": 158,
+  "processed": 0,
+  "verified": 0,
+  "patched": 0,
+  "unchanged": 0,
+  "failed": 0,
+  "low_confidence": 0,
+  "not_found": 0,
+  "elapsed_sec": null,
+  "eta_sec": null,
+  "by_phase": {
+    "kkaku": {
+      "total": 158,
+      "processed": 0,
+      "patched": 0,
+      "not_found": 0,
+      "failed": 0
+    }
+  },
+  "current": null,
+  "recent": []
+}
