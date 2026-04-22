@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 164,
-  "verified": 155,
-  "patched": 157,
+  "processed": 165,
+  "verified": 156,
+  "patched": 158,
   "unchanged": 3,
   "failed": 0,
   "low_confidence": 8,
   "not_found": 3,
-  "elapsed_sec": 2935.8,
-  "eta_sec": 12190.8,
+  "elapsed_sec": 2967.2,
+  "eta_sec": 12228.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,8 +24,8 @@
     },
     "office": {
       "total": 37,
-      "processed": 6,
-      "patched": 1,
+      "processed": 7,
+      "patched": 2,
       "not_found": 3,
       "failed": 0
     },
@@ -40,11 +40,19 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 164,
-    "key": "株式会社ミトリ / 三鷹訪問介護ステーション, 三鷹訪問看護ステーション",
+    "idx": 165,
+    "key": "あいち中央農業協同組合 / 介護支援センター",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "株式会社ミトリ / 三鷹訪問介護ステーション, 三鷹訪問看護ステーション",
+      "notion_url": "https://www.notion.so/349aa45a3f13815480d7e57fc45e5d26",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -436,14 +444,6 @@
       "key": "株式会社ベネッセスタイルケアグループ",
       "notion_url": "https://www.notion.so/349aa45a3f13817b8635cf0766ab0e63",
       "note": "7項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人「ゼノ」",
-      "notion_url": "https://www.notion.so/349aa45a3f13819a94b1e84d61744b2d",
-      "note": "9項目"
     }
   ]
 }
