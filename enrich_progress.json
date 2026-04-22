@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 197,
-  "verified": 193,
-  "patched": 196,
+  "processed": 200,
+  "verified": 196,
+  "patched": 199,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3025.9,
-  "eta_sec": 9953.1,
+  "elapsed_sec": 3063.9,
+  "eta_sec": 9881.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 197,
-      "patched": 196,
+      "processed": 200,
+      "patched": 199,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 197,
-    "key": "株式会社 OKBキャピタル",
+    "idx": 200,
+    "key": "株式会社 電波新聞社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13810e99fde67c15cd2821",
+      "key": "三井住友海上キャピタル株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/OKB-SCLAMB-349aa45a3f138177a6c6dcfd7d895e4f",
+      "key": "OKB SCLAMB",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/OKB-349aa45a3f1381acad39f084f2a9a9a5",
+      "key": "株式会社 OKBキャピタル",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13815c8d30cadb42a7b460",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/Rehab-for-JAPAN-349aa45a3f138148895cfce782d735b3",
       "key": "株式会社 Rehab for JAPAN",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/SOMPO-346aa45a3f138166bc4aeb1bbe1948c3",
-      "key": "SOMPOケア株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Helppad-349aa45a3f138168aee0e9b73dd303a3",
-      "key": "Helppad",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/CBC-345aa45a3f13813cbfa0d787b35cd4d4",
-      "key": "株式会社CBCテレビ",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
