@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 313,
-  "verified": 259,
-  "patched": 254,
+  "processed": 316,
+  "verified": 262,
+  "patched": 257,
   "unchanged": 6,
   "failed": 38,
   "low_confidence": 15,
   "not_found": 14,
-  "elapsed_sec": 5601.0,
-  "eta_sec": 9519.9,
+  "elapsed_sec": 5646.8,
+  "eta_sec": 9453.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 118,
-      "patched": 79,
+      "processed": 121,
+      "patched": 82,
       "not_found": 0,
       "failed": 38
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 313,
-    "key": "セイコーソリューションズ株式会社",
+    "idx": 316,
+    "key": "株式会社ハイサーブウエノ",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "Psytech_life",
+      "notion_url": "https://www.notion.so/Psytech_life-349aa45a3f1381c2b746c9c37042769d",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社セントラル ユニ",
+      "notion_url": "https://www.notion.so/349aa45a3f13813aa28cca12a576ade0",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "セイコーソリューションズ株式会社",
+      "notion_url": "https://www.notion.so/345aa45a3f1381608d46dd9d3209ebaa",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -386,28 +410,6 @@
       "phase": "sh",
       "key": "I'mbesideyou Inc.",
       "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, コンサルティング"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "城南法律事務所",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 法律事務所, 弁理士業"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 クリエイティブ ネクサス",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f0aff4dafa8feefa6c",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "城南国際特許事務所",
-      "notion_url": "https://www.notion.so/347aa45a3f13819a80ecfcae48079a2d",
-      "note": "9項目"
     }
   ]
 }
