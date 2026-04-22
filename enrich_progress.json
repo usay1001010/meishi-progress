@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 153,
-  "verified": 145,
-  "patched": 150,
+  "processed": 155,
+  "verified": 147,
+  "patched": 152,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2700.7,
-  "eta_sec": 12214.9,
+  "elapsed_sec": 2745.4,
+  "eta_sec": 12221.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 153,
-      "patched": 150,
+      "processed": 155,
+      "patched": 152,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 153,
-    "key": "社会福祉法人 和光会",
+    "idx": 155,
+    "key": "合同会社訪問介護人生らくらく",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社プラーナ",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381d1a7f4c92bcfcf7d47",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 和光会",
+      "notion_url": "https://www.notion.so/349aa45a3f138162bd58c5e5263dfc4c",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "四ツ谷グループ",
       "notion_url": "",
       "note": "0項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "田原福祉グローバル専門学校",
-      "notion_url": "https://www.notion.so/349aa45a3f1381659c32ff1df60ab502",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 愛徳社会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381578b87ff6f89e66b4f",
-      "note": "1項目"
     }
   ]
 }
