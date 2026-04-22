@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 90,
-  "verified": 88,
-  "patched": 89,
+  "processed": 93,
+  "verified": 91,
+  "patched": 92,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1374.9,
-  "eta_sec": 11534.2,
+  "elapsed_sec": 1413.8,
+  "eta_sec": 11431.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 90,
-      "patched": 89,
+      "processed": 93,
+      "patched": 92,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 90,
-    "key": "刈谷商工会議所",
+    "idx": 93,
+    "key": "長岡京市",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138181987cf0ca75bf9567",
+      "key": "東海テレビ放送",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f13818ba39be5db7651e0a0",
+      "key": "碧海信用金庫",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138147892dd325778c3ee5",
+      "key": "刈谷商工会議所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381c79cd9c81229e09f99",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381708aaaf108ad63d09f",
       "key": "株式会社ファインドルート",
       "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dba957f96518bb6327",
-      "key": "株式会社 タマディック",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138150b4b1dee12a0401e5",
-      "key": "株式会社 三ッ知",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d7ba0efa9d11056710",
-      "key": "オカヤシステム",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
