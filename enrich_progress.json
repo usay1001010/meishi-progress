@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 382,
-  "verified": 375,
-  "patched": 381,
+  "processed": 385,
+  "verified": 378,
+  "patched": 384,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5903.3,
-  "eta_sec": 7155.1,
+  "elapsed_sec": 5960.4,
+  "eta_sec": 7121.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 382,
-      "patched": 381,
+      "processed": 385,
+      "patched": 384,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 382,
-    "key": "キャップジェミニ株式会社",
+    "idx": 385,
+    "key": "みはたま株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Prime-Partners-Inc-349aa45a3f13812e8bfbc27d9ea9f0ed",
+      "key": "株式会社プライムパートナーズ / Prime Partners, Inc.",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/FAST-GREAT-349aa45a3f13811d9d1ed1837e40fd9f",
+      "key": "株式会社FAST & GREAT",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381e19346cd507bec323d",
+      "key": "キャップジェミニ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Re-connect-345aa45a3f1381238167d98266998be3",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f138123b8c6c3f2d690cd68",
       "key": "国立研究開発法人 情報通信研究機構",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381e1b4f1ea213980009e",
-      "key": "愛知県信用保証協会",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381159b6bf3a2ebd8e5b8",
-      "key": "株式会社ザ・ファージ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13810ab0ffdc5a1f922d53",
-      "key": "株式会社ミナカノ",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
