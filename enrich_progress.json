@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 259,
-  "verified": 254,
-  "patched": 258,
+  "processed": 261,
+  "verified": 256,
+  "patched": 260,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 4072.9,
-  "eta_sec": 9215.1,
+  "elapsed_sec": 4104.9,
+  "eta_sec": 9184.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 259,
-      "patched": 258,
+      "processed": 261,
+      "patched": 260,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 259,
-    "key": "NPO法人タダカヨ",
+    "idx": 261,
+    "key": "株式会社Seamth",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Colibri-346aa45a3f1381c2aa4ae54c7209eebd",
+      "key": "Colibri合同会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/NPO-345aa45a3f1381ada889fd433c0dd89e",
+      "key": "NPO法人タダカヨ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381a899d7eb4ce337b16c",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f13814db08dc17bc980a14b",
       "key": "ひまわりネットワーク株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/in-Cruises-349aa45a3f1381e38287fab9e0c435ae",
-      "key": "in Cruises",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/cake-factory-349aa45a3f1381499bb7e3ce5e0fda11",
-      "key": "cake factory",
-      "note": "8項目",
       "action": "patched",
       "phase": "sh"
     }
