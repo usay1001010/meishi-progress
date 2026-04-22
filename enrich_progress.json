@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 247,
-  "verified": 219,
-  "patched": 211,
+  "processed": 250,
+  "verified": 221,
+  "patched": 214,
   "unchanged": 6,
   "failed": 15,
-  "low_confidence": 12,
+  "low_confidence": 13,
   "not_found": 14,
-  "elapsed_sec": 4415.9,
-  "eta_sec": 10691.0,
+  "elapsed_sec": 4457.9,
+  "eta_sec": 10609.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 52,
-      "patched": 36,
+      "processed": 55,
+      "patched": 39,
       "not_found": 0,
       "failed": 15
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 247,
-    "key": "呉工業高等専門学校",
+    "idx": 250,
+    "key": "100BANCH",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "雷山高専",
+      "notion_url": "https://www.notion.so/349aa45a3f1381ed8fe1ffc8226fa356",
+      "note": "2項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "富山高専専本郷キャンパス",
+      "notion_url": "https://www.notion.so/349aa45a3f13816aa3cccf38662e4b93",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "呉工業高等専門学校",
+      "notion_url": "https://www.notion.so/349aa45a3f13817088dad2ce9562323d",
+      "note": "9項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -394,26 +418,6 @@
       "key": "株式会社 オープンハウス・ディベロップメント",
       "notion_url": "https://www.notion.so/349aa45a3f1381699b61e713f2ae1346",
       "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 八神製作所",
-      "notion_url": "https://www.notion.so/346aa45a3f1381a88916c6912514b517",
-      "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社ジョシュ",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 医療介護DX, 情報連携プラットフォーム"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社NTTデータ",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: システムインテグレーション, ITサービス"
     }
   ]
 }
