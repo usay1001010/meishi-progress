@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 183,
-  "verified": 172,
-  "patched": 168,
+  "processed": 186,
+  "verified": 175,
+  "patched": 170,
   "unchanged": 5,
   "failed": 0,
   "low_confidence": 10,
-  "not_found": 9,
-  "elapsed_sec": 3336.8,
-  "eta_sec": 12070.8,
+  "not_found": 10,
+  "elapsed_sec": 3383.3,
+  "eta_sec": 11987.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,9 +24,9 @@
     },
     "office": {
       "total": 37,
-      "processed": 25,
-      "patched": 12,
-      "not_found": 9,
+      "processed": 28,
+      "patched": 14,
+      "not_found": 10,
       "failed": 0
     },
     "sh": {
@@ -40,11 +40,35 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 183,
-    "key": "株式会社ピド / 居宅介護支援事業所 ピド・ケアコンサル",
+    "idx": 186,
+    "key": "株式会社ミトリ / 三鳳訪問介護ステーション, 三鳳訪問看護ステーション",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "株式会社いるてと / カイゴいるてと",
+      "notion_url": "",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "TRINITY PARTNERS / 訪問介護 ランウェイ",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b580b6c2b0085a359e",
+      "note": "11項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "株式会社ピド / 居宅介護支援事業所 ピド・ケアコンサル",
+      "notion_url": "https://www.notion.so/349aa45a3f138119ab67fa83d7ce82de",
+      "note": "11項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -420,30 +444,6 @@
       "key": "合同会社 Think Body Japan",
       "notion_url": "https://www.notion.so/Think-Body-Japan-349aa45a3f13811fba5fe6772df2907a",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 西春日井福祉社会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381089316dedb2cdcd5b4",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 CareNation",
-      "notion_url": "https://www.notion.so/CareNation-349aa45a3f1381a29578e7cfe6f3a619",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ラシエル",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a5a50ff6db6904d150",
-      "note": "7項目"
     }
   ]
 }
