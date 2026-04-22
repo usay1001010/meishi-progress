@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 47,
-  "verified": 46,
-  "patched": 46,
+  "processed": 49,
+  "verified": 48,
+  "patched": 48,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 663.2,
-  "eta_sec": 11260.7,
+  "elapsed_sec": 703.6,
+  "eta_sec": 11430.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 47,
-      "patched": 46,
+      "processed": 49,
+      "patched": 48,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 47,
-    "key": "株式会社LX DESIGN",
+    "idx": 49,
+    "key": "こみかるユース福井",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13817683dfc642552ab990",
+      "key": "日本ムーブ株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/LX-DESIGN-347aa45a3f1381ae9b64ec84d7d21f2e",
+      "key": "株式会社LX DESIGN",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138114aabbf8bb79ef6b89",
