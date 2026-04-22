@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 110,
-  "verified": 107,
-  "patched": 109,
+  "processed": 113,
+  "verified": 110,
+  "patched": 112,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1670.3,
-  "eta_sec": 11160.6,
+  "elapsed_sec": 1705.2,
+  "eta_sec": 11046.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 110,
-      "patched": 109,
+      "processed": 113,
+      "patched": 112,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 110,
-    "key": "株式会社デンソー",
+    "idx": 113,
+    "key": "きらぼし銀行",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/EMOLVA-349aa45a3f138104b6b4f077824c993e",
+      "key": "株式会社 EMOLVA",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381a0951af44219aba2f2",
+      "key": "愛知県",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138180a1c7f8cbba2abded",
+      "key": "株式会社デンソー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/labo-349aa45a3f13815f82f2fc4150ddd478",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f138185b33fd97a77069b93",
       "key": "下関市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13814eb805c7273a4a2efa",
-      "key": "堺市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f138187be1ad53a14ce8d25",
-      "key": "名古屋銀行",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13810dae7ef1ee4b31e99f",
-      "key": "とっとりキャピタル 株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
