@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 306,
-  "verified": 255,
-  "patched": 249,
+  "processed": 308,
+  "verified": 257,
+  "patched": 251,
   "unchanged": 6,
   "failed": 36,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5492.2,
-  "eta_sec": 9674.2,
+  "elapsed_sec": 5523.0,
+  "eta_sec": 9629.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 111,
-      "patched": 74,
+      "processed": 113,
+      "patched": 76,
       "not_found": 0,
       "failed": 36
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 306,
-    "key": "一般財団法人 平林移動集団検診所",
+    "idx": 308,
+    "key": "加納経営事務所株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "至学館大学",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a89f82e0c5918fb84c",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "一般財団法人 平林移動集団検診所",
+      "notion_url": "https://www.notion.so/346aa45a3f1381ea8dfaf304d64bab2d",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -391,22 +407,6 @@
       "action": "patched",
       "key": "一般社団法人ものづくりパートナーズ",
       "notion_url": "https://www.notion.so/345aa45a3f13818e8f96c6094a6e63c7",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "大矢伝動精機株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f13814daffae076f05b6745",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社中島商店",
-      "notion_url": "https://www.notion.so/346aa45a3f1381fe9f8cfd3d8dfe7be1",
       "note": "10項目"
     }
   ]
