@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 412,
-  "verified": 404,
-  "patched": 411,
+  "processed": 415,
+  "verified": 407,
+  "patched": 414,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6349.6,
-  "eta_sec": 6673.3,
+  "elapsed_sec": 6388.6,
+  "eta_sec": 6619.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 412,
-      "patched": 411,
+      "processed": 415,
+      "patched": 414,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 412,
-    "key": "公益財団法人 福島県産業振興センター",
+    "idx": 415,
+    "key": "独立行政法人 国立高等専門学校機構 群馬工業高等専門学校",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381b19d4dd74cf9b0acac",
+      "key": "内閣官房",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138115a857df67b3f9223d",
+      "key": "慶應義塾大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13819eb441fac51c12a73b",
+      "key": "公益財団法人 福島県産業振興センター",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b391fcd60a4a253b69",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/KAERU-345aa45a3f13819db222e74244bc9eac",
       "key": "KAERU株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13816e934ee3f1230ceb61",
-      "key": "株式会社メディケアコラボ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138178ab96ec7c0adf488e",
-      "key": "名古屋理研電具 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/One-Terrace-349aa45a3f1381d5a569f9b5d0e6c89c",
-      "key": "株式会社 One Terrace",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
