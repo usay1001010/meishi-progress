@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 51,
-  "verified": 49,
-  "patched": 50,
+  "processed": 53,
+  "verified": 51,
+  "patched": 52,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 894.6,
-  "eta_sec": 13927.3,
+  "elapsed_sec": 928.7,
+  "eta_sec": 13878.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 51,
-      "patched": 50,
+      "processed": 53,
+      "patched": 52,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 51,
-    "key": "株式会社 豊田ほっとかん",
+    "idx": 53,
+    "key": "社会福祉法人 観寿々会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 麗寿会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dca077d894697cdce3",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 豊田ほっとかん",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381f89c08f03f680a99f5",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "一般社団法人 福祉のまどぐち",
       "notion_url": "https://www.notion.so/349aa45a3f138109a657f58895e6e93c",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 SOYOKAZE",
-      "notion_url": "https://www.notion.so/SOYOKAZE-349aa45a3f138149b772c26e5503c57b",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社アルバ",
-      "notion_url": "https://www.notion.so/33aaa45a3f13810fbb75f0a537103a0d",
-      "note": "9項目"
     }
   ]
 }
