@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 351,
-  "verified": 345,
-  "patched": 350,
+  "processed": 354,
+  "verified": 348,
+  "patched": 353,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5439.4,
-  "eta_sec": 7655.5,
+  "elapsed_sec": 5480.9,
+  "eta_sec": 7602.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 351,
-      "patched": 350,
+      "processed": 354,
+      "patched": 353,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 351,
-    "key": "常葉大学",
+    "idx": 354,
+    "key": "東京外国語大学大学院",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/NS-349aa45a3f1381db8195d644c2ae98e7",
+      "key": "NS イノベーションズ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381cab511d075e09dcf38",
+      "key": "財務アドバイザーオフィス",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13810a9f3af0dd82f99b0f",
+      "key": "常葉大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138158aa5cc3630fe35fd6",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138172b706cc6485c443d0",
       "key": "リコー・ジャパン 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13811f8e7eea36845cef61",
-      "key": "株式会社 医療給食",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381f4bb39cfe1582ba269",
-      "key": "三島市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/SysC-349aa45a3f1381e4a0c5eb61fafa43da",
-      "key": "SysC 株式会社 システムクリエイト",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
