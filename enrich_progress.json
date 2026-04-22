@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 153,
-  "verified": 150,
-  "patched": 152,
+  "processed": 156,
+  "verified": 153,
+  "patched": 155,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2320.6,
-  "eta_sec": 10495.7,
+  "elapsed_sec": 2366.5,
+  "eta_sec": 10452.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 153,
-      "patched": 152,
+      "processed": 156,
+      "patched": 155,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 153,
-    "key": "セゾンAMEX",
+    "idx": 156,
+    "key": "中央建託株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138169850dca9d5a516a09",
+      "key": "日刊工業新聞社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/MTG-Ventures-Inc-349aa45a3f13817c94dde0f0e3359301",
+      "key": "MTG Ventures,Inc.",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/AMEX-349aa45a3f1381c289f1c6e71bdc5da4",
+      "key": "セゾンAMEX",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13815a9a4fe21acff66cb3",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/Blank-349aa45a3f1381818ab9eff389a426b1",
       "key": "株式会社Blank",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Activ8-349aa45a3f138186b1afc9387494b935",
-      "key": "Activ8 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dba62cec1a00adeec3",
-      "key": "株式会社レクリエ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381429959c84ca7cb7d89",
-      "key": "経済産業省 北海道経済産業局",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
