@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 30,
-  "verified": 29,
-  "patched": 29,
+  "processed": 31,
+  "verified": 30,
+  "patched": 30,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 455.6,
-  "eta_sec": 12375.9,
+  "elapsed_sec": 783.2,
+  "eta_sec": 20566.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 30,
-      "patched": 29,
+      "processed": 31,
+      "patched": 30,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,18 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 30,
-    "key": "WAKON®"
+    "idx": 31,
+    "key": "エー・アイ・キャピタル株式会社"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/WAKON-349aa45a3f13811da37ced6204fe785f",
+      "status": "ok",
+      "note": "9項目",
+      "key": "WAKON®",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/345aa45a3f1381c3a4a1cc8cb0521a2d",
