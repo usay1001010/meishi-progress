@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 187,
-  "verified": 183,
-  "patched": 186,
+  "processed": 190,
+  "verified": 186,
+  "patched": 189,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2874.5,
-  "eta_sec": 10114.4,
+  "elapsed_sec": 2919.1,
+  "eta_sec": 10063.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 187,
-      "patched": 186,
+      "processed": 190,
+      "patched": 189,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 187,
-    "key": "積水化学工業 株式会社",
+    "idx": 190,
+    "key": "ジーコム株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Z-Works-349aa45a3f138146bd3cce1b54cfe29b",
+      "key": "株式会社 Z-Works",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381e09564e6a29e76d901",
+      "key": "名古屋商工会議所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381509d5ac03a4975acf2",
+      "key": "積水化学工業 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13812c8838ff026e42762e",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f13817e9194efdf6f63b865",
       "key": "岐阜商工信用組合",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/SoftBank-349aa45a3f13810b9982fd9062f0eef8",
-      "key": "SoftBank",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13812793b9f53511c9bc45",
-      "key": "株式会社 中部経済新聞社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f138171a6c1ce0355a28f35",
-      "key": "愛知県雇用労働相談センター",
-      "note": "8項目",
       "action": "patched",
       "phase": "sh"
     }
