@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 318,
-  "verified": 263,
-  "patched": 258,
+  "processed": 321,
+  "verified": 265,
+  "patched": 260,
   "unchanged": 6,
-  "failed": 39,
+  "failed": 40,
   "low_confidence": 15,
   "not_found": 14,
-  "elapsed_sec": 5681.0,
-  "eta_sec": 9414.7,
+  "elapsed_sec": 5719.5,
+  "eta_sec": 9336.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,42 @@
     },
     "sh": {
       "total": 650,
-      "processed": 123,
-      "patched": 83,
+      "processed": 126,
+      "patched": 85,
       "not_found": 0,
-      "failed": 39
+      "failed": 40
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 318,
-    "key": "奈良県立大学",
+    "idx": 321,
+    "key": "一般社団法人 全国設備業DX推進会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "ヤマシタ電気株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e392fad40d11281353",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "SHOGO OKAWA DESIGN",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: デザイン, アート"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "奈良県立大学",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dda9becd03afe9e110",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -388,28 +410,6 @@
       "key": "地域と人と未来株式会社",
       "notion_url": "https://www.notion.so/345aa45a3f1381f783c1e90bf576e5e2",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "Theta Times Ventures",
-      "notion_url": "https://www.notion.so/Theta-Times-Ventures-349aa45a3f13817fbbcbe910dbad5cb5",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "中部ニュービジネス協議会",
-      "notion_url": "https://www.notion.so/345aa45a3f138169b2adeee4c7c56125",
-      "note": "9項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社IMOM",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 就労支援, 飲食コンサルティング, カフェ運営"
     }
   ]
 }
