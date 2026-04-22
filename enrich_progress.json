@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 225,
-  "verified": 220,
-  "patched": 224,
+  "processed": 228,
+  "verified": 223,
+  "patched": 227,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3502.9,
-  "eta_sec": 9652.4,
+  "elapsed_sec": 3541.8,
+  "eta_sec": 9584.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 225,
-      "patched": 224,
+      "processed": 228,
+      "patched": 227,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 225,
-    "key": "株式会社CROSLAN",
+    "idx": 228,
+    "key": "株式会社タナベコンサルティング",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381d8b3aff6f6423fe229",
+      "key": "ヨシオ工業株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138119b7f1c1a60ce5689f",
+      "key": "テックランチャー株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/CROSLAN-347aa45a3f13815c998fd08e7f7698a5",
+      "key": "株式会社CROSLAN",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/MEDISY-349aa45a3f1381d998e7c84d3ca80a1b",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f13811581fcfa4311e8e5fc",
       "key": "有限会社 中澤硝子店",
       "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138168ae85ce1f79604905",
-      "key": "メンズショップコバヤシ",
-      "note": "7項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/GMO-345aa45a3f1381b69d17c3f324e74456",
-      "key": "GMOあおぞらネット銀行株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381beb314ed6b49938ae4",
-      "key": "株式会社ワイズマン",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
