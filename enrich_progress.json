@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 206,
-  "verified": 202,
-  "patched": 205,
+  "processed": 209,
+  "verified": 205,
+  "patched": 208,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3150.6,
-  "eta_sec": 9772.9,
+  "elapsed_sec": 3210.8,
+  "eta_sec": 9770.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 206,
-      "patched": 205,
+      "processed": 209,
+      "patched": 208,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 206,
-    "key": "株式会社 メイドー",
+    "idx": 209,
+    "key": "cake factory",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13816abaaec3b463f393a7",
+      "key": "一期一会",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b08908ef81e3a1b8e8",
+      "key": "麗澤瑞浪中学・高等学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13811a8d31dab24afb1976",
+      "key": "株式会社 メイドー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/codeless-technology-345aa45a3f138156a9cfc9ecb8260583",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381e5b38bf4a44ec05f18",
       "key": "株式会社 ケアモンスター",
       "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/PARTNERS-FUND-349aa45a3f1381c29affd0eb9ca25a0e",
-      "key": "PARTNERS FUND",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f4862ac26e4cb7d3d2",
-      "key": "仙台高等専門学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381bea69cedfeb64e89a0",
-      "key": "中央建託株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
