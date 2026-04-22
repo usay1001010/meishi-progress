@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 128,
-  "verified": 125,
-  "patched": 127,
+  "processed": 130,
+  "verified": 127,
+  "patched": 129,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1936.4,
-  "eta_sec": 10846.8,
+  "elapsed_sec": 1968.2,
+  "eta_sec": 10824.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 128,
-      "patched": 127,
+      "processed": 130,
+      "patched": 129,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 128,
-    "key": "株式会社技研サービス",
+    "idx": 130,
+    "key": "株式会社 経済界倶楽部",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138160909fe95f9cce383e",
+      "key": "株式会社 ビーブブリッド",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381608acfe5a25048c31a",
+      "key": "株式会社技研サービス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13813b9d4bca9e22473e24",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13818d8361f6097af5212d",
       "key": "愛知県東浦町",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/HASSYADAI-SOCIAL-349aa45a3f138103961fe3d64e16b0d3",
-      "key": "HASSYADAI SOCIAL",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f13811fa8c9f0c04ca5d187",
-      "key": "公益財団法人 愛知県健康づくり振興事業団",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
