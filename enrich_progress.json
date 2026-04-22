@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 231,
-  "verified": 226,
-  "patched": 230,
+  "processed": 233,
+  "verified": 228,
+  "patched": 232,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3583.7,
-  "eta_sec": 9525.4,
+  "elapsed_sec": 3618.7,
+  "eta_sec": 9505.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 231,
-      "patched": 230,
+      "processed": 233,
+      "patched": 232,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 231,
-    "key": "慶應義塾大学大学院 メディアデザイン研究科附属研究所",
+    "idx": 233,
+    "key": "株式会社北陸レジャー",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/FURAZOA-349aa45a3f13812ea28dedc402007ea2",
+      "key": "株式会社FURAZOA",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381fba469d07782c58182",
+      "key": "慶應義塾大学大学院 メディアデザイン研究科附属研究所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/WCS-349aa45a3f1381fc957bc259824f14ba",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381508f79fd8c680b638e",
       "key": "裾野市ケアマネ会",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f1381b1af49e56630607414",
-      "key": "裾野市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138155bf60c5955c69a192",
-      "key": "裾野市役所",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
