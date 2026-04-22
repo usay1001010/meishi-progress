@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 252,
-  "verified": 222,
-  "patched": 215,
+  "processed": 254,
+  "verified": 223,
+  "patched": 216,
   "unchanged": 6,
-  "failed": 16,
+  "failed": 17,
   "low_confidence": 13,
   "not_found": 14,
-  "elapsed_sec": 4495.5,
-  "eta_sec": 10578.7,
+  "elapsed_sec": 4530.1,
+  "eta_sec": 10540.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,34 @@
     },
     "sh": {
       "total": 650,
-      "processed": 57,
-      "patched": 40,
+      "processed": 59,
+      "patched": 41,
       "not_found": 0,
-      "failed": 16
+      "failed": 17
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 252,
-    "key": "STUDIO POLAR/S",
+    "idx": 254,
+    "key": "株式会社Brownie",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 三辻商店",
+      "notion_url": "https://www.notion.so/346aa45a3f13818da241f5b5358c6548",
+      "note": "9項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "STUDIO POLAR/S",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: アニメーション制作, 出版"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -401,22 +415,6 @@
       "action": "patched",
       "key": "中部経済産業局",
       "notion_url": "https://www.notion.so/349aa45a3f138141b0dec3333ac72b53",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社日本政策金融公庫",
-      "notion_url": "https://www.notion.so/345aa45a3f138145865af2ac37dbe6ee",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "岐阜信用金庫",
-      "notion_url": "https://www.notion.so/345aa45a3f138110849bcb324e28582c",
       "note": "10項目"
     }
   ]
