@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 475,
-  "verified": 467,
-  "patched": 474,
+  "processed": 478,
+  "verified": 470,
+  "patched": 477,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7280.2,
-  "eta_sec": 5670.9,
+  "elapsed_sec": 7322.6,
+  "eta_sec": 5622.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 475,
-      "patched": 474,
+      "processed": 478,
+      "patched": 477,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 475,
-    "key": "株式会社 丸菱製作所",
+    "idx": 478,
+    "key": "セコム株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/EY-349aa45a3f1381d58337f973528db891",
+      "key": "EY新日本 有限責任監査法人",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381c4b2c8d335ed7587f1",
+      "key": "企業組合フジヤマドローン",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138157b721d094bb1408e0",
+      "key": "株式会社 丸菱製作所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138197b6acc02d480594cf",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/KeyWeave-347aa45a3f1381eb8497dc86eb40766e",
       "key": "株式会社KeyWeave",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381f8b0b2ce388b3c5112",
-      "key": "愛知キャピタル株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13814caf0cc938fd95c3cd",
-      "key": "内閣府",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138138a253ff1c3ae6942f",
-      "key": "株式会社 京信 ソーシャル キャピタル",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
