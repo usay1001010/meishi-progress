@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 10,
-  "verified": 9,
-  "patched": 9,
+  "processed": 12,
+  "verified": 11,
+  "patched": 11,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 122.6,
-  "eta_sec": 10236.3,
+  "elapsed_sec": 154.2,
+  "eta_sec": 10706.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 10,
-      "patched": 9,
+      "processed": 12,
+      "patched": 11,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 10,
-    "key": "90 株式会社",
+    "idx": 12,
+    "key": "株式会社 電通総研",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f138114b852c614fd1e5db8",
+      "key": "パートナーサクセス株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/90-349aa45a3f13817c9e2cd17e27f5e578",
+      "key": "90 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381e88e62e8da9318c66b",
