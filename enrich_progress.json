@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 64,
-  "verified": 61,
-  "patched": 62,
+  "processed": 66,
+  "verified": 63,
+  "patched": 64,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1146.6,
-  "eta_sec": 13992.1,
+  "elapsed_sec": 1182.1,
+  "eta_sec": 13952.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 64,
-      "patched": 62,
+      "processed": 66,
+      "patched": 64,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 64,
-    "key": "社会福祉法人 みどりの里",
+    "idx": 66,
+    "key": "社会福祉法人 刈谷市社会福祉協議会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "サンケア杜の里株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f138199a1f0f208650d1957",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 みどりの里",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381a6b4fbfffbea67cf3d",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "株式会社メディエール",
       "notion_url": "https://www.notion.so/349aa45a3f1381deaa77cdfb52947241",
       "note": "6項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会医療法人 名古屋記念財団",
-      "notion_url": "https://www.notion.so/c72aa45a3f138359a710019d52b73df7",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ミトリ",
-      "notion_url": "https://www.notion.so/349aa45a3f13813685bec1fa3dbca3c4",
-      "note": "9項目"
     }
   ]
 }
