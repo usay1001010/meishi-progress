@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 25,
-  "verified": 24,
-  "patched": 24,
+  "processed": 27,
+  "verified": 26,
+  "patched": 26,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 427.6,
-  "eta_sec": 14026.8,
+  "elapsed_sec": 470.5,
+  "eta_sec": 14253.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 25,
-      "patched": 24,
+      "processed": 27,
+      "patched": 26,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 25,
-    "key": "株式会社 慶",
+    "idx": 27,
+    "key": "社会福祉法人あいち",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ナンブ",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381eca478c5adc810a3d3",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 慶",
+      "notion_url": "https://www.notion.so/349aa45a3f13813ba411ea6ebec6a1c4",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
