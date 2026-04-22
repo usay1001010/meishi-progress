@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 222,
-  "verified": 201,
-  "patched": 193,
+  "processed": 225,
+  "verified": 203,
+  "patched": 195,
   "unchanged": 6,
-  "failed": 8,
+  "failed": 9,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 4024.2,
-  "eta_sec": 11293.3,
+  "elapsed_sec": 4068.7,
+  "eta_sec": 11211.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,42 @@
     },
     "sh": {
       "total": 650,
-      "processed": 27,
-      "patched": 18,
+      "processed": 30,
+      "patched": 20,
       "not_found": 0,
-      "failed": 8
+      "failed": 9
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 222,
-    "key": "株式会社ビーシステム",
+    "idx": 225,
+    "key": "株式会社 TERRAISE",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "あいち銀行",
+      "notion_url": "https://www.notion.so/344aa45a3f13815cb576c3394633fdd5",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "KOMEHYO HOLDINGS",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 持株会社, リユース"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社ビーシステム",
+      "notion_url": "https://www.notion.so/344aa45a3f13814cb513e8cee47b546b",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -403,30 +425,6 @@
       "action": "patched",
       "key": "株式会社 安 里 / 東海橋苑居宅介護支援事業所",
       "notion_url": "https://www.notion.so/349aa45a3f138186bc42e6ec0c234bc9",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "社会福祉法人 昭徳会 / おかよし地域包括支援センター, みなよし地域包括支援センター",
-      "notion_url": "https://www.notion.so/349aa45a3f1381358b77e44904a5524b",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "医療法人社団 大和会 / おうち診療所 西新井",
-      "notion_url": "",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "社会福祉法人 刈谷市社会福祉協議会 / 訪問介護事業所",
-      "notion_url": "https://www.notion.so/349aa45a3f138102b0a0c821c29ff8bf",
       "note": "9項目"
     }
   ]
