@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 225,
-  "verified": 203,
-  "patched": 195,
+  "processed": 228,
+  "verified": 204,
+  "patched": 196,
   "unchanged": 6,
-  "failed": 9,
+  "failed": 11,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 4068.7,
-  "eta_sec": 11211.7,
+  "elapsed_sec": 4110.5,
+  "eta_sec": 11123.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,40 @@
     },
     "sh": {
       "total": 650,
-      "processed": 30,
-      "patched": 20,
+      "processed": 33,
+      "patched": 21,
       "not_found": 0,
-      "failed": 9
+      "failed": 11
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 225,
-    "key": "株式会社 TERRAISE",
+    "idx": 228,
+    "key": "株式会社TTK",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社あいちFGマーケティング",
+      "notion_url": "https://www.notion.so/FG-345aa45a3f1381e4b987fab1fa3b62e8",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "アートギャラリーショップ むらさきぐも",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: アートギャラリー, 雑貨販売"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社 TERRAISE",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI研修, AIコンサルティング"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -402,30 +422,6 @@
       "key": "アイエルサポート 株式会社 / 訪問看護ステーション 虹心, 生活介護 彩雲の館",
       "notion_url": "",
       "note": "0項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "医療法人 純正会 / 法人本部事務局",
-      "notion_url": "",
-      "note": "3項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "医療法人 純正会 / 法人事務局",
-      "notion_url": "",
-      "note": "3項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "株式会社 安 里 / 東海橋苑居宅介護支援事業所",
-      "notion_url": "https://www.notion.so/349aa45a3f138186bc42e6ec0c234bc9",
-      "note": "9項目"
     }
   ]
 }
