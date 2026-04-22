@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 46,
-  "verified": 44,
-  "patched": 45,
+  "processed": 49,
+  "verified": 47,
+  "patched": 48,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1028.4,
-  "eta_sec": 17863.4,
+  "elapsed_sec": 1068.3,
+  "eta_sec": 17354.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 46,
-      "patched": 45,
+      "processed": 49,
+      "patched": 48,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 46,
-    "key": "独立行政法人 日本貿易振興機構"
+    "idx": 49,
+    "key": "株式会社NAGARA"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Cargo-Robotics-349aa45a3f13815684cbe0dea6487a3b",
+      "status": "ok",
+      "note": "5項目",
+      "key": "Cargo Robotics",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Beyond-Next-Ventures-345aa45a3f13815aae63d125bb8f15ce",
+      "status": "ok",
+      "note": "9項目",
+      "key": "Beyond Next Ventures株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e590d9eac53764f23c",
+      "status": "ok",
+      "note": "10項目",
+      "key": "独立行政法人 日本貿易振興機構",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/Coalis-Inc-349aa45a3f13819a95ace5c0c0253b1c",
