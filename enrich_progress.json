@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 471,
-  "verified": 463,
-  "patched": 470,
+  "processed": 473,
+  "verified": 465,
+  "patched": 472,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7204.1,
-  "eta_sec": 5720.5,
+  "elapsed_sec": 7248.6,
+  "eta_sec": 5700.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 471,
-      "patched": 470,
+      "processed": 473,
+      "patched": 472,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 471,
-    "key": "静岡県",
+    "idx": 473,
+    "key": "行政書士かわいあい事務所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381c198e7c7309e2731ae",
+      "key": "市立沼津高校",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d0867ccda3ddde4774",
+      "key": "静岡県",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13812ab3bfe93803655fea",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/Let-Gift-349aa45a3f13818ea663c8c296fbb224",
       "key": "株式会社 Let Gift",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f138121b3edd6b55f89bed7",
-      "key": "三重大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/AKiKOMA-345aa45a3f1381bc9485edc67c2d1b2e",
-      "key": "株式会社AKiKOMA",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
