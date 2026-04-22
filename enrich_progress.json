@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 0,
-  "verified": 0,
-  "patched": 0,
+  "processed": 4,
+  "verified": 3,
+  "patched": 3,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": null,
-  "eta_sec": null,
+  "elapsed_sec": 44.4,
+  "eta_sec": 9337.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,12 +31,43 @@
     },
     "sh": {
       "total": 650,
-      "processed": 0,
-      "patched": 0,
+      "processed": 4,
+      "patched": 3,
       "not_found": 0,
       "failed": 0
     }
   },
-  "current": null,
-  "recent": []
+  "current": {
+    "idx": 4,
+    "key": "国立大学法人 鳥取大学",
+    "patched": false,
+    "phase": "sh",
+    "verified": false
+  },
+  "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/BRJ-349aa45a3f138197b371f346f11a4526",
+      "key": "BRJ 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13813eb9a5d8f9afe5f6db",
+      "key": "中国電力株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a5b944d2bfd27e2c7c",
+      "key": "テレビせとうち株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    }
+  ]
 }
