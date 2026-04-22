@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 134,
-  "verified": 131,
-  "patched": 133,
+  "processed": 137,
+  "verified": 134,
+  "patched": 136,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2062.1,
-  "eta_sec": 10941.3,
+  "elapsed_sec": 2101.1,
+  "eta_sec": 10858.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 134,
-      "patched": 133,
+      "processed": 137,
+      "patched": 136,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 134,
-    "key": "浜松市",
+    "idx": 137,
+    "key": "愛知県雇用労働相談センター",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381318823c9ab1b4c24ab",
+      "key": "新潟ビジネス専門学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381eda2ffcee645d85b81",
+      "key": "株式会社 三虎データサイエンス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13811387b2d30c0fede554",
+      "key": "浜松市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Major7th-349aa45a3f1381a39605d87aefc8449e",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/344aa45a3f1381a3ad97e48e673466e7",
       "key": "日本福祉大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Esfiida-349aa45a3f1381c79518c425b7c8bde2",
-      "key": "株式会社 Esfiida",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13813d94f2e701d70135af",
-      "key": "株式会社 大丸松坂屋百貨店",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
-      "key": "VENTURE CAFÉ TOKYO",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
