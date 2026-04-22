@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 45,
-  "verified": 43,
-  "patched": 44,
+  "processed": 47,
+  "verified": 45,
+  "patched": 46,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 777.7,
-  "eta_sec": 13826.3,
+  "elapsed_sec": 811.3,
+  "eta_sec": 13774.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 45,
-      "patched": 44,
+      "processed": 47,
+      "patched": 46,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 45,
-    "key": "医療法人信愛会",
+    "idx": 47,
+    "key": "TRINITY PARTNERS",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "日本ライフケアソリューションズ 株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f138103ac7bf06d772cd3c1",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人信愛会",
+      "notion_url": "https://www.notion.so/349aa45a3f138124b46ff29fc4a25475",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
