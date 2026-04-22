@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 323,
-  "verified": 267,
-  "patched": 262,
+  "processed": 325,
+  "verified": 269,
+  "patched": 264,
   "unchanged": 6,
   "failed": 40,
   "low_confidence": 15,
   "not_found": 14,
-  "elapsed_sec": 5750.7,
-  "eta_sec": 9293.8,
+  "elapsed_sec": 5781.8,
+  "eta_sec": 9250.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 128,
-      "patched": 87,
+      "processed": 130,
+      "patched": 89,
       "not_found": 0,
       "failed": 40
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 323,
-    "key": "株式会社 都市テクノ",
+    "idx": 325,
+    "key": "EY新日本有限責任監査法人",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "XTech Ventures株式会社",
+      "notion_url": "https://www.notion.so/XTech-Ventures-345aa45a3f138151896cf8a408dbf3f9",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 都市テクノ",
+      "notion_url": "https://www.notion.so/349aa45a3f13811aa867c18b6dd18944",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -395,22 +411,6 @@
       "action": "patched",
       "key": "刈谷市役所",
       "notion_url": "https://www.notion.so/345aa45a3f1381d99975d979077f45d8",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "参議院事務局",
-      "notion_url": "https://www.notion.so/346aa45a3f13818183b2f594ad09a914",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "Venture Café Tokyo",
-      "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
       "note": "10項目"
     }
   ]
