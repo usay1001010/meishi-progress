@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 274,
-  "verified": 269,
-  "patched": 273,
+  "processed": 276,
+  "verified": 271,
+  "patched": 275,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 4295.1,
-  "eta_sec": 8950.8,
+  "elapsed_sec": 4328.7,
+  "eta_sec": 8924.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 274,
-      "patched": 273,
+      "processed": 276,
+      "patched": 275,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 274,
-    "key": "有限会社アドリブ",
+    "idx": 276,
+    "key": "スタートアップリーグ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138183975ac431f8aba288",
+      "key": "合同会社デロイト トーマツ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381f3a4d7ce149ea009b7",
+      "key": "有限会社アドリブ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381f08707c7cf103ba100",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138119b7f1c1a60ce5689f",
       "key": "テックランチャー株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/CROSLAN-347aa45a3f13815c998fd08e7f7698a5",
-      "key": "株式会社CROSLAN",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/MEDISY-349aa45a3f1381d998e7c84d3ca80a1b",
-      "key": "MEDISY",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
