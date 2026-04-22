@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 391,
-  "verified": 384,
-  "patched": 390,
+  "processed": 394,
+  "verified": 387,
+  "patched": 393,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 6047.1,
-  "eta_sec": 7021.4,
+  "elapsed_sec": 6088.8,
+  "eta_sec": 6969.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 391,
-      "patched": 390,
+      "processed": 394,
+      "patched": 393,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 391,
-    "key": "株式会社 CROSS",
+    "idx": 394,
+    "key": "インキュベイトファンド株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138151b41bd6a5aefcae3a",
+      "key": "株式会社中部新生不動産",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Tech-CFO-office-349aa45a3f138187b397ebed49e1c2c4",
+      "key": "株式会社 Tech CFO office",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/CROSS-349aa45a3f1381d1a381ce20fb8a5954",
+      "key": "株式会社 CROSS",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138126b55eedc7228bec6d",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/ifoods-349aa45a3f1381538cfbc3aae3e1f07c",
       "key": "株式会社 ifoods",
       "note": "7項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f1381008292e755bd4a1ddb",
-      "key": "名古屋大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381e29213ee46646aa346",
-      "key": "みずほ証券株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138131891cc40ad2c91c94",
-      "key": "株式会社光通信",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
