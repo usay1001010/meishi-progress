@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 232,
-  "verified": 208,
-  "patched": 200,
+  "processed": 234,
+  "verified": 210,
+  "patched": 202,
   "unchanged": 6,
   "failed": 11,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 4184.9,
-  "eta_sec": 11057.6,
+  "elapsed_sec": 4224.9,
+  "eta_sec": 11031.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 37,
-      "patched": 25,
+      "processed": 39,
+      "patched": 27,
       "not_found": 0,
       "failed": 11
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 232,
-    "key": "日本放送協会",
+    "idx": 234,
+    "key": "トピー工業株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "香川高等専門学校",
+      "notion_url": "https://www.notion.so/345aa45a3f138116a1f8e94f04e66c1f",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "日本放送協会",
+      "notion_url": "https://www.notion.so/345aa45a3f13817e87bbdd3d0dac2a42",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -406,22 +422,6 @@
       "key": "TRINITY PARTNERS / 訪問介護 ランウェイ",
       "notion_url": "https://www.notion.so/349aa45a3f1381b580b6c2b0085a359e",
       "note": "11項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "株式会社ピド / 居宅介護支援事業所 ピド・ケアコンサル",
-      "notion_url": "https://www.notion.so/349aa45a3f138119ab67fa83d7ce82de",
-      "note": "11項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "株式会社ベネッセスタイルケアグループ / 新宿本社",
-      "notion_url": "",
-      "note": "4項目"
     }
   ]
 }
