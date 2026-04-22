@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 119,
-  "verified": 112,
-  "patched": 116,
+  "processed": 122,
+  "verified": 114,
+  "patched": 119,
   "unchanged": 2,
   "failed": 0,
-  "low_confidence": 6,
+  "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2163.1,
-  "eta_sec": 13196.6,
+  "elapsed_sec": 2203.6,
+  "eta_sec": 13059.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 119,
-      "patched": 116,
+      "processed": 122,
+      "patched": 119,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 119,
-    "key": "社会福祉法人 練馬区社会福祉事業団",
+    "idx": 122,
+    "key": "社会福祉法人 さくら会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社いるてと",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381ca98d5c7d10fc79146",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人社団 馨光会",
+      "notion_url": "https://www.notion.so/349aa45a3f13817a97d9e3242b669707",
+      "note": "1項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 練馬区社会福祉事業団",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a4aedafb7263501682",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "社会福祉法人 元気村",
       "notion_url": "https://www.notion.so/349aa45a3f13814b9e3de0b8df7d814e",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "有限会社 セントラル",
-      "notion_url": "https://www.notion.so/349aa45a3f138142a5d6dfe51aba6f80",
-      "note": "7項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "wonderwall",
-      "notion_url": "https://www.notion.so/wonderwall-349aa45a3f13818d9a01f1bbc6a6deb3",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社セキショウライフサポート",
-      "notion_url": "https://www.notion.so/349aa45a3f1381078c60d9b5cdf3b72b",
-      "note": "8項目"
     }
   ]
 }
