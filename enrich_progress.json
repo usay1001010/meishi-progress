@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 89,
-  "verified": 86,
-  "patched": 87,
+  "processed": 91,
+  "verified": 88,
+  "patched": 89,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1596.6,
-  "eta_sec": 13562.2,
+  "elapsed_sec": 1637.6,
+  "eta_sec": 13568.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 89,
-      "patched": 87,
+      "processed": 91,
+      "patched": 89,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 89,
-    "key": "一般社団法人 拠",
+    "idx": 91,
+    "key": "社会福祉法人 愛知県厚生事業団",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人賛永会",
+      "notion_url": "https://www.notion.so/349aa45a3f138186a76edd9424b4a3fb",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "一般社団法人 拠",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dda0e1c7271a048f32",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 百陽会",
       "notion_url": "https://www.notion.so/33aaa45a3f13812dba47de00cbc1252b",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 弘寿福祉会",
-      "notion_url": "https://www.notion.so/349aa45a3f138100abcdee9931bb4e91",
-      "note": "1項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 碧介護サービス",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b8b29adfbaf37e45ca",
-      "note": "8項目"
     }
   ]
 }
