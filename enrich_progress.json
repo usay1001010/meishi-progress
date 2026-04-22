@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 287,
-  "verified": 281,
-  "patched": 286,
+  "processed": 290,
+  "verified": 284,
+  "patched": 289,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4543.2,
-  "eta_sec": 8833.2,
+  "elapsed_sec": 4586.7,
+  "eta_sec": 8778.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 287,
-      "patched": 286,
+      "processed": 290,
+      "patched": 289,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 287,
-    "key": "株式会社平和テクノシステム",
+    "idx": 290,
+    "key": "フォレストデジタル 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138156a771c74f6bdff266",
+      "key": "株式会社ウェルモ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dcb84cd253c8c24336",
+      "key": "公益財団法人 名古屋産業振興公社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138128a23bd403334d7460",
+      "key": "株式会社平和テクノシステム",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381399063c8b63248d629",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138157a890f80ddcb98676",
       "key": "株式会社東振",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b4842cc202b869072d",
-      "key": "株式会社 絶対そうしよ!",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/QR-349aa45a3f1381b0b44bc986daaff1f5",
-      "key": "株式会社 QRインベストメント",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/SHONAI-346aa45a3f1381198d6ffa0f8e567e56",
-      "key": "株式会社SHONAI",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
