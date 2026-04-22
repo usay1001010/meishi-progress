@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 286,
-  "verified": 244,
-  "patched": 238,
+  "processed": 288,
+  "verified": 246,
+  "patched": 240,
   "unchanged": 6,
   "failed": 27,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5086.8,
-  "eta_sec": 9942.4,
+  "elapsed_sec": 5117.1,
+  "eta_sec": 9896.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 91,
-      "patched": 63,
+      "processed": 93,
+      "patched": 65,
       "not_found": 0,
       "failed": 27
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 286,
-    "key": "NOBUNAGAキャピタルビレッジ株式会社",
+    "idx": 288,
+    "key": "株式会社ターンアラウンド研究所",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "東海中学校・高校 ビジネス愛好会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a1bdd4f0688f6f2611",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "NOBUNAGAキャピタルビレッジ株式会社",
+      "notion_url": "https://www.notion.so/NOBUNAGA-345aa45a3f13818f9e76ddd7794cce66",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -398,20 +414,6 @@
       "key": "東京大学大学院",
       "notion_url": "https://www.notion.so/349aa45a3f13811fb197ec79e1ef0896",
       "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社松尾研究所",
-      "notion_url": "https://www.notion.so/345aa45a3f138163b626c1455ac500e1",
-      "note": "9項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社ワイズ",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: ITソリューション, OA機器販売"
     }
   ]
 }
