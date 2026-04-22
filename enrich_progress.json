@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 109,
-  "verified": 104,
-  "patched": 106,
+  "processed": 111,
+  "verified": 106,
+  "patched": 108,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 1985.5,
-  "eta_sec": 13406.7,
+  "elapsed_sec": 2017.7,
+  "eta_sec": 13342.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 109,
-      "patched": 106,
+      "processed": 111,
+      "patched": 108,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 109,
-    "key": "SUNCARE HOLDINGS株式会社",
+    "idx": 111,
+    "key": "アイエルサポート 株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 mei-mei",
+      "notion_url": "https://www.notion.so/mei-mei-349aa45a3f1381e3aa9fc8955742a00d",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "SUNCARE HOLDINGS株式会社",
+      "notion_url": "https://www.notion.so/SUNCARE-HOLDINGS-349aa45a3f1381a6825cc259dfd8c478",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "SOUP TOWN",
       "notion_url": "https://www.notion.so/SOUP-TOWN-349aa45a3f1381b89ba2e136a27317e8",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "トヨタすまいるライフ株式会社",
-      "notion_url": "https://www.notion.so/33aaa45a3f13819f87e9f3c517a3c160",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "モレメンテ有限会社",
-      "notion_url": "https://www.notion.so/349aa45a3f1381838355dfa5e47ea66d",
       "note": "8項目"
     }
   ]
