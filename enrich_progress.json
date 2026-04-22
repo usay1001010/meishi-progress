@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 447,
-  "verified": 439,
-  "patched": 446,
+  "processed": 450,
+  "verified": 442,
+  "patched": 449,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6823.5,
-  "eta_sec": 6075.6,
+  "elapsed_sec": 6866.3,
+  "eta_sec": 6027.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 447,
-      "patched": 446,
+      "processed": 450,
+      "patched": 449,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 447,
-    "key": "株式会社finn",
+    "idx": 450,
+    "key": "FUSOグループホールディングス株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13810a8063e2e04c673af9",
+      "key": "衆議院",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/musbun-345aa45a3f1381d2a92bdb1ecd87a487",
+      "key": "株式会社musbun",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/finn-349aa45a3f1381fdb599f15761223613",
+      "key": "株式会社finn",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13819fac19e0d80341543d",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13818780bed4923fd806d2",
       "key": "株式会社 十六銀行",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13814aa747d1f847b53108",
-      "key": "第一三共ヘルスケア株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381d1915acd78fdc71a66",
-      "key": "栗田工業株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/TOKYO-KIRABOSHI-FINANCIAL-GROUP-349aa45a3f1381d09232ce93f2d94857",
-      "key": "TOKYO KIRABOSHI FINANCIAL GROUP",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
