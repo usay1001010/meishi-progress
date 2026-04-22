@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 240,
-  "verified": 215,
-  "patched": 207,
+  "processed": 242,
+  "verified": 217,
+  "patched": 209,
   "unchanged": 6,
   "failed": 12,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 4313.6,
-  "eta_sec": 10873.8,
+  "elapsed_sec": 4343.9,
+  "eta_sec": 10823.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 45,
-      "patched": 32,
+      "processed": 47,
+      "patched": 34,
       "not_found": 0,
       "failed": 12
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 240,
-    "key": "日本電技株式会社",
+    "idx": 242,
+    "key": "東京大学",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "日本ガイシ株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381009de0f9f70cb8e0fe",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "日本電技株式会社",
+      "notion_url": "https://www.notion.so/345aa45a3f1381669fd7d0f1dae1ba90",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -404,22 +420,6 @@
       "key": "合同会社訪問介護人生らくらく / 訪問介護人生らくらく",
       "notion_url": "https://www.notion.so/349aa45a3f13813993d6c23dc01f2d30",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "株式会社 ニチイ学館 / 在宅介護事業部",
-      "notion_url": "",
-      "note": "4項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "合同会社Think Body Japan / リハビリフィットネス訪問看護ステーション守山",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d1880ad6e1453d291c",
-      "note": "8項目"
     }
   ]
 }
