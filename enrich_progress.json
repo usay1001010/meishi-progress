@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 404,
-  "verified": 396,
-  "patched": 403,
+  "processed": 407,
+  "verified": 399,
+  "patched": 406,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6236.0,
-  "eta_sec": 6807.2,
+  "elapsed_sec": 6277.2,
+  "eta_sec": 6755.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 404,
-      "patched": 403,
+      "processed": 407,
+      "patched": 406,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 404,
-    "key": "アンド・コンサルティングファーム株式会社",
+    "idx": 407,
+    "key": "DriveZ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b292b4e12670a2b5b2",
+      "key": "株式会社フォーエーキャリア",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/M-Creative-Factory-349aa45a3f1381fa895cc2373a6f2419",
+      "key": "M Creative Factory",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138161a9fafce4acf459e6",
+      "key": "アンド・コンサルティングファーム株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f13818981becb8f447c00aa",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13815a9023ccc5b5306732",
       "key": "シューペルブリアン株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/IT-349aa45a3f13812fa5bafd9530ae0373",
-      "key": "株式会社内田洋行 ITソリューションズ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138120b724c45ecbe4bc8f",
-      "key": "株式会社エクサウィザーズ",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138138b542dffdd77155f4",
-      "key": "東京外国語大学大学院",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
