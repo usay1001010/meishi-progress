@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 59,
-  "verified": 57,
-  "patched": 58,
+  "processed": 61,
+  "verified": 59,
+  "patched": 60,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1035.2,
-  "eta_sec": 13790.5,
+  "elapsed_sec": 1065.8,
+  "eta_sec": 13697.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 59,
-      "patched": 58,
+      "processed": 61,
+      "patched": 60,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 59,
-    "key": "モレメンテ有限会社",
+    "idx": 61,
+    "key": "SOUP TOWN",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "トヨタすまいるライフ株式会社",
+      "notion_url": "https://www.notion.so/33aaa45a3f13819f87e9f3c517a3c160",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "モレメンテ有限会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381838355dfa5e47ea66d",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "滝子通一丁目福祉施設",
       "notion_url": "https://www.notion.so/349aa45a3f1381d3ab56de879ff0b954",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 大起エンゼルヘルプ",
-      "notion_url": "https://www.notion.so/349aa45a3f1381aa8a8aedbe4ac40132",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 ニチイホールディングス",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b79a27ffc186602eb0",
-      "note": "8項目"
     }
   ]
 }
