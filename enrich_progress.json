@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 145,
-  "verified": 142,
-  "patched": 144,
+  "processed": 148,
+  "verified": 145,
+  "patched": 147,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2209.1,
-  "eta_sec": 10664.4,
+  "elapsed_sec": 2247.2,
+  "eta_sec": 10583.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 145,
-      "patched": 144,
+      "processed": 148,
+      "patched": 147,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 145,
-    "key": "株式会社ユーザベース",
+    "idx": 148,
+    "key": "Helppad",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/CBC-345aa45a3f13813cbfa0d787b35cd4d4",
+      "key": "株式会社CBCテレビ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13819496e6e47a89edb29c",
+      "key": "石田国際特許事務所",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381318d65ce00bdd61ac3",
+      "key": "株式会社ユーザベース",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13814eb8cfd2797e8876a9",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/LobbyAI-345aa45a3f138147bd14f09d18f1fe30",
       "key": "LobbyAI株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/GROWTH-VERSE-346aa45a3f138116b9cece65ef309441",
-      "key": "株式会社 GROWTH VERSE",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138156a586ea896ced97a4",
-      "key": "株式会社 サイエンス・クリエイト",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13815dbfe6cf70b0706a98",
-      "key": "ドクターズ株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
