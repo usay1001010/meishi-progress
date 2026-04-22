@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 175,
-  "verified": 171,
-  "patched": 174,
+  "processed": 177,
+  "verified": 173,
+  "patched": 176,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2684.8,
-  "eta_sec": 10278.8,
+  "elapsed_sec": 2718.6,
+  "eta_sec": 10259.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 175,
-      "patched": 174,
+      "processed": 177,
+      "patched": 176,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 175,
-    "key": "株式会社ワイズマン",
+    "idx": 177,
+    "key": "メンズショップコバヤシ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/GMO-345aa45a3f1381b69d17c3f324e74456",
+      "key": "GMOあおぞらネット銀行株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381beb314ed6b49938ae4",
+      "key": "株式会社ワイズマン",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13816d864fde173eded5f4",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f13813b9d4bca9e22473e24",
       "key": "北陸先端科学技術大学院大学",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/pinnovation-349aa45a3f1381f6b988fa74db131cbe",
-      "key": "pinnovation",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/MON-345aa45a3f1381a29ae0de5b1d2b36c5",
-      "key": "蔵カフェ MON",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
