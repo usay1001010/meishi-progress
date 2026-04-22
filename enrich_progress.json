@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 376,
-  "verified": 369,
-  "patched": 375,
+  "processed": 379,
+  "verified": 372,
+  "patched": 378,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5821.0,
-  "eta_sec": 7260.7,
+  "elapsed_sec": 5860.4,
+  "eta_sec": 7205.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 376,
-      "patched": 375,
+      "processed": 379,
+      "patched": 378,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 376,
-    "key": "株式会社セーノー商事",
+    "idx": 379,
+    "key": "株式会社 文祥堂",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381b49dfce791fcc19912",
+      "key": "九州工業大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Logistics-and-Supply-Chain-MultiTech-R-D-Centre-Limited-345aa45a3f138189821af9959caacf33",
+      "key": "Logistics and Supply Chain MultiTech R&D Centre Limited",
+      "note": "7項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381459671ed88c9efb433",
+      "key": "株式会社セーノー商事",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381f4bdabe2c426c6c34e",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138195b43cff41a12c9c3f",
       "key": "株式会社はんぽさき",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381588ebdcb62c768371f",
-      "key": "丸紅株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13817d8050daea6aba8417",
-      "key": "独立行政法人国立高等専門学校機構 豊田工業高等専門学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381edb94cd79cada05a1f",
-      "key": "よりかけ株式会社",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
