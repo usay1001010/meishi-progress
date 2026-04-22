@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 141,
-  "verified": 133,
-  "patched": 138,
+  "processed": 143,
+  "verified": 135,
+  "patched": 140,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2496.1,
-  "eta_sec": 12462.9,
+  "elapsed_sec": 2549.5,
+  "eta_sec": 12515.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 141,
-      "patched": 138,
+      "processed": 143,
+      "patched": 140,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 141,
-    "key": "株式会社 ライフモア",
+    "idx": 143,
+    "key": "株式会社 ニチイケアパレス",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ふれあいの里",
+      "notion_url": "https://www.notion.so/349aa45a3f13813ca4e2fd1e02687d25",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 ライフモア",
+      "notion_url": "https://www.notion.so/349aa45a3f1381859b79c7aef274056c",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 昭徳会",
       "notion_url": "https://www.notion.so/33aaa45a3f1381709e5ee9431ed8357e",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人宏徳会",
-      "notion_url": "https://www.notion.so/349aa45a3f13817cb7dfe57240a82305",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 愛知県厚生事業団",
-      "notion_url": "https://www.notion.so/349aa45a3f1381fa90a3f93e6e72ee60",
       "note": "9項目"
     }
   ]
