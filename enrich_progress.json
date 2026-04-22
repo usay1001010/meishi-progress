@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 70,
-  "verified": 67,
-  "patched": 68,
+  "processed": 72,
+  "verified": 69,
+  "patched": 70,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1264.2,
-  "eta_sec": 13996.2,
+  "elapsed_sec": 1318.1,
+  "eta_sec": 14151.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 70,
-      "patched": 68,
+      "processed": 72,
+      "patched": 70,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 70,
-    "key": "wonderwall",
+    "idx": 72,
+    "key": "社会福祉法人 元気村",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "有限会社 セントラル",
+      "notion_url": "https://www.notion.so/349aa45a3f138142a5d6dfe51aba6f80",
+      "note": "7項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "wonderwall",
+      "notion_url": "https://www.notion.so/wonderwall-349aa45a3f13818d9a01f1bbc6a6deb3",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 あいち",
       "notion_url": "https://www.notion.so/349aa45a3f1381a494b9c7b1e5709acc",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 望",
-      "notion_url": "https://www.notion.so/349aa45a3f138120b849f6c298eddb8b",
-      "note": "7項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社i&fホールディングス",
-      "notion_url": "https://www.notion.so/i-f-349aa45a3f1381fda5c1fa0e1e918c17",
       "note": "8項目"
     }
   ]
