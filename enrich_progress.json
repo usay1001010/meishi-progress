@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 250,
-  "verified": 221,
-  "patched": 214,
+  "processed": 252,
+  "verified": 222,
+  "patched": 215,
   "unchanged": 6,
-  "failed": 15,
+  "failed": 16,
   "low_confidence": 13,
   "not_found": 14,
-  "elapsed_sec": 4457.9,
-  "eta_sec": 10609.7,
+  "elapsed_sec": 4495.5,
+  "eta_sec": 10578.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,34 @@
     },
     "sh": {
       "total": 650,
-      "processed": 55,
-      "patched": 39,
+      "processed": 57,
+      "patched": 40,
       "not_found": 0,
-      "failed": 15
+      "failed": 16
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 250,
-    "key": "100BANCH",
+    "idx": 252,
+    "key": "STUDIO POLAR/S",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "131kR acycle",
+      "notion_url": "https://www.notion.so/131kR-acycle-349aa45a3f1381abbe7fdfb40e9c9fcf",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "100BANCH",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 未来創造支援, コミュニティ運営"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -403,20 +417,6 @@
       "action": "patched",
       "key": "岐阜信用金庫",
       "notion_url": "https://www.notion.so/345aa45a3f138110849bcb324e28582c",
-      "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "ホームエクスプレス",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 排水管洗浄, 水道工事"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 オープンハウス・ディベロップメント",
-      "notion_url": "https://www.notion.so/349aa45a3f1381699b61e713f2ae1346",
       "note": "10項目"
     }
   ]
