@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 468,
-  "verified": 460,
-  "patched": 467,
+  "processed": 471,
+  "verified": 463,
+  "patched": 470,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7163.0,
-  "eta_sec": 5770.2,
+  "elapsed_sec": 7204.1,
+  "eta_sec": 5720.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 468,
-      "patched": 467,
+      "processed": 471,
+      "patched": 470,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 468,
-    "key": "新明工業株式会社",
+    "idx": 471,
+    "key": "静岡県",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13812ab3bfe93803655fea",
+      "key": "株式会社 ミライ菜園園",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381c7b363c409383a36dc",
+      "key": "株式会社 経営共創基盤",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13814689c1d4c999a7911d",
+      "key": "新明工業株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13810e8929f1fb0bd3413b",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/AKiKOMA-345aa45a3f1381bc9485edc67c2d1b2e",
       "key": "株式会社AKiKOMA",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381fe82ddfb2c2ddaa0ae",
-      "key": "株式会社フソウ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138162af27e2d9b16f57a5",
-      "key": "鳥羽商船高等専門学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138166899cf7c279b19b4b",
-      "key": "早稲田大学",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
