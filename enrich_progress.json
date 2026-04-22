@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 302,
-  "verified": 253,
-  "patched": 247,
+  "processed": 304,
+  "verified": 255,
+  "patched": 249,
   "unchanged": 6,
   "failed": 34,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5389.1,
-  "eta_sec": 9689.7,
+  "elapsed_sec": 5421.5,
+  "eta_sec": 9648.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 107,
-      "patched": 72,
+      "processed": 109,
+      "patched": 74,
       "not_found": 0,
       "failed": 34
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 302,
-    "key": "株式会社エイルサポート",
+    "idx": 304,
+    "key": "株式会社 DRILL",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "名古屋テレビ放送株式会社",
+      "notion_url": "https://www.notion.so/345aa45a3f1381288357d703662bd0cd",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社エイルサポート",
+      "notion_url": "https://www.notion.so/349aa45a3f138141aad1e2213967ebe3",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -394,20 +410,6 @@
       "phase": "sh",
       "key": "株式会社Brownie",
       "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, アプリ開発, DXコンサル"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 三辻商店",
-      "notion_url": "https://www.notion.so/346aa45a3f13818da241f5b5358c6548",
-      "note": "9項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "STUDIO POLAR/S",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: アニメーション制作, 出版"
     }
   ]
 }
