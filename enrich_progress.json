@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 75,
-  "verified": 72,
-  "patched": 73,
+  "processed": 78,
+  "verified": 75,
+  "patched": 76,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1355.4,
-  "eta_sec": 13914.9,
+  "elapsed_sec": 1389.3,
+  "eta_sec": 13661.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 75,
-      "patched": 73,
+      "processed": 78,
+      "patched": 76,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 75,
-    "key": "メディカル・ケア・サービス株式会社",
+    "idx": 78,
+    "key": "ともいき会 グループ 医療法人 / 社会福祉法人",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "Gakken Group メディカル・ケア・サービス株式会社",
+      "notion_url": "https://www.notion.so/Gakken-Group-349aa45a3f138128bad8dba1a85295e2",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 学研ホールディングス",
+      "notion_url": "https://www.notion.so/349aa45a3f13817e8946ed2eaeafaa2d",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "メディカル・ケア・サービス株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381079dcdfa421a919e19",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -419,30 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 名古屋市総合リハビリテーション事業団",
       "notion_url": "https://www.notion.so/349aa45a3f13810bad6ad73d53e69e9c",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人あいち",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381788212c14a4e5146d8",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ナンブ",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381eca478c5adc810a3d3",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 慶",
-      "notion_url": "https://www.notion.so/349aa45a3f13813ba411ea6ebec6a1c4",
       "note": "9項目"
     }
   ]
