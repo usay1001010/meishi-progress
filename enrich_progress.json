@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 354,
-  "verified": 348,
-  "patched": 353,
+  "processed": 357,
+  "verified": 351,
+  "patched": 356,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5480.9,
-  "eta_sec": 7602.0,
+  "elapsed_sec": 5521.0,
+  "eta_sec": 7546.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 354,
-      "patched": 353,
+      "processed": 357,
+      "patched": 356,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 354,
-    "key": "東京外国語大学大学院",
+    "idx": 357,
+    "key": "シューペルブリアン株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/IT-349aa45a3f13812fa5bafd9530ae0373",
+      "key": "株式会社内田洋行 ITソリューションズ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138120b724c45ecbe4bc8f",
+      "key": "株式会社エクサウィザーズ",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138138b542dffdd77155f4",
+      "key": "東京外国語大学大学院",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/NS-349aa45a3f1381db8195d644c2ae98e7",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381eb9209c6ec828f00a3",
       "key": "荒木洋人 公認会計士 税理士事務所",
       "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13810782bddbd60eaf950f",
-      "key": "株式会社トワライズ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138116a84fd5934e7d598d",
-      "key": "積水ホームテクノ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138172b706cc6485c443d0",
-      "key": "リコー・ジャパン 株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
