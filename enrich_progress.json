@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 133,
-  "verified": 125,
-  "patched": 130,
+  "processed": 135,
+  "verified": 127,
+  "patched": 132,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2385.7,
-  "eta_sec": 12771.4,
+  "elapsed_sec": 2416.9,
+  "eta_sec": 12711.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 133,
-      "patched": 130,
+      "processed": 135,
+      "patched": 132,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 133,
-    "key": "株式会社ラシエル",
+    "idx": 135,
+    "key": "社会福祉法人 西春日井福祉社会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 CareNation",
+      "notion_url": "https://www.notion.so/CareNation-349aa45a3f1381a29578e7cfe6f3a619",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ラシエル",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a5a50ff6db6904d150",
+      "note": "7項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "N.K.Cナーシングコアコーポレーション合同会社",
       "notion_url": "https://www.notion.so/N-K-C-349aa45a3f138138a0a2cf1c4b0eb000",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人市原寮",
-      "notion_url": "https://www.notion.so/33aaa45a3f13815fa97dc534e9c99f93",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ベネッセコーポレーション",
-      "notion_url": "https://www.notion.so/349aa45a3f138139a9d7c608ac8a6302",
-      "note": "8項目"
     }
   ]
 }
