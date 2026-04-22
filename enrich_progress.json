@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 28,
-  "verified": 27,
-  "patched": 27,
+  "processed": 30,
+  "verified": 29,
+  "patched": 29,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 424.6,
-  "eta_sec": 12389.8,
+  "elapsed_sec": 455.6,
+  "eta_sec": 12375.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 28,
-      "patched": 27,
+      "processed": 30,
+      "patched": 29,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 28,
-    "key": "株式会社ターンアラウンド研究所"
+    "idx": 30,
+    "key": "WAKON®"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f1381c3a4a1cc8cb0521a2d",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社エス・エム・エス",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f1381ecac5cdff37c8045cd",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社ターンアラウンド研究所",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/Otono-349aa45a3f138184b7b8ed584d92dad0",
