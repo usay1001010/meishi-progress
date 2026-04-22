@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 487,
-  "verified": 478,
-  "patched": 486,
+  "processed": 489,
+  "verified": 480,
+  "patched": 488,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 8,
   "not_found": 0,
-  "elapsed_sec": 7464.5,
-  "eta_sec": 5487.2,
+  "elapsed_sec": 7516.7,
+  "eta_sec": 5472.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 487,
-      "patched": 486,
+      "processed": 489,
+      "patched": 488,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 487,
-    "key": "中日新聞",
+    "idx": 489,
+    "key": "Ascent Venture Group",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13813b8a05ca3d96b29648",
+      "key": "株式会社 原 製作所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138174ba4cfbd962dc9d0f",
+      "key": "中日新聞",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381c6ace8ee9c1f789fde",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381429905ea3a0dbaf098",
       "key": "富士フイルムシステムサービス株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381b58e24cb5ef2233035",
-      "key": "内閣官房新しい資本主義実現本部事務局",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/QUICK-345aa45a3f1381bdac4dc24d14f97ea8",
-      "key": "株式会社Quick",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
