@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 75,
-  "verified": 73,
-  "patched": 74,
+  "processed": 78,
+  "verified": 76,
+  "patched": 77,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1155.2,
-  "eta_sec": 11859.8,
+  "elapsed_sec": 1194.0,
+  "eta_sec": 11741.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 75,
-      "patched": 74,
+      "processed": 78,
+      "patched": 77,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 75,
-    "key": "とっとりキャピタル株式会社",
+    "idx": 78,
+    "key": "公益財団法人 愛知県健康づくり振興事業団",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Deepcore-349aa45a3f138109b084c391654c2ce2",
+      "key": "Deepcore",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138175bc47dc0b7800f845",
+      "key": "株式会社みずほ銀行",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381749731fdbda72c45df",
+      "key": "とっとりキャピタル株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/TOM-JAPAN-349aa45a3f13816499e1fac585c03ca0",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381ae9d94f4900baab98d",
       "key": "ニッセイ・キャピタル株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13811283baf092e86f2786",
-      "key": "株式会社エー・スター・クオンタム",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/ADLS-349aa45a3f13813f9a95eb0c1edd3f51",
-      "key": "株式会社 ADLS",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/SecureNavi-345aa45a3f13812b9adfd95bc301afc7",
-      "key": "SecureNavi株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
