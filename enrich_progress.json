@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 415,
-  "verified": 407,
-  "patched": 414,
+  "processed": 418,
+  "verified": 410,
+  "patched": 417,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6388.6,
-  "eta_sec": 6619.5,
+  "elapsed_sec": 6425.1,
+  "eta_sec": 6563.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 415,
-      "patched": 414,
+      "processed": 418,
+      "patched": 417,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 415,
-    "key": "独立行政法人 国立高等専門学校機構 群馬工業高等専門学校",
+    "idx": 418,
+    "key": "早稲田大学",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b4bb67c3fe37eeb2ac",
+      "key": "株式会社 モルテン",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/AI-349aa45a3f13816dafc3e28efed70bb6",
+      "key": "一般社団法人 AIロボット協会",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dca754c490e4c0ccb5",
+      "key": "独立行政法人 国立高等専門学校機構 群馬工業高等専門学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381b19d4dd74cf9b0acac",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f138168893fc427a2a31fc7",
       "key": "公益社団法人 全国有料老人ホーム協会",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381df9cb6d6558a389295",
-      "key": "株式会社ケアコム",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138147b6e7ccae6a873d1c",
-      "key": "株式会社あいおいニッセイ同和自動車研究所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/KAERU-345aa45a3f13819db222e74244bc9eac",
-      "key": "KAERU株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
