@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 211,
-  "verified": 207,
-  "patched": 210,
+  "processed": 213,
+  "verified": 209,
+  "patched": 212,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3260.0,
-  "eta_sec": 9795.5,
+  "elapsed_sec": 3299.6,
+  "eta_sec": 9790.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 211,
-      "patched": 210,
+      "processed": 213,
+      "patched": 212,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 211,
-    "key": "ひまわりネットワーク株式会社",
+    "idx": 213,
+    "key": "株式会社ディープコア",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Queue-349aa45a3f138177979ff64358e1c256",
+      "key": "Queue 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13814db08dc17bc980a14b",
+      "key": "ひまわりネットワーク株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/in-Cruises-349aa45a3f1381e38287fab9e0c435ae",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f1381a3b74ef3b36d07ae7b",
       "key": "株式会社タカオ",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13819caccfd228dba82472",
-      "key": "一般社団法人 福祉のまどぐち",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138196841fc7b9c0b0fba8",
-      "key": "株式会社スズケン",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
