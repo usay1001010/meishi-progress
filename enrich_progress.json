@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 22,
-  "verified": 21,
-  "patched": 21,
+  "processed": 25,
+  "verified": 24,
+  "patched": 24,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 386.2,
-  "eta_sec": 14447.2,
+  "elapsed_sec": 427.6,
+  "eta_sec": 14026.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 22,
-      "patched": 21,
+      "processed": 25,
+      "patched": 24,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 22,
-    "key": "社会福祉法人 あいち",
+    "idx": 25,
+    "key": "株式会社 慶",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ピコグラム",
+      "notion_url": "https://www.notion.so/349aa45a3f138157b47eeba3e5dfd7a4",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 ピコグラム",
+      "notion_url": "https://www.notion.so/349aa45a3f13817b8639cd3a1d60cce5",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 あいち",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a494b9c7b1e5709acc",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
