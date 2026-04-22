@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 143,
-  "verified": 135,
-  "patched": 140,
+  "processed": 146,
+  "verified": 138,
+  "patched": 143,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2549.5,
-  "eta_sec": 12515.8,
+  "elapsed_sec": 2590.2,
+  "eta_sec": 12401.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 143,
-      "patched": 140,
+      "processed": 146,
+      "patched": 143,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 143,
-    "key": "株式会社 ニチイケアパレス",
+    "idx": 146,
+    "key": "社会福祉法人 兼六福祉社会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "(有)あんしん村グループ",
+      "notion_url": "https://www.notion.so/349aa45a3f138103b1d6ec8f31b32792",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 希清軒傳六会",
+      "notion_url": "https://www.notion.so/349aa45a3f138170ad82e06c3ae50423",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 ニチイケアパレス",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381549e65ce57ddfdc9ea",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "合同会社 P-BEANS",
       "notion_url": "https://www.notion.so/P-BEANS-349aa45a3f138129bbdbf61b3746480b",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 エンドレスロード",
-      "notion_url": "https://www.notion.so/349aa45a3f1381de8819fd906392540a",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "愛知県厚生農業協同組合連合会",
-      "notion_url": "https://www.notion.so/349aa45a3f138132bf47ff6a228fa221",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 昭徳会",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381709e5ee9431ed8357e",
-      "note": "9項目"
     }
   ]
 }
