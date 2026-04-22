@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 466,
-  "verified": 458,
-  "patched": 465,
+  "processed": 468,
+  "verified": 460,
+  "patched": 467,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7125.7,
-  "eta_sec": 5795.4,
+  "elapsed_sec": 7163.0,
+  "eta_sec": 5770.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 466,
-      "patched": 465,
+      "processed": 468,
+      "patched": 467,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 466,
-    "key": "CityCamp株式会社",
+    "idx": 468,
+    "key": "新明工業株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13810e8929f1fb0bd3413b",
+      "key": "ウーブン・アルファ株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/CityCamp-349aa45a3f1381d6b989d38d2c07df78",
+      "key": "CityCamp株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381e4978cc0d05ee59cdf",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f138166899cf7c279b19b4b",
       "key": "早稲田大学",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b4bb67c3fe37eeb2ac",
-      "key": "株式会社 モルテン",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/AI-349aa45a3f13816dafc3e28efed70bb6",
-      "key": "一般社団法人 AIロボット協会",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
