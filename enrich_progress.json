@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 482,
-  "verified": 474,
-  "patched": 481,
+  "processed": 484,
+  "verified": 475,
+  "patched": 483,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 7,
+  "low_confidence": 8,
   "not_found": 0,
-  "elapsed_sec": 7388.4,
-  "eta_sec": 5564.3,
+  "elapsed_sec": 7422.5,
+  "eta_sec": 5536.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 482,
-      "patched": 481,
+      "processed": 484,
+      "patched": 483,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 482,
-    "key": "BUSINESS-ALLIANCE株式会社",
+    "idx": 484,
+    "key": "国立大学法人 静岡大学",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381799bb3d97801c64a92",
+      "key": "お晩菜と炭火焼き みかん",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/BUSINESS-ALLIANCE-349aa45a3f138116b2f8deffe9130022",
+      "key": "BUSINESS-ALLIANCE株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381a287b1cb45e75f0d6e",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/MITRA-datascience-349aa45a3f1381e9a691c2b94073b600",
       "key": "MITRA datascience",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138187b33afde4f90b982d",
-      "key": "宇都宮市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/LeaP-UP-349aa45a3f138138bea0e241b646f90b",
-      "key": "株式会社LeaP UP!",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
