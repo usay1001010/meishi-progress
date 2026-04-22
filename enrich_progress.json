@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 432,
-  "verified": 424,
-  "patched": 431,
+  "processed": 435,
+  "verified": 427,
+  "patched": 434,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6621.3,
-  "eta_sec": 6330.1,
+  "elapsed_sec": 6659.7,
+  "eta_sec": 6277.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 432,
-      "patched": 431,
+      "processed": 435,
+      "patched": 434,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 432,
-    "key": "株式会社LeaP UP!",
+    "idx": 435,
+    "key": "愛知工業大学名電高等学校",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/MITRA-datascience-349aa45a3f1381e9a691c2b94073b600",
+      "key": "MITRA datascience",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138187b33afde4f90b982d",
+      "key": "宇都宮市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/LeaP-UP-349aa45a3f138138bea0e241b646f90b",
+      "key": "株式会社LeaP UP!",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138167b998ed2a6d4b98a2",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f1381aaadd3d7fb5e76bc31",
       "key": "みはたま株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Prime-Partners-Inc-349aa45a3f13812e8bfbc27d9ea9f0ed",
-      "key": "株式会社プライムパートナーズ / Prime Partners, Inc.",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/FAST-GREAT-349aa45a3f13811d9d1ed1837e40fd9f",
-      "key": "株式会社FAST & GREAT",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381e19346cd507bec323d",
-      "key": "キャップジェミニ株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
