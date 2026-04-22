@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 128,
-  "verified": 120,
-  "patched": 125,
+  "processed": 131,
+  "verified": 123,
+  "patched": 128,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2312.5,
-  "eta_sec": 12953.5,
+  "elapsed_sec": 2352.3,
+  "eta_sec": 12820.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 128,
-      "patched": 125,
+      "processed": 131,
+      "patched": 128,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 128,
-    "key": "株式会社 センチュリークリエイティブ",
+    "idx": 131,
+    "key": "あしたば合同会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "有限会社五ツ星",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a0ba58f0287b3c5708",
+      "note": "6項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "OSS 株式会社",
+      "notion_url": "https://www.notion.so/OSS-349aa45a3f138101afa7cad5fec6e600",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 センチュリークリエイティブ",
+      "notion_url": "https://www.notion.so/349aa45a3f1381daa7b5c019bd913ece",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -419,30 +443,6 @@
       "action": "patched",
       "key": "平成医療福祉グループ",
       "notion_url": "https://www.notion.so/349aa45a3f1381b798e3ca91651fff4f",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人社団ともいき会",
-      "notion_url": "https://www.notion.so/349aa45a3f13810abe06e88041136c48",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "ともいき会グループ",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381059f6df7a8bb2d0930",
-      "note": "6項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "ともいき会 グループ 医療法人 / 社会福祉法人",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e4a8d9d7312d2b4f81",
       "note": "8項目"
     }
   ]
