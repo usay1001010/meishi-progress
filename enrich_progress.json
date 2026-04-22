@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 131,
-  "verified": 123,
-  "patched": 128,
+  "processed": 133,
+  "verified": 125,
+  "patched": 130,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2352.3,
-  "eta_sec": 12820.7,
+  "elapsed_sec": 2385.7,
+  "eta_sec": 12771.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 131,
-      "patched": 128,
+      "processed": 133,
+      "patched": 130,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 131,
-    "key": "あしたば合同会社",
+    "idx": 133,
+    "key": "株式会社ラシエル",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 フロンティアの介護",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e0973dc007efd03531",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "あしたば合同会社",
+      "notion_url": "https://www.notion.so/349aa45a3f13819a89acdaa46eebd09a",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "株式会社ベネッセコーポレーション",
       "notion_url": "https://www.notion.so/349aa45a3f138139a9d7c608ac8a6302",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人社団 大和会",
-      "notion_url": "https://www.notion.so/349aa45a3f138165ac63d660e323338b",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "平成医療福祉グループ",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b798e3ca91651fff4f",
       "note": "8項目"
     }
   ]
