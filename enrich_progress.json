@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 160,
-  "verified": 152,
+  "processed": 162,
+  "verified": 154,
   "patched": 157,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
-  "not_found": 0,
-  "elapsed_sec": 2830.5,
-  "eta_sec": 12117.9,
+  "not_found": 2,
+  "elapsed_sec": 2864.1,
+  "eta_sec": 12075.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,9 +24,9 @@
     },
     "office": {
       "total": 37,
-      "processed": 2,
+      "processed": 4,
       "patched": 1,
-      "not_found": 0,
+      "not_found": 2,
       "failed": 0
     },
     "sh": {
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 160,
-    "key": "ニチイ学館 / GENBA SMILE Lab",
+    "idx": 162,
+    "key": "スギホールディングス株式会社 / 関東本部",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "滝子通一丁目福祉施設 / 小規模多機能・クラブ滝子",
+      "notion_url": "",
+      "note": "6項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "ニチイ学館 / GENBA SMILE Lab",
+      "notion_url": "",
+      "note": "6項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 裾野市社会福祉協議会",
       "notion_url": "https://www.notion.so/349aa45a3f1381f59fc6ef46b9aa88d1",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "アイエルサポート 株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a89de7d4925568c2f6",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 mei-mei",
-      "notion_url": "https://www.notion.so/mei-mei-349aa45a3f1381e3aa9fc8955742a00d",
-      "note": "8項目"
     }
   ]
 }
