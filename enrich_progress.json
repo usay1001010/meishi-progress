@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 13,
-  "verified": 12,
-  "patched": 12,
+  "processed": 15,
+  "verified": 14,
+  "patched": 14,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 183.8,
-  "eta_sec": 11761.4,
+  "elapsed_sec": 215.2,
+  "eta_sec": 11905.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 13,
-      "patched": 12,
+      "processed": 15,
+      "patched": 14,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 13,
-    "key": "株式会社 セブン＆アイ・ネットメディア"
+    "idx": 15,
+    "key": "株式会社 Tol Nexus"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/346aa45a3f1381f590dce689f827523c",
+      "status": "ok",
+      "note": "9項目",
+      "key": "クウジット株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f138118a260f0caba9d4f0d",
+      "status": "ok",
+      "note": "9項目",
+      "key": "株式会社 セブン＆アイ・ネットメディア",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/346aa45a3f138129b928dac8cc656d4d",
