@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 105,
-  "verified": 101,
-  "patched": 103,
-  "unchanged": 1,
+  "processed": 107,
+  "verified": 102,
+  "patched": 104,
+  "unchanged": 2,
   "failed": 0,
-  "low_confidence": 3,
+  "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 1922.5,
-  "eta_sec": 13549.2,
+  "elapsed_sec": 1953.7,
+  "eta_sec": 13474.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 105,
-      "patched": 103,
+      "processed": 107,
+      "patched": 104,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 105,
-    "key": "四ツ谷グループ",
+    "idx": 107,
+    "key": "株式会社 スパーテル",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社mei-mei",
+      "notion_url": "https://www.notion.so/mei-mei-33aaa45a3f13812bb4fdd913b5cd11ec",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "empty",
+      "key": "四ツ谷グループ",
+      "notion_url": "",
+      "note": "0項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 新城市社会福祉協議会",
       "notion_url": "https://www.notion.so/349aa45a3f138133bcd0d7ecbd48ca70",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "(公財)愛知県健康づくり振興事業団",
-      "notion_url": "https://www.notion.so/349aa45a3f1381428eefd48d7913c680",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社リ・コネクト",
-      "notion_url": "https://www.notion.so/349aa45a3f1381fea6f5c2372c75ba52",
-      "note": "8項目"
     }
   ]
 }
