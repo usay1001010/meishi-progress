@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 307,
-  "verified": 301,
-  "patched": 306,
+  "processed": 310,
+  "verified": 304,
+  "patched": 309,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4834.9,
-  "eta_sec": 8472.9,
+  "elapsed_sec": 4874.0,
+  "eta_sec": 8411.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 307,
-      "patched": 306,
+      "processed": 310,
+      "patched": 309,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 307,
-    "key": "荒木洋人 公認会計士 税理士事務所",
+    "idx": 310,
+    "key": "株式会社 日立製作所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381c7a770eca6318edc14",
+      "key": "愛知ドビー株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381c3a1c9f4a4c71ed4ff",
+      "key": "愛知医科大学病院",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381eb9209c6ec828f00a3",
+      "key": "荒木洋人 公認会計士 税理士事務所",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13810782bddbd60eaf950f",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/Colibri-346aa45a3f1381c2aa4ae54c7209eebd",
       "key": "Colibri合同会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/NPO-345aa45a3f1381ada889fd433c0dd89e",
-      "key": "NPO法人タダカヨ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a899d7eb4ce337b16c",
-      "key": "株式会社 角川アスキー総合研究所",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138157ae4cf49ff4541b1c",
-      "key": "グローバルキャリア職業訓練法人",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
