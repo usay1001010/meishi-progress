@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 33,
-  "verified": 32,
-  "patched": 32,
+  "processed": 35,
+  "verified": 34,
+  "patched": 34,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 819.5,
-  "eta_sec": 20164.9,
+  "elapsed_sec": 854.7,
+  "eta_sec": 19779.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 33,
-      "patched": 32,
+      "processed": 35,
+      "patched": 34,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 33,
-    "key": "タイヘイ株式会社"
+    "idx": 35,
+    "key": "株式会社 DRILL"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f1381bca218d305f6f000a1",
+      "status": "ok",
+      "note": "9項目",
+      "key": "稅理士法人 中央総研",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d5836bdb7b6dd070f5",
+      "status": "ok",
+      "note": "10項目",
+      "key": "タイヘイ株式会社",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/347aa45a3f1381b0b6ffc061fbeab0b4",
