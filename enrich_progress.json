@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 170,
-  "verified": 166,
-  "patched": 169,
+  "processed": 172,
+  "verified": 168,
+  "patched": 171,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2599.9,
-  "eta_sec": 10323.3,
+  "elapsed_sec": 2632.7,
+  "eta_sec": 10301.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 170,
-      "patched": 169,
+      "processed": 172,
+      "patched": 171,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 170,
-    "key": "ソフトバンク株式会社",
+    "idx": 172,
+    "key": "株式会社 博報堂プロダクツ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138170aa45cbb63d61562c",
+      "key": "一宮商工会議所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381faaea3f8616692e7d1",
+      "key": "ソフトバンク株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138113b330f713b27f4a45",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381beb980e13c39184398",
       "key": "パーソル ベンチャーパートナーズ合同会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138128b033c47cf9126f4e",
-      "key": "パーソル ベンチャーパートナーズ 合同会社",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13817cb67dc637880a20bc",
-      "key": "鳥取県商工労働部",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
