@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 318,
-  "verified": 312,
-  "patched": 317,
+  "processed": 321,
+  "verified": 315,
+  "patched": 320,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4992.2,
-  "eta_sec": 8273.3,
+  "elapsed_sec": 5030.1,
+  "eta_sec": 8211.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 318,
-      "patched": 317,
+      "processed": 321,
+      "patched": 320,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 318,
-    "key": "弁護士法人 東海総合",
+    "idx": 321,
+    "key": "YORIDO",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/DMM-com-349aa45a3f1381ba91a5e11254b5a5ed",
+      "key": "合同会社 DMM.com",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/T-T-Adviser-349aa45a3f13812c8868ecef497125ff",
+      "key": "合同会社 T・T Adviser",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138172a92eef530e06329c",
+      "key": "弁護士法人 東海総合",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381d0a2d1d1726b9b7b4e",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/Scalebase-346aa45a3f1381219841fadacf9f285a",
       "key": "Scalebase株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138104a3b1d8d8f5f4532c",
-      "key": "株式会社ジャストキーマン",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13816f9866efba0f8797ac",
-      "key": "株式会社トヨタシステムズ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381a38ba0d344714fafde",
-      "key": "カサナレ株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
