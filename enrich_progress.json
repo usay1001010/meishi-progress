@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 132,
-  "verified": 129,
-  "patched": 131,
+  "processed": 134,
+  "verified": 131,
+  "patched": 133,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2027.3,
-  "eta_sec": 10950.4,
+  "elapsed_sec": 2062.1,
+  "eta_sec": 10941.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 132,
-      "patched": 131,
+      "processed": 134,
+      "patched": 133,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 132,
-    "key": "株式会社 三菱総合研究所",
+    "idx": 134,
+    "key": "浜松市",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Major7th-349aa45a3f1381a39605d87aefc8449e",
+      "key": "株式会社 Major7th",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381cb8449f9fb201ccd47",
+      "key": "株式会社 三菱総合研究所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381c2895bd6fef89cb6fc",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
       "key": "VENTURE CAFÉ TOKYO",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a9b70df82fa2bb6a75",
-      "key": "官民連携事業研究所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381af8fe2e49a43be951a",
-      "key": "大阪市高速電気軌道株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
