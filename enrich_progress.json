@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 216,
-  "verified": 212,
-  "patched": 215,
+  "processed": 218,
+  "verified": 214,
+  "patched": 217,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3343.8,
-  "eta_sec": 9737.4,
+  "elapsed_sec": 3378.2,
+  "eta_sec": 9716.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 216,
-      "patched": 215,
+      "processed": 218,
+      "patched": 217,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 216,
-    "key": "メディアバンク株式会社",
+    "idx": 218,
+    "key": "一般社団法人 日本ベンチャーキャピタル協会",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13812f94c1ea4ba65cac19",
+      "key": "朝日新聞社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d6888beda66639c47c",
+      "key": "メディアバンク株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381d58041ce8be03003ce",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/TMI-349aa45a3f1381c89a24ef6e6f3aaa34",
       "key": "TMI 総合法律事務所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381e8869ef03035a03cba",
-      "key": "福島県",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381e09c45eb23b3f9d19a",
-      "key": "トーテックアメニティ株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
