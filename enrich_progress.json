@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 80,
-  "verified": 78,
-  "patched": 79,
+  "processed": 83,
+  "verified": 81,
+  "patched": 82,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1224.7,
-  "eta_sec": 11710.8,
+  "elapsed_sec": 1263.4,
+  "eta_sec": 11599.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 80,
-      "patched": 79,
+      "processed": 83,
+      "patched": 82,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 80,
-    "key": "愛知県東浦町",
+    "idx": 83,
+    "key": "官民連携事業研究所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381af8fe2e49a43be951a",
+      "key": "大阪市高速電気軌道株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13811b8be0cb07c4f8e058",
+      "key": "豊橋市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13818d8361f6097af5212d",
+      "key": "愛知県東浦町",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/HASSYADAI-SOCIAL-349aa45a3f138103961fe3d64e16b0d3",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381b69050ccf9608fd41c",
       "key": "岡谷鋼機株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d1ad4dc9a401907b2b",
-      "key": "しまねの看板 (株)エヌサイン",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/N-349aa45a3f1381cc84c3d94befc0a803",
-      "key": "Nサイン",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13810bb4d8fc6f3eb4b8f6",
-      "key": "株式会社 熟豊ファーム",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
