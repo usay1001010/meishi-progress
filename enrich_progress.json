@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 187,
+  "processed": 188,
   "verified": 176,
   "patched": 171,
-  "unchanged": 5,
+  "unchanged": 6,
   "failed": 0,
-  "low_confidence": 10,
+  "low_confidence": 11,
   "not_found": 10,
-  "elapsed_sec": 3414.4,
-  "eta_sec": 12014.1,
+  "elapsed_sec": 3452.9,
+  "eta_sec": 12066.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,7 +24,7 @@
     },
     "office": {
       "total": 37,
-      "processed": 29,
+      "processed": 30,
       "patched": 15,
       "not_found": 10,
       "failed": 0
@@ -40,11 +40,19 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 187,
-    "key": "株式会社ミトリ / 三鷹訪問介護ステーション、三鷹訪問看護ステーション",
+    "idx": 188,
+    "key": "社会福祉法人 郡上市社会福祉協議会 / すみれ作業所",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "empty",
+      "key": "株式会社ミトリ / 三鷹訪問介護ステーション、三鷹訪問看護ステーション",
+      "notion_url": "",
+      "note": "0項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -436,14 +444,6 @@
       "key": "株式会社 Think Life",
       "notion_url": "https://www.notion.so/Think-Life-349aa45a3f13811b822acfb8314b1802",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "合同会社Think Body Japan",
-      "notion_url": "https://www.notion.so/Think-Body-Japan-349aa45a3f1381df9505c9947d5a5c62",
-      "note": "8項目"
     }
   ]
 }
