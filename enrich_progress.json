@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 179,
-  "verified": 175,
-  "patched": 178,
+  "processed": 181,
+  "verified": 177,
+  "patched": 180,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2749.6,
-  "eta_sec": 10230.2,
+  "elapsed_sec": 2781.2,
+  "eta_sec": 10202.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 179,
-      "patched": 178,
+      "processed": 181,
+      "patched": 180,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 179,
-    "key": "神田須田町二丁目町会",
+    "idx": 181,
+    "key": "裾野市役所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/AZAPA-349aa45a3f138179b222c175c28fc28a",
+      "key": "AZAPA 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138117a506c21b7f5bffc9",
+      "key": "神田須田町二丁目町会",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13811581fcfa4311e8e5fc",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381c2895bd6fef89cb6fc",
       "key": "株式会社 パシフィック",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138130974ff413b1fd81bd",
-      "key": "株式会社 経済界倶楽部",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138160909fe95f9cce383e",
-      "key": "株式会社 ビーブブリッド",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
