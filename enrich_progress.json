@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 78,
-  "verified": 75,
-  "patched": 76,
+  "processed": 80,
+  "verified": 77,
+  "patched": 78,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1389.3,
-  "eta_sec": 13661.6,
+  "elapsed_sec": 1454.8,
+  "eta_sec": 13911.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 78,
-      "patched": 76,
+      "processed": 80,
+      "patched": 78,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 78,
-    "key": "ともいき会 グループ 医療法人 / 社会福祉法人",
+    "idx": 80,
+    "key": "医療法人社団ともいき会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "ともいき会グループ",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381059f6df7a8bb2d0930",
+      "note": "6項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "ともいき会 グループ 医療法人 / 社会福祉法人",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e4a8d9d7312d2b4f81",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 福寿園",
       "notion_url": "https://www.notion.so/349aa45a3f1381ff94e5ed5daf132714",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "あいち中央農業協同組合",
-      "notion_url": "https://www.notion.so/349aa45a3f1381659d30d225b4e6a5e9",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 名古屋市総合リハビリテーション事業団",
-      "notion_url": "https://www.notion.so/349aa45a3f13810bad6ad73d53e69e9c",
       "note": "9項目"
     }
   ]
