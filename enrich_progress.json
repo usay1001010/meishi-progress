@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 117,
-  "verified": 111,
-  "patched": 114,
+  "processed": 119,
+  "verified": 112,
+  "patched": 116,
   "unchanged": 2,
   "failed": 0,
-  "low_confidence": 5,
+  "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 2117.7,
-  "eta_sec": 13176.7,
+  "elapsed_sec": 2163.1,
+  "eta_sec": 13196.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 117,
-      "patched": 114,
+      "processed": 119,
+      "patched": 116,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 117,
-    "key": "株式会社AMAO",
+    "idx": 119,
+    "key": "社会福祉法人 練馬区社会福祉事業団",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "合同会社 Yet",
+      "notion_url": "https://www.notion.so/Yet-349aa45a3f1381f6be6bf7b477c29875",
+      "note": "1項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社AMAO",
+      "notion_url": "https://www.notion.so/AMAO-349aa45a3f13818ea938f819fb25c6cd",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "株式会社セキショウライフサポート",
       "notion_url": "https://www.notion.so/349aa45a3f1381078c60d9b5cdf3b72b",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 豊生会",
-      "notion_url": "https://www.notion.so/349aa45a3f138135afc5fc7b56a2ec91",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 豐生会",
-      "notion_url": "https://www.notion.so/349aa45a3f138132838ed1a7387dc656",
-      "note": "9項目"
     }
   ]
 }
