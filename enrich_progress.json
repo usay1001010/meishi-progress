@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 70,
-  "verified": 69,
-  "patched": 69,
+  "processed": 73,
+  "verified": 72,
+  "patched": 72,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 1037.6,
-  "eta_sec": 11487.3,
+  "elapsed_sec": 1083.0,
+  "eta_sec": 11453.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 70,
-      "patched": 69,
+      "processed": 73,
+      "patched": 72,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 70,
-    "key": "国立大学法人 名古屋工業大学",
+    "idx": 73,
+    "key": "ONETRIP",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381efa106ed7ce8c7a474",
+      "key": "大同大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/TEENS-ENTREPRENEURS-349aa45a3f1381daa46afeff90311448",
+      "key": "TEENS ENTREPRENEURS",
+      "note": "7項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138124add7da71c881e425",
+      "key": "国立大学法人 名古屋工業大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138145a7fbd69d8184d528",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/bgrass-346aa45a3f13815b9bb7fd06ead1c65a",
       "key": "bgrass株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13819389a0c1605297c64c",
-      "key": "株式会社 山陰放送",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381199ddac61ff1eae47f",
-      "key": "株式会社ミダスキャピタル",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381fc8a7ccb49fdf161ed",
-      "key": "千葉道場株式会社",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
