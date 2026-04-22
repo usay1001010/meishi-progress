@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 65,
-  "verified": 63,
-  "patched": 64,
+  "processed": 67,
+  "verified": 65,
+  "patched": 66,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1275.5,
-  "eta_sec": 15306.5,
+  "elapsed_sec": 1307.2,
+  "eta_sec": 15178.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 65,
-      "patched": 64,
+      "processed": 67,
+      "patched": 66,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 65,
-    "key": "株式会社Yoii"
+    "idx": 67,
+    "key": "有限責任監査法人トーマツ"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Skyland-Ventures-349aa45a3f138136838fda777bee96c6",
+      "status": "ok",
+      "note": "9項目",
+      "key": "Skyland Ventures",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Yoii-346aa45a3f1381038cb8dd10bc2452af",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社Yoii",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/sikm-346aa45a3f138192a7fddd2f31896e86",
@@ -427,22 +443,6 @@
       "status": "ok",
       "note": "9項目",
       "key": "STUDIO POLAR/S",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/100BANCH-349aa45a3f138177acc3f70045b6783e",
-      "status": "ok",
-      "note": "9項目",
-      "key": "100BANCH",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/Tol-Nexus-349aa45a3f1381b5bf1cdda3f015569d",
-      "status": "ok",
-      "note": "9項目",
-      "key": "株式会社 Tol Nexus",
       "action": "patched"
     }
   ]
