@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 47,
-  "verified": 45,
-  "patched": 46,
+  "processed": 49,
+  "verified": 47,
+  "patched": 48,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 811.3,
-  "eta_sec": 13774.3,
+  "elapsed_sec": 844.4,
+  "eta_sec": 13718.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 47,
-      "patched": 46,
+      "processed": 49,
+      "patched": 48,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 47,
-    "key": "TRINITY PARTNERS",
+    "idx": 49,
+    "key": "有限会社ミヤビサポート",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ビサイド",
+      "notion_url": "https://www.notion.so/349aa45a3f13810f9077ec1c62e72e09",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "TRINITY PARTNERS",
+      "notion_url": "https://www.notion.so/TRINITY-PARTNERS-349aa45a3f138180b7a2e02635fcd5ef",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
