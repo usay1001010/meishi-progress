@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 276,
-  "verified": 271,
-  "patched": 275,
+  "processed": 278,
+  "verified": 272,
+  "patched": 277,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 4,
+  "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4328.7,
-  "eta_sec": 8924.1,
+  "elapsed_sec": 4368.9,
+  "eta_sec": 8910.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 276,
-      "patched": 275,
+      "processed": 278,
+      "patched": 277,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 276,
-    "key": "スタートアップリーグ",
+    "idx": 278,
+    "key": "株式会社 LEO",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b59c01e78a6cdc7b06",
+      "key": "小学館",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d8befdf0cc8110c86f",
+      "key": "スタートアップリーグ",
+      "note": "3項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138183975ac431f8aba288",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381a68d37f65236ec13e7",
       "key": "株式会社タナベコンサルティング",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381d8b3aff6f6423fe229",
-      "key": "ヨシオ工業株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138119b7f1c1a60ce5689f",
-      "key": "テックランチャー株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
