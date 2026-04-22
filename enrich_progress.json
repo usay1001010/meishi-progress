@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 379,
-  "verified": 372,
-  "patched": 378,
+  "processed": 382,
+  "verified": 375,
+  "patched": 381,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5860.4,
-  "eta_sec": 7205.7,
+  "elapsed_sec": 5903.3,
+  "eta_sec": 7155.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 379,
-      "patched": 378,
+      "processed": 382,
+      "patched": 381,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 379,
-    "key": "株式会社 文祥堂",
+    "idx": 382,
+    "key": "キャップジェミニ株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Re-connect-345aa45a3f1381238167d98266998be3",
+      "key": "株式会社 Re.connect",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SUNDRED-349aa45a3f1381958a1ae11743751169",
+      "key": "SUNDRED 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381db8be7ed5693345831",
+      "key": "株式会社 文祥堂",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/344aa45a3f1381b49dfce791fcc19912",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13810ab0ffdc5a1f922d53",
       "key": "株式会社ミナカノ",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138179b860c904854690d0",
-      "key": "福井県",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/XRice-345aa45a3f1381c8a8d1cda4fa18718b",
-      "key": "株式会社XRice",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138195b43cff41a12c9c3f",
-      "key": "株式会社はんぽさき",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
