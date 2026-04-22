@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 271,
-  "verified": 233,
-  "patched": 227,
+  "processed": 274,
+  "verified": 235,
+  "patched": 229,
   "unchanged": 6,
-  "failed": 23,
+  "failed": 24,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 4875.9,
-  "eta_sec": 10327.6,
+  "elapsed_sec": 4918.7,
+  "eta_sec": 10250.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,42 @@
     },
     "sh": {
       "total": 650,
-      "processed": 76,
-      "patched": 52,
+      "processed": 79,
+      "patched": 54,
       "not_found": 0,
-      "failed": 23
+      "failed": 24
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 271,
-    "key": "地域と人と未来株式会社",
+    "idx": 274,
+    "key": "参議院事務局",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "Venture Café Tokyo",
+      "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "STATION Ai 株式会社",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: スタートアップ支援, オープンイノベーション"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "地域と人と未来株式会社",
+      "notion_url": "https://www.notion.so/345aa45a3f1381f783c1e90bf576e5e2",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -391,28 +413,6 @@
       "action": "patched",
       "key": "あいち銀行",
       "notion_url": "https://www.notion.so/344aa45a3f13815cb576c3394633fdd5",
-      "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "KOMEHYO HOLDINGS",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 持株会社, リユース"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社ビーシステム",
-      "notion_url": "https://www.notion.so/344aa45a3f13814cb513e8cee47b546b",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "公益財団法人 フォーリン・プレスセンター",
-      "notion_url": "https://www.notion.so/349aa45a3f13812fb001d7e09c47eaa4",
       "note": "10項目"
     }
   ]
