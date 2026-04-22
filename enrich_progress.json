@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 29,
-  "verified": 28,
-  "patched": 28,
+  "processed": 32,
+  "verified": 31,
+  "patched": 31,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 385.4,
-  "eta_sec": 10845.3,
+  "elapsed_sec": 431.3,
+  "eta_sec": 10957.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 29,
-      "patched": 28,
+      "processed": 32,
+      "patched": 31,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 29,
-    "key": "Dining Bar Frutta",
+    "idx": 32,
+    "key": "しまねの看板 (株)エヌサイン",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/N-349aa45a3f1381cc84c3d94befc0a803",
+      "key": "Nサイン",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13810bb4d8fc6f3eb4b8f6",
+      "key": "株式会社 熟豊ファーム",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Dining-Bar-Frutta-347aa45a3f1381718dceeebc8b243d23",
+      "key": "Dining Bar Frutta",
+      "note": "6項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381ae9d94f4900baab98d",
