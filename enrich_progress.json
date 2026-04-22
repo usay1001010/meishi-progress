@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 55,
-  "verified": 53,
-  "patched": 54,
+  "processed": 57,
+  "verified": 55,
+  "patched": 56,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 963.0,
-  "eta_sec": 13831.5,
+  "elapsed_sec": 996.9,
+  "eta_sec": 13781.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 55,
-      "patched": 54,
+      "processed": 57,
+      "patched": 56,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 55,
-    "key": "株式会社リ・コネクト",
+    "idx": 57,
+    "key": "社会福祉法人 新城市社会福祉協議会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "(公財)愛知県健康づくり振興事業団",
+      "notion_url": "https://www.notion.so/349aa45a3f1381428eefd48d7913c680",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社リ・コネクト",
+      "notion_url": "https://www.notion.so/349aa45a3f1381fea6f5c2372c75ba52",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 市原寮",
       "notion_url": "https://www.notion.so/349aa45a3f1381d7af6fdbcf92cfe240",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "長寿メディカル株式会社",
-      "notion_url": "https://www.notion.so/33aaa45a3f138136aaebd9139788d9e5",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ベネッセスタイルケア",
-      "notion_url": "https://www.notion.so/349aa45a3f138199ba5fdfae36538970",
-      "note": "8項目"
     }
   ]
 }
