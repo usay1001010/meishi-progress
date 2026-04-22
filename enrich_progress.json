@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 55,
-  "verified": 53,
-  "patched": 54,
+  "processed": 57,
+  "verified": 55,
+  "patched": 56,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1133.8,
-  "eta_sec": 16285.5,
+  "elapsed_sec": 1168.1,
+  "eta_sec": 16148.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 55,
-      "patched": 54,
+      "processed": 57,
+      "patched": 56,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 55,
-    "key": "株式会社 FUNDINNO"
+    "idx": 57,
+    "key": "三菱UFJモルガン・スタンレー証券株式会社"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/S-Nanotech-Co-Creation-349aa45a3f1381339bade0dbd8c59e48",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社 S-Nanotech Co-Creation",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/FUNDINNO-349aa45a3f1381dd88f9c3216b67242e",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社 FUNDINNO",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/345aa45a3f13818ebb90fff33b8ed004",
@@ -427,22 +443,6 @@
       "status": "ok",
       "note": "10項目",
       "key": "株式会社カナメヤ",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/TEDxNagoyaU-349aa45a3f1381129364d1b2c715b7f5",
-      "status": "ok",
-      "note": "8項目",
-      "key": "TEDxNagoyaU",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/JAPAN-349aa45a3f1381978544d3bd21911dc4",
-      "status": "ok",
-      "note": "10項目",
-      "key": "合同会社 テックスタンドJAPAN",
       "action": "patched"
     }
   ]
