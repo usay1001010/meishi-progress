@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 117,
-  "verified": 114,
-  "patched": 116,
+  "processed": 120,
+  "verified": 117,
+  "patched": 119,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1779.3,
-  "eta_sec": 11071.1,
+  "elapsed_sec": 1820.2,
+  "eta_sec": 10997.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 117,
-      "patched": 116,
+      "processed": 120,
+      "patched": 119,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 117,
-    "key": "MEGAZONE 株式会社",
+    "idx": 120,
+    "key": "鳥取県商工労働部",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13811d8258dc3725ac7ca3",
+      "key": "独立行政法人 中小企業基盤整備機構",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/ANOBAKA-345aa45a3f1381659599f00f22358a6d",
+      "key": "株式会社ANOBAKA",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/MEGAZONE-349aa45a3f1381eba9a6cff95c1523b2",
+      "key": "MEGAZONE 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138175936bd02d74233192",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f138124add7da71c881e425",
       "key": "国立大学法人 名古屋工業大学",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138145a7fbd69d8184d528",
-      "key": "株式会社プランニングオフィス",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13813e8b1fc6f185873af1",
-      "key": "グーグル・クラウド・ジャパン合同会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/UNCOVERED-FUND-INC-349aa45a3f1381019f89d6648d624ec2",
-      "key": "UNCOVERED FUND INC.",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
