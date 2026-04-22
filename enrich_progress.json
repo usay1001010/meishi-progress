@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 67,
-  "verified": 65,
-  "patched": 66,
+  "processed": 70,
+  "verified": 68,
+  "patched": 69,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1307.2,
-  "eta_sec": 15178.7,
+  "elapsed_sec": 1347.4,
+  "eta_sec": 14917.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 67,
-      "patched": 66,
+      "processed": 70,
+      "patched": 69,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 67,
-    "key": "有限責任監査法人トーマツ"
+    "idx": 70,
+    "key": "テレビせとうち株式会社"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f13815c92c6d69c7ea8aef9",
+      "status": "ok",
+      "note": "10項目",
+      "key": "日本海テレビジョン放送株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f1381838f3fe2a7e44048bc",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社ストライク",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f13814f9f3de2ae78429ace",
+      "status": "ok",
+      "note": "10項目",
+      "key": "有限責任監査法人トーマツ",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/Skyland-Ventures-349aa45a3f138136838fda777bee96c6",
@@ -419,30 +443,6 @@
       "status": "ok",
       "note": "10項目",
       "key": "株式会社HERITAGE",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/349aa45a3f138175a9c9ed78f77aa922",
-      "status": "ok",
-      "note": "10項目",
-      "key": "社会保険労務士法人 ふたば",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/Brownie-349aa45a3f1381b6946ce2ed7ffeddea",
-      "status": "ok",
-      "note": "9項目",
-      "key": "株式会社Brownie",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/STUDIO-POLAR-S-349aa45a3f1381719f16ff15d5b9d331",
-      "status": "ok",
-      "note": "9項目",
-      "key": "STUDIO POLAR/S",
       "action": "patched"
     }
   ]
