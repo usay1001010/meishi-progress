@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 255,
-  "verified": 223,
-  "patched": 216,
+  "processed": 257,
+  "verified": 225,
+  "patched": 218,
   "unchanged": 6,
   "failed": 18,
   "low_confidence": 13,
   "not_found": 14,
-  "elapsed_sec": 4584.6,
-  "eta_sec": 10607.5,
+  "elapsed_sec": 4632.7,
+  "eta_sec": 10599.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 60,
-      "patched": 41,
+      "processed": 62,
+      "patched": 43,
       "not_found": 0,
       "failed": 18
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 255,
-    "key": "株式会社XLOCAL",
+    "idx": 257,
+    "key": "大矢伝動精機株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社中島商店",
+      "notion_url": "https://www.notion.so/346aa45a3f1381fe9f8cfd3d8dfe7be1",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社XLOCAL",
+      "notion_url": "https://www.notion.so/XLOCAL-349aa45a3f13811a85b2df604a828aae",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -400,20 +416,6 @@
       "key": "日本経済新聞社",
       "notion_url": "https://www.notion.so/349aa45a3f13817c989edfcb129761a2",
       "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社CairoPlus",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, 製造DX"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "セーフティー アンド コントロール 株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f138199b5ade713371ffa3f",
-      "note": "9項目"
     }
   ]
 }
