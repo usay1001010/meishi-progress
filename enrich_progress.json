@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 204,
-  "verified": 189,
-  "patched": 180,
+  "processed": 206,
+  "verified": 191,
+  "patched": 182,
   "unchanged": 6,
   "failed": 3,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3730.8,
-  "eta_sec": 11722.9,
+  "elapsed_sec": 3769.8,
+  "eta_sec": 11693.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 9,
-      "patched": 5,
+      "processed": 11,
+      "patched": 7,
       "not_found": 0,
       "failed": 3
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 204,
-    "key": "中部経済産業局",
+    "idx": 206,
+    "key": "株式会社CairoPlus",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "セーフティー アンド コントロール 株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f138199b5ade713371ffa3f",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "中部経済産業局",
+      "notion_url": "https://www.notion.so/349aa45a3f138141b0dec3333ac72b53",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -422,22 +438,6 @@
       "key": "社会福祉法人 美竹会",
       "notion_url": "https://www.notion.so/349aa45a3f138149babef5775107d141",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "合同会社訪問介護人生らくらく",
-      "notion_url": "https://www.notion.so/349aa45a3f1381c19c1bd9a0ac6ca030",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社プラーナ",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381d1a7f4c92bcfcf7d47",
-      "note": "8項目"
     }
   ]
 }
