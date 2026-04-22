@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 53,
-  "verified": 51,
-  "patched": 52,
+  "processed": 55,
+  "verified": 53,
+  "patched": 54,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 928.7,
-  "eta_sec": 13878.3,
+  "elapsed_sec": 963.0,
+  "eta_sec": 13831.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 53,
-      "patched": 52,
+      "processed": 55,
+      "patched": 54,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 53,
-    "key": "社会福祉法人 観寿々会",
+    "idx": 55,
+    "key": "株式会社リ・コネクト",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社サカイ",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a8bffaf40888a6c130",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 観寿々会",
+      "notion_url": "https://www.notion.so/349aa45a3f138180ad31f65386070882",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "株式会社ベネッセスタイルケア",
       "notion_url": "https://www.notion.so/349aa45a3f138199ba5fdfae36538970",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 なごや福祉施設協会",
-      "notion_url": "https://www.notion.so/349aa45a3f13815ea6a1f96db1b96f48",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "一般社団法人 福祉のまどぐち",
-      "notion_url": "https://www.notion.so/349aa45a3f138109a657f58895e6e93c",
       "note": "8項目"
     }
   ]
