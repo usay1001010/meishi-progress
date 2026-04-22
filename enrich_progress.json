@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 453,
-  "verified": 445,
-  "patched": 452,
+  "processed": 456,
+  "verified": 448,
+  "patched": 455,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6913.7,
-  "eta_sec": 5982.7,
+  "elapsed_sec": 6972.4,
+  "eta_sec": 5948.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 453,
-      "patched": 452,
+      "processed": 456,
+      "patched": 455,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 453,
-    "key": "株式会社 NHKエンタープライズ",
+    "idx": 456,
+    "key": "日本野菜ソムリエ協会",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/FRONT-RUNNER-349aa45a3f13813a9d86e1f62874e431",
+      "key": "FRONT-RUNNER",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SCREEN-345aa45a3f138118a001d7a6bb843f7b",
+      "key": "株式会社SCREENホールディングス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/NHK-349aa45a3f1381a4913ae3523a5bbbef",
+      "key": "株式会社 NHKエンタープライズ",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381e9a688c4af19da0392",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b292b4e12670a2b5b2",
       "key": "株式会社フォーエーキャリア",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/M-Creative-Factory-349aa45a3f1381fa895cc2373a6f2419",
-      "key": "M Creative Factory",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138161a9fafce4acf459e6",
-      "key": "アンド・コンサルティングファーム株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f13818981becb8f447c00aa",
-      "key": "株式会社プライムパートナーズ",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
