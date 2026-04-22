@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 290,
-  "verified": 284,
-  "patched": 289,
+  "processed": 293,
+  "verified": 287,
+  "patched": 292,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4586.7,
-  "eta_sec": 8778.0,
+  "elapsed_sec": 4629.4,
+  "eta_sec": 8721.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 290,
-      "patched": 289,
+      "processed": 293,
+      "patched": 292,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 290,
-    "key": "フォレストデジタル 株式会社",
+    "idx": 293,
+    "key": "株式会社 ヒミカ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13819da5ecd4db14ad5c0f",
+      "key": "株式会社大和総研",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Ole-Creation-349aa45a3f13819b8480debbfd94d25d",
+      "key": "Ole Creation",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13814ebc45de4936fc85a0",
+      "key": "フォレストデジタル 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138156a771c74f6bdff266",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/Team-Make-Capital-349aa45a3f1381149531c8410271b26b",
       "key": "株式会社 Team Make Capital",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381ccb7a1fe5331f51241",
-      "key": "奥出雲町役場",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e782b1f0c931e364e7",
-      "key": "能崎物産株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138157a890f80ddcb98676",
-      "key": "株式会社東振",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
