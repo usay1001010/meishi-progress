@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 142,
-  "verified": 139,
-  "patched": 141,
+  "processed": 145,
+  "verified": 142,
+  "patched": 144,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2168.3,
-  "eta_sec": 10734.6,
+  "elapsed_sec": 2209.1,
+  "eta_sec": 10664.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 142,
-      "patched": 141,
+      "processed": 145,
+      "patched": 144,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 142,
-    "key": "ONE REALIZE Inc.",
+    "idx": 145,
+    "key": "株式会社ユーザベース",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13814eb8cfd2797e8876a9",
+      "key": "株式会社ジェイテクト",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Fintegrity-349aa45a3f1381dcbcd9eedc7cfac613",
+      "key": "Fintegrity",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/ONE-REALIZE-Inc-349aa45a3f138134bfb3cbbda1172c0c",
+      "key": "ONE REALIZE Inc.",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/SMBC-349aa45a3f1381ce9f38c2291bcd1ddf",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13815dbfe6cf70b0706a98",
       "key": "ドクターズ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f13814da9f7ca63f25ae57a",
-      "key": "株式会社エフトス",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13817bb158fc2886ea35be",
-      "key": "長岡京市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138181987cf0ca75bf9567",
-      "key": "東海テレビ放送",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
