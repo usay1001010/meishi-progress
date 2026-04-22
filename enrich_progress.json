@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 4,
-  "verified": 3,
-  "patched": 3,
+  "processed": 7,
+  "verified": 6,
+  "patched": 6,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 44.4,
-  "eta_sec": 9337.9,
+  "elapsed_sec": 83.6,
+  "eta_sec": 10012.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 4,
-      "patched": 3,
+      "processed": 7,
+      "patched": 6,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 4,
-    "key": "国立大学法人 鳥取大学",
+    "idx": 7,
+    "key": "株式会社ベンチャーラボインベストメント",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Gazelle-Capital-349aa45a3f13815ea351e8e72b014806",
+      "key": "Gazelle Capital 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381949a70c6cfe4c36775",
+      "key": "きらぼしコンサルティング",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381f998aae89fb13c2e3f",
+      "key": "国立大学法人 鳥取大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/BRJ-349aa45a3f138197b371f346f11a4526",
