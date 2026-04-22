@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 12,
-  "verified": 11,
-  "patched": 11,
+  "processed": 15,
+  "verified": 14,
+  "patched": 14,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 154.2,
-  "eta_sec": 10706.6,
+  "elapsed_sec": 205.3,
+  "eta_sec": 11357.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 12,
-      "patched": 11,
+      "processed": 15,
+      "patched": 14,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 12,
-    "key": "株式会社 電通総研",
+    "idx": 15,
+    "key": "株式会社DG Daiwa Ventures",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d1b1f4c8b849c32485",
+      "key": "株式会社 天地人",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/East-Ventures-349aa45a3f138138a845f0dec9991d83",
+      "key": "East Ventures",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138127a8c9fbbec1f86a22",
+      "key": "株式会社 電通総研",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f138114b852c614fd1e5db8",
