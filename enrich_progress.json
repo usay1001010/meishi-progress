@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 91,
-  "verified": 88,
-  "patched": 89,
+  "processed": 94,
+  "verified": 91,
+  "patched": 92,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1637.6,
-  "eta_sec": 13568.9,
+  "elapsed_sec": 1674.6,
+  "eta_sec": 13379.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 91,
-      "patched": 89,
+      "processed": 94,
+      "patched": 92,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 91,
-    "key": "社会福祉法人 愛知県厚生事業団",
+    "idx": 94,
+    "key": "愛知県厚生農業協同組合連合会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 昭徳会",
+      "notion_url": "https://www.notion.so/33aaa45a3f1381709e5ee9431ed8357e",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人宏徳会",
+      "notion_url": "https://www.notion.so/349aa45a3f13817cb7dfe57240a82305",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 愛知県厚生事業団",
+      "notion_url": "https://www.notion.so/349aa45a3f1381fa90a3f93e6e72ee60",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "ハピリス",
       "notion_url": "https://www.notion.so/349aa45a3f1381419018efc291462f0b",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人 聖俊会",
-      "notion_url": "https://www.notion.so/349aa45a3f138139992fc2bab32d5fac",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人サムス会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a4ad41e24f938f9177",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 百陽会",
-      "notion_url": "https://www.notion.so/33aaa45a3f13812dba47de00cbc1252b",
-      "note": "9項目"
     }
   ]
 }
