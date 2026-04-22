@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 435,
-  "verified": 427,
-  "patched": 434,
+  "processed": 438,
+  "verified": 430,
+  "patched": 437,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6659.7,
-  "eta_sec": 6277.0,
+  "elapsed_sec": 6702.9,
+  "eta_sec": 6228.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 435,
-      "patched": 434,
+      "processed": 438,
+      "patched": 437,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 435,
-    "key": "愛知工業大学名電高等学校",
+    "idx": 438,
+    "key": "内閣官房新しい資本主義実現本部事務局",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/QUICK-345aa45a3f1381bdac4dc24d14f97ea8",
+      "key": "株式会社Quick",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/KANNON-349aa45a3f138110b466c6597c21e18b",
+      "key": "株式会社KANNON",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381088283eb7319501515",
+      "key": "愛知工業大学名電高等学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/MITRA-datascience-349aa45a3f1381e9a691c2b94073b600",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/344aa45a3f1381beb235d56e0e78f4fa",
       "key": "豊田市",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381199d98cc598fb0ddc9",
-      "key": "刈谷イノベーション推進プラットフォーム",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381c294bef52cd9adf152",
-      "key": "三谷産業株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f1381aaadd3d7fb5e76bc31",
-      "key": "みはたま株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
