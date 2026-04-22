@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 349,
-  "verified": 343,
-  "patched": 348,
+  "processed": 351,
+  "verified": 345,
+  "patched": 350,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5405.3,
-  "eta_sec": 7682.0,
+  "elapsed_sec": 5439.4,
+  "eta_sec": 7655.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 349,
-      "patched": 348,
+      "processed": 351,
+      "patched": 350,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 349,
-    "key": "株式会社日本ケアコミュニケーションズ",
+    "idx": 351,
+    "key": "常葉大学",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138158aa5cc3630fe35fd6",
+      "key": "九州ヘルスケア産業推進協議会",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138126828df67c302671ff",
+      "key": "株式会社日本ケアコミュニケーションズ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/epiST-Ventures-345aa45a3f1381aabf83d6b339bed4a9",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/SysC-349aa45a3f1381e4a0c5eb61fafa43da",
       "key": "SysC 株式会社 システムクリエイト",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381ccb477cd5e61cd3606",
-      "key": "エヌ・デーソフトウェア株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381479b19d45f852704f7",
-      "key": "豊田通商株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
