@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 181,
-  "verified": 177,
-  "patched": 180,
+  "processed": 184,
+  "verified": 180,
+  "patched": 183,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2781.2,
-  "eta_sec": 10202.8,
+  "elapsed_sec": 2835.3,
+  "eta_sec": 10185.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 181,
-      "patched": 180,
+      "processed": 184,
+      "patched": 183,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 181,
-    "key": "裾野市役所",
+    "idx": 184,
+    "key": "株式会社 ビーブリッド",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381508f79fd8c680b638e",
+      "key": "裾野市ケアマネ会",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381b1af49e56630607414",
+      "key": "裾野市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138155bf60c5955c69a192",
+      "key": "裾野市役所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/AZAPA-349aa45a3f138179b222c175c28fc28a",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13811387b2d30c0fede554",
       "key": "浜松市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Major7th-349aa45a3f1381a39605d87aefc8449e",
-      "key": "株式会社 Major7th",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381cb8449f9fb201ccd47",
-      "key": "株式会社 三菱総合研究所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381c2895bd6fef89cb6fc",
-      "key": "株式会社 パシフィック",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
