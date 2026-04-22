@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 338,
-  "verified": 332,
-  "patched": 337,
+  "processed": 341,
+  "verified": 335,
+  "patched": 340,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5260.6,
-  "eta_sec": 7890.9,
+  "elapsed_sec": 5296.0,
+  "eta_sec": 7827.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 338,
-      "patched": 337,
+      "processed": 341,
+      "patched": 340,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 338,
-    "key": "Dress Code 株式会社",
+    "idx": 341,
+    "key": "株式会社光通信",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/MTG-Ventures-Inc-349aa45a3f13817f9bcecc75cf1ae67f",
+      "key": "MTG Ventures, Inc.",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f190c4dd61ca46d78b",
+      "key": "株式会社スペースシフト",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Dress-Code-345aa45a3f138106a802c3df1d97e159",
+      "key": "Dress Code 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13810abedcd1bc385b28d4",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/Ole-Creation-349aa45a3f13819b8480debbfd94d25d",
       "key": "Ole Creation",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13814ebc45de4936fc85a0",
-      "key": "フォレストデジタル 株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138156a771c74f6bdff266",
-      "key": "株式会社ウェルモ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dcb84cd253c8c24336",
-      "key": "公益財団法人 名古屋産業振興公社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
