@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 8,
-  "verified": 7,
-  "patched": 7,
+  "processed": 11,
+  "verified": 10,
+  "patched": 10,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 116.8,
-  "eta_sec": 12215.4,
+  "elapsed_sec": 159.3,
+  "eta_sec": 12080.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 8,
-      "patched": 7,
+      "processed": 11,
+      "patched": 10,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 8,
-    "key": "ニチイ学館",
+    "idx": 11,
+    "key": "滝子通一丁目福祉施設",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 大起エンゼルヘルプ",
+      "notion_url": "https://www.notion.so/349aa45a3f1381aa8a8aedbe4ac40132",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 ニチイホールディングス",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b79a27ffc186602eb0",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "ニチイ学館",
+      "notion_url": "https://www.notion.so/349aa45a3f1381479e22eb43b7fc66d3",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
