@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 401,
-  "verified": 393,
-  "patched": 400,
+  "processed": 404,
+  "verified": 396,
+  "patched": 403,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6188.1,
-  "eta_sec": 6851.7,
+  "elapsed_sec": 6236.0,
+  "eta_sec": 6807.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 401,
-      "patched": 400,
+      "processed": 404,
+      "patched": 403,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 401,
-    "key": "mihatama",
+    "idx": 404,
+    "key": "アンド・コンサルティングファーム株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f13818981becb8f447c00aa",
+      "key": "株式会社プライムパートナーズ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13818a93c5f681d00eba7c",
+      "key": "株式会社ロング・タイム・キャピタル",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/mihatama-349aa45a3f1381ea86dddc6f7b21f9d6",
+      "key": "mihatama",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13818780bed4923fd806d2",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138138b542dffdd77155f4",
       "key": "東京外国語大学大学院",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/NS-349aa45a3f1381db8195d644c2ae98e7",
-      "key": "NS イノベーションズ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381cab511d075e09dcf38",
-      "key": "財務アドバイザーオフィス",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13810a9f3af0dd82f99b0f",
-      "key": "常葉大学",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
