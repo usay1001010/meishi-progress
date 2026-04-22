@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 459,
-  "verified": 451,
-  "patched": 458,
+  "processed": 462,
+  "verified": 454,
+  "patched": 461,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7011.2,
-  "eta_sec": 5896.2,
+  "elapsed_sec": 7053.8,
+  "eta_sec": 5847.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 459,
-      "patched": 458,
+      "processed": 462,
+      "patched": 461,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 459,
-    "key": "NPO法人 まもるをまもる",
+    "idx": 462,
+    "key": "株式会社Opt Fit",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13815a8e8cc2ae2babbcf3",
+      "key": "株式会社トクイテン",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381bf8b18f6ca38e45ecb",
+      "key": "ビジネスサポート刈谷",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/NPO-349aa45a3f1381069a4fe9fdf5d18dd3",
+      "key": "NPO法人 まもるをまもる",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13813c96cee5efd9bfcf24",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13819eb441fac51c12a73b",
       "key": "公益財団法人 福島県産業振興センター",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b391fcd60a4a253b69",
-      "key": "とやまビジネスインキュベーション",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13818db184c9421757bcc3",
-      "key": "刈谷市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381a89c9bf39b08cfac6d",
-      "key": "アソビュー株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
