@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 40,
-  "verified": 39,
-  "patched": 39,
+  "processed": 43,
+  "verified": 41,
+  "patched": 42,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 0,
+  "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 697.9,
-  "eta_sec": 14044.7,
+  "elapsed_sec": 736.3,
+  "eta_sec": 13732.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 40,
-      "patched": 39,
+      "processed": 43,
+      "patched": 42,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 40,
-    "key": "社会福祉法人 弘寿福祉会",
+    "idx": 43,
+    "key": "医療法人 聖俊会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人サムス会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a4ad41e24f938f9177",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 百陽会",
+      "notion_url": "https://www.notion.so/33aaa45a3f13812dba47de00cbc1252b",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 弘寿福祉会",
+      "notion_url": "https://www.notion.so/349aa45a3f138100abcdee9931bb4e91",
+      "note": "1項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
