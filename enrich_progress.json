@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 184,
-  "verified": 180,
-  "patched": 183,
+  "processed": 187,
+  "verified": 183,
+  "patched": 186,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2835.3,
-  "eta_sec": 10185.4,
+  "elapsed_sec": 2874.5,
+  "eta_sec": 10114.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 184,
-      "patched": 183,
+      "processed": 187,
+      "patched": 186,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 184,
-    "key": "株式会社 ビーブリッド",
+    "idx": 187,
+    "key": "積水化学工業 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13812c8838ff026e42762e",
+      "key": "パラマウントベッド株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138140ada9d2142b12be7e",
+      "key": "株式会社ゼロワンブースター",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381149c48d27ceaadea8f",
+      "key": "株式会社 ビーブリッド",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381508f79fd8c680b638e",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/344aa45a3f138171a6c1ce0355a28f35",
       "key": "愛知県雇用労働相談センター",
       "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f1381318823c9ab1b4c24ab",
-      "key": "新潟ビジネス専門学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381eda2ffcee645d85b81",
-      "key": "株式会社 三虎データサイエンス",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13811387b2d30c0fede554",
-      "key": "浜松市",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
