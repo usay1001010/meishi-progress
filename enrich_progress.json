@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 296,
-  "verified": 290,
-  "patched": 295,
+  "processed": 298,
+  "verified": 292,
+  "patched": 297,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4667.9,
-  "eta_sec": 8657.6,
+  "elapsed_sec": 4701.8,
+  "eta_sec": 8630.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 296,
-      "patched": 295,
+      "processed": 298,
+      "patched": 297,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 296,
-    "key": "株式会社バイオシルバー",
+    "idx": 298,
+    "key": "株式会社ブルーオーシャンシステム",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a1a628fba03bc3f035",
+      "key": "株式会社フュージョン",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a08ffff4430e90741a",
+      "key": "株式会社バイオシルバー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381218293eff9828456a1",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/IVS-349aa45a3f138126af03c4ee170e9161",
       "key": "IVS",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13818995e6d477bf4f76c6",
-      "key": "農林中金キャピタル株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138113a1f9e7f5f7c4e164",
-      "key": "ジークス株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
