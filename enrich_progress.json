@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 239,
-  "verified": 234,
-  "patched": 238,
+  "processed": 241,
+  "verified": 236,
+  "patched": 240,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3729.4,
-  "eta_sec": 9456.1,
+  "elapsed_sec": 3764.2,
+  "eta_sec": 9433.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 239,
-      "patched": 238,
+      "processed": 241,
+      "patched": 240,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 239,
-    "key": "株式会社 絶対そうしよ!",
+    "idx": 241,
+    "key": "能崎物産株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138157a890f80ddcb98676",
+      "key": "株式会社東振",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b4842cc202b869072d",
+      "key": "株式会社 絶対そうしよ!",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/QR-349aa45a3f1381b0b44bc986daaff1f5",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/jig-jp-349aa45a3f1381ccb802f53765b910dc",
       "key": "株式会社 jig.jp",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13818c87d9e1413041cb6f",
-      "key": "ジーコム株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Z-Works-349aa45a3f138146bd3cce1b54cfe29b",
-      "key": "株式会社 Z-Works",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
