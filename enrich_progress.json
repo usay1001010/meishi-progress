@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 135,
-  "verified": 127,
-  "patched": 132,
+  "processed": 138,
+  "verified": 130,
+  "patched": 135,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2416.9,
-  "eta_sec": 12711.0,
+  "elapsed_sec": 2455.9,
+  "eta_sec": 12582.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 135,
-      "patched": 132,
+      "processed": 138,
+      "patched": 135,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 135,
-    "key": "社会福祉法人 西春日井福祉社会",
+    "idx": 138,
+    "key": "株式会社 Think Life",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "合同会社Think Body Japan",
+      "notion_url": "https://www.notion.so/Think-Body-Japan-349aa45a3f1381df9505c9947d5a5c62",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "合同会社 Think Body Japan",
+      "notion_url": "https://www.notion.so/Think-Body-Japan-349aa45a3f13811fba5fe6772df2907a",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 西春日井福祉社会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381089316dedb2cdcd5b4",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "株式会社 キート",
       "notion_url": "https://www.notion.so/349aa45a3f138198b0e6df89faa17088",
       "note": "7項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 ナンブ",
-      "notion_url": "https://www.notion.so/349aa45a3f138171b30fc159422b01b3",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 真誠会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381ce8b35cc61b22b194b",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "N.K.Cナーシングコアコーポレーション合同会社",
-      "notion_url": "https://www.notion.so/N-K-C-349aa45a3f138138a0a2cf1c4b0eb000",
-      "note": "9項目"
     }
   ]
 }
