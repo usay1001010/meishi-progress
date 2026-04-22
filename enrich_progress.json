@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 44,
-  "verified": 43,
-  "patched": 43,
+  "processed": 47,
+  "verified": 46,
+  "patched": 46,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 621.6,
-  "eta_sec": 11316.8,
+  "elapsed_sec": 663.2,
+  "eta_sec": 11260.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 44,
-      "patched": 43,
+      "processed": 47,
+      "patched": 46,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 44,
-    "key": "神奈川県",
+    "idx": 47,
+    "key": "株式会社LX DESIGN",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138114aabbf8bb79ef6b89",
+      "key": "愛知教育大学附属名古屋中学校",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13816db920c1e45bdaa6d8",
+      "key": "一般社団法人食共育推進協会",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f13818ab69ac2c50713f69e",
+      "key": "神奈川県",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381708aaaf108ad63d09f",
