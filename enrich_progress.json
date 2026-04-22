@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 37,
-  "verified": 36,
-  "patched": 36,
+  "processed": 39,
+  "verified": 38,
+  "patched": 38,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 508.5,
-  "eta_sec": 11104.2,
+  "elapsed_sec": 544.4,
+  "eta_sec": 11250.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 37,
-      "patched": 36,
+      "processed": 39,
+      "patched": 38,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 37,
-    "key": "株式会社プレゼンス・メディカル",
+    "idx": 39,
+    "key": "株式会社InnoProviZation",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138183b4b2d5174c4fd3de",
+      "key": "株式会社 藍",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138120b769dfb74f62d04c",
+      "key": "株式会社プレゼンス・メディカル",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381e2a6c9eaee2eca0c3c",
