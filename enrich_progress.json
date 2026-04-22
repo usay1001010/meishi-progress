@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 430,
-  "verified": 422,
-  "patched": 429,
+  "processed": 432,
+  "verified": 424,
+  "patched": 431,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6586.9,
-  "eta_sec": 6357.1,
+  "elapsed_sec": 6621.3,
+  "eta_sec": 6330.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 430,
-      "patched": 429,
+      "processed": 432,
+      "patched": 431,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 430,
-    "key": "東京大学協創プラットフォーム開発株式会社",
+    "idx": 432,
+    "key": "株式会社LeaP UP!",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138167b998ed2a6d4b98a2",
+      "key": "武蔵野大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138105ab2cc4e0ece479a2",
+      "key": "東京大学協創プラットフォーム開発株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13817e955ff62cdc6029b4",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f1381e19346cd507bec323d",
       "key": "キャップジェミニ株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Re-connect-345aa45a3f1381238167d98266998be3",
-      "key": "株式会社 Re.connect",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/SUNDRED-349aa45a3f1381958a1ae11743751169",
-      "key": "SUNDRED 株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
