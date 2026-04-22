@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 111,
-  "verified": 106,
-  "patched": 108,
+  "processed": 114,
+  "verified": 108,
+  "patched": 111,
   "unchanged": 2,
   "failed": 0,
-  "low_confidence": 4,
+  "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 2017.7,
-  "eta_sec": 13342.2,
+  "elapsed_sec": 2075.6,
+  "eta_sec": 13309.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 111,
-      "patched": 108,
+      "processed": 114,
+      "patched": 111,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 111,
-    "key": "アイエルサポート 株式会社",
+    "idx": 114,
+    "key": "社会福祉法人「ゼノ」",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 Ki・Zu・Na",
+      "notion_url": "https://www.notion.so/Ki-Zu-Na-349aa45a3f1381ec865fd701df2ba192",
+      "note": "5項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 裾野市社会福祉協議会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f59fc6ef46b9aa88d1",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "アイエルサポート 株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a89de7d4925568c2f6",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -419,30 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 みどりの里",
       "notion_url": "https://www.notion.so/33aaa45a3f1381a6b4fbfffbea67cf3d",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "empty",
-      "key": "株式会社 Jフロンティア, 株式会社 やすらぎ",
-      "notion_url": "",
-      "note": "0項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社グッドケアソリューション",
-      "notion_url": "https://www.notion.so/33aaa45a3f138116b14bcb84fb2af880",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "SOUP TOWN",
-      "notion_url": "https://www.notion.so/SOUP-TOWN-349aa45a3f1381b89ba2e136a27317e8",
       "note": "8項目"
     }
   ]
