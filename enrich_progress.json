@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 146,
-  "verified": 138,
-  "patched": 143,
+  "processed": 148,
+  "verified": 140,
+  "patched": 145,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2590.2,
-  "eta_sec": 12401.0,
+  "elapsed_sec": 2626.8,
+  "eta_sec": 12371.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 146,
-      "patched": 143,
+      "processed": 148,
+      "patched": 145,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 146,
-    "key": "社会福祉法人 兼六福祉社会",
+    "idx": 148,
+    "key": "株式会社ウィルオブ・ワーク",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 幸会",
+      "notion_url": "https://www.notion.so/349aa45a3f13811fafedf091329eb22f",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 兼六福祉社会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381399bb3e422c63cde94",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "株式会社 こすもす",
       "notion_url": "https://www.notion.so/349aa45a3f1381798cd3e393f0102643",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 清泉の宿",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dbb575e04f4b48f22c",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "合同会社 P-BEANS",
-      "notion_url": "https://www.notion.so/P-BEANS-349aa45a3f138129bbdbf61b3746480b",
-      "note": "8項目"
     }
   ]
 }
