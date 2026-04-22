@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 192,
-  "verified": 188,
-  "patched": 191,
+  "processed": 195,
+  "verified": 191,
+  "patched": 194,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2951.3,
-  "eta_sec": 10037.4,
+  "elapsed_sec": 2995.3,
+  "eta_sec": 9984.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 192,
-      "patched": 191,
+      "processed": 195,
+      "patched": 194,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 192,
-    "key": "株式会社 Acompany",
+    "idx": 195,
+    "key": "株式会社カチノデ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Crystal-349aa45a3f13812a8f3de7968936f963",
+      "key": "Crystal株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138166b92dce01fa54a70f",
+      "key": "株式会社キャピタルメディカ・ベンチャーズ",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Acompany-349aa45a3f13812c80d0e1925160d60f",
+      "key": "株式会社 Acompany",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/jig-jp-349aa45a3f1381ccb802f53765b910dc",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381318d65ce00bdd61ac3",
       "key": "株式会社ユーザベース",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13814eb8cfd2797e8876a9",
-      "key": "株式会社ジェイテクト",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Fintegrity-349aa45a3f1381dcbcd9eedc7cfac613",
-      "key": "Fintegrity",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/ONE-REALIZE-Inc-349aa45a3f138134bfb3cbbda1172c0c",
-      "key": "ONE REALIZE Inc.",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
