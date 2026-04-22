@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 88,
-  "verified": 86,
-  "patched": 87,
+  "processed": 90,
+  "verified": 88,
+  "patched": 89,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1332.1,
-  "eta_sec": 11459.3,
+  "elapsed_sec": 1374.9,
+  "eta_sec": 11534.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 88,
-      "patched": 87,
+      "processed": 90,
+      "patched": 89,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 88,
-    "key": "公益社団法人 金沢青年会議所",
+    "idx": 90,
+    "key": "刈谷商工会議所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381c79cd9c81229e09f99",
+      "key": "名古屋商科大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381728f05ca9d6fa57373",
+      "key": "公益社団法人 金沢青年会議所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/344aa45a3f1381a3ad97e48e673466e7",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381d7ba0efa9d11056710",
       "key": "オカヤシステム",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/InnoProviZation-346aa45a3f1381fc9904f381e74d97f7",
-      "key": "株式会社InnoProviZation",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138183b4b2d5174c4fd3de",
-      "key": "株式会社 藍",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
