@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 96,
-  "verified": 94,
-  "patched": 95,
+  "processed": 98,
+  "verified": 96,
+  "patched": 97,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1449.7,
-  "eta_sec": 11310.9,
+  "elapsed_sec": 1482.4,
+  "eta_sec": 11299.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 96,
-      "patched": 95,
+      "processed": 98,
+      "patched": 97,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 96,
-    "key": "株式会社 サイエンス・クリエイト",
+    "idx": 98,
+    "key": "LobbyAI株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/GROWTH-VERSE-346aa45a3f138116b9cece65ef309441",
+      "key": "株式会社 GROWTH VERSE",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138156a586ea896ced97a4",
+      "key": "株式会社 サイエンス・クリエイト",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13815dbfe6cf70b0706a98",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13817683dfc642552ab990",
       "key": "日本ムーブ株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/LX-DESIGN-347aa45a3f1381ae9b64ec84d7d21f2e",
-      "key": "株式会社LX DESIGN",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138114aabbf8bb79ef6b89",
-      "key": "愛知教育大学附属名古屋中学校",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
