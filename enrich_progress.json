@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 85,
-  "verified": 83,
-  "patched": 84,
+  "processed": 88,
+  "verified": 86,
+  "patched": 87,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1296.0,
-  "eta_sec": 11587.4,
+  "elapsed_sec": 1332.1,
+  "eta_sec": 11459.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 85,
-      "patched": 84,
+      "processed": 88,
+      "patched": 87,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 85,
-    "key": "株式会社 大丸松坂屋百貨店",
+    "idx": 88,
+    "key": "公益社団法人 金沢青年会議所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381a3ad97e48e673466e7",
+      "key": "日本福祉大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Esfiida-349aa45a3f1381c79518c425b7c8bde2",
+      "key": "株式会社 Esfiida",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13813d94f2e701d70135af",
+      "key": "株式会社 大丸松坂屋百貨店",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f138183b4b2d5174c4fd3de",
       "key": "株式会社 藍",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138120b769dfb74f62d04c",
-      "key": "株式会社プレゼンス・メディカル",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e2a6c9eaee2eca0c3c",
-      "key": "株式会社 エフトス",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/LOZI-349aa45a3f1381108d83d40201a511f7",
-      "key": "株式会社 LOZI",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
