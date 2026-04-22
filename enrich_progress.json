@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 7,
-  "verified": 6,
-  "patched": 6,
+  "processed": 10,
+  "verified": 9,
+  "patched": 9,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 83.6,
-  "eta_sec": 10012.9,
+  "elapsed_sec": 122.6,
+  "eta_sec": 10236.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 7,
-      "patched": 6,
+      "processed": 10,
+      "patched": 9,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 7,
-    "key": "株式会社ベンチャーラボインベストメント",
+    "idx": 10,
+    "key": "90 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e88e62e8da9318c66b",
+      "key": "株式会社スマートエコー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d38056f1d79ed89ef9",
+      "key": "株式会社ベンチャーラボイノベーション",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13817d8ea6d4dd4d328a83",
+      "key": "株式会社ベンチャーラボインベストメント",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Gazelle-Capital-349aa45a3f13815ea351e8e72b014806",
