@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 332,
-  "verified": 326,
-  "patched": 331,
+  "processed": 335,
+  "verified": 329,
+  "patched": 334,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5181.0,
-  "eta_sec": 8005.6,
+  "elapsed_sec": 5221.4,
+  "eta_sec": 7948.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 332,
-      "patched": 331,
+      "processed": 335,
+      "patched": 334,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 332,
-    "key": "株式会社ミナカノ",
+    "idx": 335,
+    "key": "国立研究開発法人 情報通信研究機構",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e1b4f1ea213980009e",
+      "key": "愛知県信用保証協会",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381159b6bf3a2ebd8e5b8",
+      "key": "株式会社ザ・ファージ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13810ab0ffdc5a1f922d53",
+      "key": "株式会社ミナカノ",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138179b860c904854690d0",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f13818b8058d883da918911",
       "key": "こまきこども未来館",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f1381a3b370c99f2a11d6e8",
-      "key": "シスタ株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/careplussolutions-349aa45a3f138147b416db1daca49b5d",
-      "key": "careplussolutions株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381208e78f126c903e8bf",
-      "key": "東海旅客鉄道株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
