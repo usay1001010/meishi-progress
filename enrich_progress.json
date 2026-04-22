@@ -5,19 +5,19 @@
   "force": false,
   "mode": "overwrite",
   "total": 158,
-  "processed": 2,
-  "verified": 1,
+  "processed": 4,
+  "verified": 3,
   "patched": 0,
-  "unchanged": 1,
+  "unchanged": 3,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 31.3,
-  "eta_sec": 2444.4,
+  "elapsed_sec": 66.3,
+  "eta_sec": 2551.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 2,
+      "processed": 4,
       "patched": 0,
       "not_found": 0,
       "failed": 0
@@ -27,10 +27,26 @@
     "patched": false,
     "phase": "kkaku",
     "verified": false,
-    "idx": 2,
-    "key": "株式会社 SOYOKAZE"
+    "idx": 4,
+    "key": "社会福祉法人 なごや福祉施設協会"
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "note": "8項目",
+      "action": "dry-run",
+      "key": "一般社団法人 福祉のまどぐち",
+      "notion_url": ""
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "note": "9項目",
+      "action": "dry-run",
+      "key": "株式会社 SOYOKAZE",
+      "notion_url": ""
+    },
     {
       "status": "ok",
       "phase": "kkaku",
