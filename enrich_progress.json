@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 13,
-  "verified": 12,
-  "patched": 12,
+  "processed": 15,
+  "verified": 14,
+  "patched": 14,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 206.0,
-  "eta_sec": 13183.4,
+  "elapsed_sec": 240.5,
+  "eta_sec": 13305.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 13,
-      "patched": 12,
+      "processed": 15,
+      "patched": 14,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 13,
-    "key": "スギホールディングス株式会社",
+    "idx": 15,
+    "key": "社会医療法人 名古屋記念財団",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ミトリ",
+      "notion_url": "https://www.notion.so/349aa45a3f13813685bec1fa3dbca3c4",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "スギホールディングス株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f138167a41beb1d66669e2d",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
