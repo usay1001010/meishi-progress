@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 179,
-  "verified": 168,
-  "patched": 166,
+  "processed": 181,
+  "verified": 170,
+  "patched": 168,
   "unchanged": 5,
   "failed": 0,
   "low_confidence": 10,
   "not_found": 7,
-  "elapsed_sec": 3261.0,
-  "eta_sec": 12133.3,
+  "elapsed_sec": 3292.9,
+  "eta_sec": 12080.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,8 +24,8 @@
     },
     "office": {
       "total": 37,
-      "processed": 21,
-      "patched": 10,
+      "processed": 23,
+      "patched": 12,
       "not_found": 7,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 179,
-    "key": "社会福祉法人 裾野市社会福祉協議会 / 裾野市居宅介護支援センター",
+    "idx": 181,
+    "key": "社会福祉法人「ゼノ」 / JOBプラスはんど",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "株式会社 Ki・Zu・Na / つなぐ訪問看護 リハビリステーション",
+      "notion_url": "https://www.notion.so/349aa45a3f1381149a42dbb55f2dfa76",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "社会福祉法人 裾野市社会福祉協議会 / 裾野市居宅介護支援センター",
+      "notion_url": "https://www.notion.so/349aa45a3f13810d8ce1c165e222225c",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "あしたば合同会社",
       "notion_url": "https://www.notion.so/349aa45a3f13819a89acdaa46eebd09a",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "有限会社五ツ星",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a0ba58f0287b3c5708",
-      "note": "6項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "OSS 株式会社",
-      "notion_url": "https://www.notion.so/OSS-349aa45a3f138101afa7cad5fec6e600",
       "note": "8項目"
     }
   ]
