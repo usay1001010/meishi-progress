@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 321,
-  "verified": 265,
-  "patched": 260,
+  "processed": 323,
+  "verified": 267,
+  "patched": 262,
   "unchanged": 6,
   "failed": 40,
   "low_confidence": 15,
   "not_found": 14,
-  "elapsed_sec": 5719.5,
-  "eta_sec": 9336.6,
+  "elapsed_sec": 5750.7,
+  "eta_sec": 9293.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 126,
-      "patched": 85,
+      "processed": 128,
+      "patched": 87,
       "not_found": 0,
       "failed": 40
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 321,
-    "key": "一般社団法人 全国設備業DX推進会",
+    "idx": 323,
+    "key": "株式会社 都市テクノ",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "Street Medical Labo",
+      "notion_url": "https://www.notion.so/Street-Medical-Labo-349aa45a3f1381a39e31fe39e74b4a29",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "一般社団法人 全国設備業DX推進会",
+      "notion_url": "https://www.notion.so/DX-346aa45a3f138134a58dca440ae0ed73",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -396,20 +412,6 @@
       "key": "Venture Café Tokyo",
       "notion_url": "https://www.notion.so/Venture-Caf-Tokyo-349aa45a3f1381fc9ad6d6763358e8b9",
       "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "STATION Ai 株式会社",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: スタートアップ支援, オープンイノベーション"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "地域と人と未来株式会社",
-      "notion_url": "https://www.notion.so/345aa45a3f1381f783c1e90bf576e5e2",
-      "note": "9項目"
     }
   ]
 }
