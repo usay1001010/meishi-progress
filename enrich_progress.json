@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 130,
-  "verified": 127,
-  "patched": 129,
+  "processed": 132,
+  "verified": 129,
+  "patched": 131,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1968.2,
-  "eta_sec": 10824.8,
+  "elapsed_sec": 2027.3,
+  "eta_sec": 10950.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 130,
-      "patched": 129,
+      "processed": 132,
+      "patched": 131,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 130,
-    "key": "株式会社 経済界倶楽部",
+    "idx": 132,
+    "key": "株式会社 三菱総合研究所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381c2895bd6fef89cb6fc",
+      "key": "株式会社 パシフィック",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138130974ff413b1fd81bd",
+      "key": "株式会社 経済界倶楽部",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138160909fe95f9cce383e",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381af8fe2e49a43be951a",
       "key": "大阪市高速電気軌道株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13811b8be0cb07c4f8e058",
-      "key": "豊橋市",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13818d8361f6097af5212d",
-      "key": "愛知県東浦町",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
