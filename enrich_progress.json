@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 274,
-  "verified": 235,
-  "patched": 229,
+  "processed": 277,
+  "verified": 238,
+  "patched": 232,
   "unchanged": 6,
   "failed": 24,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 4918.7,
-  "eta_sec": 10250.3,
+  "elapsed_sec": 4954.6,
+  "eta_sec": 10159.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 79,
-      "patched": 54,
+      "processed": 82,
+      "patched": 57,
       "not_found": 0,
       "failed": 24
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 274,
-    "key": "参議院事務局",
+    "idx": 277,
+    "key": "NPO法人 タダカヨ",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "パーソル キャリア 株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f13811ea74ed5d54fd39b00",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "刈谷市役所",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d99975d979077f45d8",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "参議院事務局",
+      "notion_url": "https://www.notion.so/346aa45a3f13818183b2f594ad09a914",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -393,26 +417,6 @@
       "action": "patched",
       "key": "株式会社あいちFGマーケティング",
       "notion_url": "https://www.notion.so/FG-345aa45a3f1381e4b987fab1fa3b62e8",
-      "note": "10項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "アートギャラリーショップ むらさきぐも",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: アートギャラリー, 雑貨販売"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社 TERRAISE",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI研修, AIコンサルティング"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "あいち銀行",
-      "notion_url": "https://www.notion.so/344aa45a3f13815cb576c3394633fdd5",
       "note": "10項目"
     }
   ]
