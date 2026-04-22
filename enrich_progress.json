@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 96,
-  "verified": 93,
-  "patched": 94,
+  "processed": 99,
+  "verified": 96,
+  "patched": 97,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1707.4,
-  "eta_sec": 13321.3,
+  "elapsed_sec": 1768.0,
+  "eta_sec": 13322.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 96,
-      "patched": 94,
+      "processed": 99,
+      "patched": 97,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 96,
-    "key": "合同会社 P-BEANS",
+    "idx": 99,
+    "key": "株式会社コンフォート",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 こすもす",
+      "notion_url": "https://www.notion.so/349aa45a3f1381798cd3e393f0102643",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 清泉の宿",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dbb575e04f4b48f22c",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "合同会社 P-BEANS",
+      "notion_url": "https://www.notion.so/P-BEANS-349aa45a3f138129bbdbf61b3746480b",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "有限会社ミヤビサポート",
       "notion_url": "https://www.notion.so/349aa45a3f1381e385f6f85101cfde86",
       "note": "7項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ビサイド",
-      "notion_url": "https://www.notion.so/349aa45a3f13810f9077ec1c62e72e09",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "TRINITY PARTNERS",
-      "notion_url": "https://www.notion.so/TRINITY-PARTNERS-349aa45a3f138180b7a2e02635fcd5ef",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "日本ライフケアソリューションズ 株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f138103ac7bf06d772cd3c1",
-      "note": "8項目"
     }
   ]
 }
