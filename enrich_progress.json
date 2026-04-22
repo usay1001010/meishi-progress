@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 315,
-  "verified": 309,
-  "patched": 314,
+  "processed": 318,
+  "verified": 312,
+  "patched": 317,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4952.8,
-  "eta_sec": 8333.3,
+  "elapsed_sec": 4992.2,
+  "eta_sec": 8273.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 315,
-      "patched": 314,
+      "processed": 318,
+      "patched": 317,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 315,
-    "key": "Clothoホールディングス株式会社",
+    "idx": 318,
+    "key": "弁護士法人 東海総合",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d0a2d1d1726b9b7b4e",
+      "key": "柴田ハム食品株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13819c9d7afe8fc4e1b1cc",
+      "key": "一般社団法人はんだのたね",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Clotho-349aa45a3f138184971beaea011c741d",
+      "key": "Clothoホールディングス株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381dcb08acf19eec7dbda",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381a38ba0d344714fafde",
       "key": "カサナレ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13814e865aec61c2c3895d",
-      "key": "株式会社ハンズオン",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/ULS-346aa45a3f138134904ad1878ad9c43b",
-      "key": "ULSコンサルティング株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381889529e3182d8fe742",
-      "key": "日本アイ・ビー・エム株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
