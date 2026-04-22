@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 279,
-  "verified": 273,
-  "patched": 278,
+  "processed": 281,
+  "verified": 275,
+  "patched": 280,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4402.8,
-  "eta_sec": 8931.9,
+  "elapsed_sec": 4437.2,
+  "eta_sec": 8906.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 279,
-      "patched": 278,
+      "processed": 281,
+      "patched": 280,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 279,
-    "key": "株式会社 BLANCO",
+    "idx": 281,
+    "key": "百十四銀行",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b28647e2bb60bf79e0",
+      "key": "ボンとらや",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/BLANCO-349aa45a3f138157965ff09ebf064cd5",
+      "key": "株式会社 BLANCO",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/LEO-349aa45a3f138181b2f1fb474962886f",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381fba469d07782c58182",
       "key": "慶應義塾大学大学院 メディアデザイン研究科附属研究所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/WCS-349aa45a3f1381fc957bc259824f14ba",
-      "key": "株式会社WCS",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f1381c9ac0bd4fe80717e98",
-      "key": "石川県",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
