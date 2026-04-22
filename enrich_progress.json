@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 253,
-  "verified": 248,
-  "patched": 252,
+  "processed": 256,
+  "verified": 251,
+  "patched": 255,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3985.1,
-  "eta_sec": 9324.8,
+  "elapsed_sec": 4026.2,
+  "eta_sec": 9263.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 253,
-      "patched": 252,
+      "processed": 256,
+      "patched": 255,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 253,
-    "key": "株式会社テレビ朝日ホールディングス",
+    "idx": 256,
+    "key": "池森ベンチャーサポート 合同会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381389bfdc26e3fdeecee",
+      "key": "池森ベンチャーサポート合同会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/mediVR-349aa45a3f1381fd8363f16fd8affdfe",
+      "key": "株式会社mediVR",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13810eb5ead5a02df1ca33",
+      "key": "株式会社テレビ朝日ホールディングス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/UNERI-346aa45a3f138151a191f767d86a2dd9",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13811a8d31dab24afb1976",
       "key": "株式会社 メイドー",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/codeless-technology-345aa45a3f138156a9cfc9ecb8260583",
-      "key": "codeless technology 株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138128860fd0bb2971745b",
-      "key": "トヨタ自動車株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/NEWRECT-349aa45a3f13815bb0f9df024eced99e",
-      "key": "株式会社NEWRECT",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
