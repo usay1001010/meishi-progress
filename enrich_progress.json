@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 18,
-  "verified": 17,
-  "patched": 17,
+  "processed": 21,
+  "verified": 20,
+  "patched": 20,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 245.6,
-  "eta_sec": 11282.4,
+  "elapsed_sec": 280.2,
+  "eta_sec": 10995.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 18,
-      "patched": 17,
+      "processed": 21,
+      "patched": 20,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 18,
-    "key": "セイノーホールディングス株式会社",
+    "idx": 21,
+    "key": "株式会社ミダスキャピタル",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381fc8a7ccb49fdf161ed",
+      "key": "千葉道場株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13813bade3f5b29e739ff0",
+      "key": "株式会社 テレビ朝日",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381d185a2f5f32caee849",
+      "key": "セイノーホールディングス株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13818f9b49fcb20da55d5a",
