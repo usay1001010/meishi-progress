@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 283,
-  "verified": 277,
-  "patched": 282,
+  "processed": 285,
+  "verified": 279,
+  "patched": 284,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4471.3,
-  "eta_sec": 8879.3,
+  "elapsed_sec": 4507.9,
+  "eta_sec": 8857.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 283,
-      "patched": 282,
+      "processed": 285,
+      "patched": 284,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 283,
-    "key": "careplussolutions株式会社",
+    "idx": 285,
+    "key": "こまきこども未来館",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f1381a3b370c99f2a11d6e8",
+      "key": "シスタ株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/careplussolutions-349aa45a3f138147b416db1daca49b5d",
+      "key": "careplussolutions株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381208e78f126c903e8bf",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/Quiny-349aa45a3f13814287f2db74a0c08ff1",
       "key": "Quiny 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381588b17fe2a175a07e3",
-      "key": "三和物産株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13812ebd01e3b035755e46",
-      "key": "株式会社北陸レジャー",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
