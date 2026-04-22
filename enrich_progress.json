@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 151,
-  "verified": 148,
-  "patched": 150,
+  "processed": 153,
+  "verified": 150,
+  "patched": 152,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2288.0,
-  "eta_sec": 10515.8,
+  "elapsed_sec": 2320.6,
+  "eta_sec": 10495.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 151,
-      "patched": 150,
+      "processed": 153,
+      "patched": 152,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 151,
-    "key": "株式会社SPOTS",
+    "idx": 153,
+    "key": "セゾンAMEX",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13815a9a4fe21acff66cb3",
+      "key": "名鉄協商株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SPOTS-345aa45a3f13817dad57c865966dcca7",
+      "key": "株式会社SPOTS",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Rehab-for-JAPAN-349aa45a3f138148895cfce782d735b3",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381429959c84ca7cb7d89",
       "key": "経済産業省 北海道経済産業局",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138158880bd8ef9e073e5a",
-      "key": "鳥取県",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381b195e4dbd203ac0fdc",
-      "key": "鳥取市",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
