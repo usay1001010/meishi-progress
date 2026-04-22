@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 462,
-  "verified": 454,
-  "patched": 461,
+  "processed": 464,
+  "verified": 456,
+  "patched": 463,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7053.8,
-  "eta_sec": 5847.6,
+  "elapsed_sec": 7090.9,
+  "eta_sec": 5822.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 462,
-      "patched": 461,
+      "processed": 464,
+      "patched": 463,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 462,
-    "key": "株式会社Opt Fit",
+    "idx": 464,
+    "key": "日東工業株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13817eafccc2d2749715fe",
+      "key": "とよたイノベーションセンター",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Opt-Fit-346aa45a3f13810ca5efca8f42b5f9ac",
+      "key": "株式会社Opt Fit",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13815a8e8cc2ae2babbcf3",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381b19d4dd74cf9b0acac",
       "key": "内閣官房",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138115a857df67b3f9223d",
-      "key": "慶應義塾大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13819eb441fac51c12a73b",
-      "key": "公益財団法人 福島県産業振興センター",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
