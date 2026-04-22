@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 441,
-  "verified": 433,
-  "patched": 440,
+  "processed": 444,
+  "verified": 436,
+  "patched": 443,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6741.6,
-  "eta_sec": 6175.9,
+  "elapsed_sec": 6782.2,
+  "eta_sec": 6125.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 441,
-      "patched": 440,
+      "processed": 444,
+      "patched": 443,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 441,
-    "key": "株式会社ニューロジカ",
+    "idx": 444,
+    "key": "弁護士法人STORIA",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/DouDouDoujin-349aa45a3f1381079660efb7f51d87d5",
+      "key": "DouDouDoujin 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13818a9395f9bc368a6067",
+      "key": "株式会社つな技",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e4a08cce535dc043ea",
+      "key": "株式会社ニューロジカ",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13817dba4bc95a0aea73c1",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138176b7bffaa1983f2875",
       "key": "インキュベイトファンド株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138151b41bd6a5aefcae3a",
-      "key": "株式会社中部新生不動産",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Tech-CFO-office-349aa45a3f138187b397ebed49e1c2c4",
-      "key": "株式会社 Tech CFO office",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/CROSS-349aa45a3f1381d1a381ce20fb8a5954",
-      "key": "株式会社 CROSS",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
