@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 164,
-  "verified": 160,
-  "patched": 163,
+  "processed": 167,
+  "verified": 163,
+  "patched": 166,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2507.5,
-  "eta_sec": 10412.3,
+  "elapsed_sec": 2545.3,
+  "eta_sec": 10333.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 164,
-      "patched": 163,
+      "processed": 167,
+      "patched": 166,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 164,
-    "key": "株式会社カナミックネットワーク",
+    "idx": 167,
+    "key": "福島県",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e09c45eb23b3f9d19a",
+      "key": "トーテックアメニティ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381ff9dbedbbbe2b4604a",
+      "key": "ベルメディカルケア株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381fabd4ec9a5858c3dd8",
+      "key": "株式会社カナミックネットワーク",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381a3b74ef3b36d07ae7b",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/MEGAZONE-349aa45a3f1381eba9a6cff95c1523b2",
       "key": "MEGAZONE 株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138175936bd02d74233192",
-      "key": "椙山女学園大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Life-Circles-349aa45a3f138121b866d10786ffde2d",
-      "key": "Life Circles",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/IZANA-349aa45a3f138139aa4ccebbef964f87",
-      "key": "株式会社 IZANA",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
