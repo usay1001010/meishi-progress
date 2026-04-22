@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 359,
-  "verified": 353,
-  "patched": 358,
+  "processed": 362,
+  "verified": 356,
+  "patched": 361,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5554.8,
-  "eta_sec": 7519.9,
+  "elapsed_sec": 5601.7,
+  "eta_sec": 7474.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 359,
-      "patched": 358,
+      "processed": 362,
+      "patched": 361,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 359,
-    "key": "株式会社ブライト・ヴィー",
+    "idx": 362,
+    "key": "株式会社 One Terrace",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381eca5b5d98aa1d78afd",
+      "key": "いちい信用金庫",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138138b398ee84f6ca547b",
+      "key": "株式会社ノバケア",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13816c874df7acb2d6ffcc",
+      "key": "株式会社ブライト・ヴィー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13818b99eedc9701fcdad5",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/Kamon-349aa45a3f1381ed99f1dfc199f8ff95",
       "key": "株式会社Kamon",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Mipox-349aa45a3f138144a5fcc607cd87fca2",
-      "key": "Mipox株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381e194ccf23fe64ede77",
-      "key": "株式会社 日立製作所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381c7a770eca6318edc14",
-      "key": "愛知ドビー株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
