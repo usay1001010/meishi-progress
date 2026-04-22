@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 371,
-  "verified": 364,
-  "patched": 370,
+  "processed": 374,
+  "verified": 367,
+  "patched": 373,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5748.5,
-  "eta_sec": 7344.4,
+  "elapsed_sec": 5789.0,
+  "eta_sec": 7290.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 371,
-      "patched": 370,
+      "processed": 374,
+      "patched": 373,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 371,
-    "key": "公益財団法人 東京都中小企業振興公社",
+    "idx": 374,
+    "key": "株式会社ヘルステクノロジー",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b58635fece6801b565",
+      "key": "株式会社ポケットナース",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/AI-349aa45a3f13817a8974f8c72573089a",
+      "key": "(株)AI予防医学研究所",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381b6bbb9fcff1a1f39c4",
+      "key": "公益財団法人 東京都中小企業振興公社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138168a441eca6c39ff131",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138165a8b9eb44b885a94c",
       "key": "中村留精密工業株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/IRU-inc-349aa45a3f13810487ddfa788e28ee80",
-      "key": "IRU inc.",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/artkake-346aa45a3f1381b58a68d0841c07b8dc",
-      "key": "株式会社artkake",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/YORIDO-349aa45a3f1381ae9e40eaad5df1686b",
-      "key": "YORIDO",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
