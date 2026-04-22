@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 20,
-  "verified": 19,
-  "patched": 19,
+  "processed": 22,
+  "verified": 21,
+  "patched": 21,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 350.1,
-  "eta_sec": 14440.7,
+  "elapsed_sec": 386.2,
+  "eta_sec": 14447.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 20,
-      "patched": 19,
+      "processed": 22,
+      "patched": 21,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 20,
-    "key": "株式会社i&fホールディングス",
+    "idx": 22,
+    "key": "社会福祉法人 あいち",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社 望",
+      "notion_url": "https://www.notion.so/349aa45a3f138120b849f6c298eddb8b",
+      "note": "7項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社i&fホールディングス",
+      "notion_url": "https://www.notion.so/i-f-349aa45a3f1381fda5c1fa0e1e918c17",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
