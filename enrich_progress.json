@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 293,
-  "verified": 287,
-  "patched": 292,
+  "processed": 296,
+  "verified": 290,
+  "patched": 295,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4629.4,
-  "eta_sec": 8721.6,
+  "elapsed_sec": 4667.9,
+  "eta_sec": 8657.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 293,
-      "patched": 292,
+      "processed": 296,
+      "patched": 295,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 293,
-    "key": "株式会社 ヒミカ",
+    "idx": 296,
+    "key": "株式会社バイオシルバー",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381218293eff9828456a1",
+      "key": "名古屋理研電具株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381908525e0569e083e2c",
+      "key": "株式会社環境新聞社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d88fb0f40b7474e666",
+      "key": "株式会社 ヒミカ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13819da5ecd4db14ad5c0f",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f138113a1f9e7f5f7c4e164",
       "key": "ジークス株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/FACTORY-X-INC-349aa45a3f1381d8b301f6f10455e380",
-      "key": "FACTORY X INC.",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381238433dc4c78de84de",
-      "key": "株式会社コムレイズ・インキュベート",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Team-Make-Capital-349aa45a3f1381149531c8410271b26b",
-      "key": "株式会社 Team Make Capital",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
