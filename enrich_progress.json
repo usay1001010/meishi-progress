@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 272,
-  "verified": 267,
-  "patched": 271,
+  "processed": 274,
+  "verified": 269,
+  "patched": 273,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 4264.0,
-  "eta_sec": 8982.6,
+  "elapsed_sec": 4295.1,
+  "eta_sec": 8950.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 272,
-      "patched": 271,
+      "processed": 274,
+      "patched": 273,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 272,
-    "key": "ジャフコグループ株式会社",
+    "idx": 274,
+    "key": "有限会社アドリブ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f08707c7cf103ba100",
+      "key": "おそうじ本舗",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13815496a1fd6b82b97641",
+      "key": "ジャフコグループ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Scalebase-346aa45a3f1381219841fadacf9f285a",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/MEDISY-349aa45a3f1381d998e7c84d3ca80a1b",
       "key": "MEDISY",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b19478e58d47b3187e",
-      "key": "名古屋工業大学工学部",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/CONOMINI-DESIGN-345aa45a3f138178bc9fda495c4644f2",
-      "key": "CONOMINI DESIGN",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
