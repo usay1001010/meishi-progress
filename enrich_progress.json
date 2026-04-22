@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 324,
-  "verified": 318,
-  "patched": 323,
+  "processed": 327,
+  "verified": 321,
+  "patched": 326,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5072.9,
-  "eta_sec": 8157.4,
+  "elapsed_sec": 5112.4,
+  "eta_sec": 8098.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 324,
-      "patched": 323,
+      "processed": 327,
+      "patched": 326,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 324,
-    "key": "中村留精密工業株式会社",
+    "idx": 327,
+    "key": "独立行政法人国立高等専門学校機構 豊田工業高等専門学校",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381edb94cd79cada05a1f",
+      "key": "よりかけ株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13812f9a2af3f0245bcaa3",
+      "key": "鳥取市経済観光部",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138165a8b9eb44b885a94c",
+      "key": "中村留精密工業株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/IRU-inc-349aa45a3f13810487ddfa788e28ee80",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b59c01e78a6cdc7b06",
       "key": "小学館",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d8befdf0cc8110c86f",
-      "key": "スタートアップリーグ",
-      "note": "3項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138183975ac431f8aba288",
-      "key": "合同会社デロイト トーマツ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381f3a4d7ce149ea009b7",
-      "key": "有限会社アドリブ",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
