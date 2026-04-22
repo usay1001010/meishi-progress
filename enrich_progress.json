@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 32,
-  "verified": 31,
-  "patched": 31,
+  "processed": 35,
+  "verified": 34,
+  "patched": 34,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 431.3,
-  "eta_sec": 10957.4,
+  "elapsed_sec": 471.9,
+  "eta_sec": 10921.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 32,
-      "patched": 31,
+      "processed": 35,
+      "patched": 34,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 32,
-    "key": "しまねの看板 (株)エヌサイン",
+    "idx": 35,
+    "key": "株式会社 LOZI",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381648523de6c3be7ea7a",
+      "key": "株式会社ボードルア",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381b69050ccf9608fd41c",
+      "key": "岡谷鋼機株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d1ad4dc9a401907b2b",
+      "key": "しまねの看板 (株)エヌサイン",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/N-349aa45a3f1381cc84c3d94befc0a803",
