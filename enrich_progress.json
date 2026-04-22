@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 139,
-  "verified": 136,
-  "patched": 138,
+  "processed": 142,
+  "verified": 139,
+  "patched": 141,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 2132.0,
-  "eta_sec": 10828.7,
+  "elapsed_sec": 2168.3,
+  "eta_sec": 10734.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 139,
-      "patched": 138,
+      "processed": 142,
+      "patched": 141,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 139,
-    "key": "SoftBank",
+    "idx": 142,
+    "key": "ONE REALIZE Inc.",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SMBC-349aa45a3f1381ce9f38c2291bcd1ddf",
+      "key": "SMBC日興証券株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13817e9194efdf6f63b865",
+      "key": "岐阜商工信用組合",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/SoftBank-349aa45a3f13810b9982fd9062f0eef8",
+      "key": "SoftBank",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13812793b9f53511c9bc45",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138181987cf0ca75bf9567",
       "key": "東海テレビ放送",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f13818ba39be5db7651e0a0",
-      "key": "碧海信用金庫",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138147892dd325778c3ee5",
-      "key": "刈谷商工会議所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381c79cd9c81229e09f99",
-      "key": "名古屋商科大学",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
