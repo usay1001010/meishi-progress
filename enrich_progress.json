@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 34,
-  "verified": 33,
-  "patched": 33,
+  "processed": 37,
+  "verified": 36,
+  "patched": 36,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 609.2,
-  "eta_sec": 14531.5,
+  "elapsed_sec": 656.2,
+  "eta_sec": 14330.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 34,
-      "patched": 33,
+      "processed": 37,
+      "patched": 36,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 34,
-    "key": "社会福祉法人 香西会",
+    "idx": 37,
+    "key": "医療法人 幸晴会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ビスカス",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f3ab8fd74d504adb59",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人 幸世会",
+      "notion_url": "https://www.notion.so/349aa45a3f13815796dadf804a1dfeb6",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 香西会",
+      "notion_url": "https://www.notion.so/349aa45a3f13815a920df60aab89ef70",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
