@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 480,
-  "verified": 472,
-  "patched": 479,
+  "processed": 482,
+  "verified": 474,
+  "patched": 481,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7353.6,
-  "eta_sec": 5591.8,
+  "elapsed_sec": 7388.4,
+  "eta_sec": 5564.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 480,
-      "patched": 479,
+      "processed": 482,
+      "patched": 481,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 480,
-    "key": "名城大学附属高等学校",
+    "idx": 482,
+    "key": "BUSINESS-ALLIANCE株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a287b1cb45e75f0d6e",
+      "key": "沼津信用金庫",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381cbbcbee92a014ee3ac",
+      "key": "名城大学附属高等学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13812cbbc8ffdbe39e7e9d",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/LeaP-UP-349aa45a3f138138bea0e241b646f90b",
       "key": "株式会社LeaP UP!",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138167b998ed2a6d4b98a2",
-      "key": "武蔵野大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138105ab2cc4e0ece479a2",
-      "key": "東京大学協創プラットフォーム開発株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
