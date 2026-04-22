@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 6,
-  "verified": 5,
-  "patched": 5,
+  "processed": 8,
+  "verified": 7,
+  "patched": 7,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 66.9,
-  "eta_sec": 9348.6,
+  "elapsed_sec": 107.2,
+  "eta_sec": 11212.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 6,
-      "patched": 5,
+      "processed": 8,
+      "patched": 7,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 6,
-    "key": "TEDxNagoyaU"
+    "idx": 8,
+    "key": "株式会社善光総合研究所"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/347aa45a3f138135aff5fe4b2a5cd46d",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社カナメヤ",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/TEDxNagoyaU-349aa45a3f1381129364d1b2c715b7f5",
+      "status": "ok",
+      "note": "8項目",
+      "key": "TEDxNagoyaU",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/JAPAN-349aa45a3f1381978544d3bd21911dc4",
