@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 66,
-  "verified": 63,
-  "patched": 64,
+  "processed": 68,
+  "verified": 65,
+  "patched": 66,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1182.1,
-  "eta_sec": 13952.6,
+  "elapsed_sec": 1225.2,
+  "eta_sec": 13999.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 66,
-      "patched": 64,
+      "processed": 68,
+      "patched": 66,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 66,
-    "key": "社会福祉法人 刈谷市社会福祉協議会",
+    "idx": 68,
+    "key": "社会福祉法人 豊生会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 豐生会",
+      "notion_url": "https://www.notion.so/349aa45a3f138132838ed1a7387dc656",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 刈谷市社会福祉協議会",
+      "notion_url": "https://www.notion.so/349aa45a3f13814da2b3d00b040756c9",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "一般財団法人 太田総合病院",
       "notion_url": "https://www.notion.so/349aa45a3f1381a89e5cd1effa3719d9",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "医療法人 並木会",
-      "notion_url": "https://www.notion.so/33aaa45a3f138158b1c7d8971e52c664",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社メディエール",
-      "notion_url": "https://www.notion.so/349aa45a3f1381deaa77cdfb52947241",
-      "note": "6項目"
     }
   ]
 }
