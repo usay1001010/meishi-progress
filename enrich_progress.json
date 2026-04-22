@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 246,
-  "verified": 241,
-  "patched": 245,
+  "processed": 249,
+  "verified": 244,
+  "patched": 248,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3831.9,
-  "eta_sec": 9330.5,
+  "elapsed_sec": 3894.0,
+  "eta_sec": 9320.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 246,
-      "patched": 245,
+      "processed": 249,
+      "patched": 248,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 246,
-    "key": "ジークス株式会社",
+    "idx": 249,
+    "key": "株式会社トコシエ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/IVS-349aa45a3f138126af03c4ee170e9161",
+      "key": "IVS",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13818995e6d477bf4f76c6",
+      "key": "農林中金キャピタル株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f138113a1f9e7f5f7c4e164",
+      "key": "ジークス株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/FACTORY-X-INC-349aa45a3f1381d8b301f6f10455e380",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13810e99fde67c15cd2821",
       "key": "三井住友海上キャピタル株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/OKB-SCLAMB-349aa45a3f138177a6c6dcfd7d895e4f",
-      "key": "OKB SCLAMB",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/OKB-349aa45a3f1381acad39f084f2a9a9a5",
-      "key": "株式会社 OKBキャピタル",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13815c8d30cadb42a7b460",
-      "key": "学校法人 椙山女学園",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
