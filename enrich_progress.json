@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 362,
-  "verified": 356,
-  "patched": 361,
+  "processed": 364,
+  "verified": 358,
+  "patched": 363,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5601.7,
-  "eta_sec": 7474.1,
+  "elapsed_sec": 5640.0,
+  "eta_sec": 7452.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 362,
-      "patched": 361,
+      "processed": 364,
+      "patched": 363,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 362,
-    "key": "株式会社 One Terrace",
+    "idx": 364,
+    "key": "株式会社メディケアコラボ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138178ab96ec7c0adf488e",
+      "key": "名古屋理研電具 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/One-Terrace-349aa45a3f1381d5a569f9b5d0e6c89c",
+      "key": "株式会社 One Terrace",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381eca5b5d98aa1d78afd",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381dcb08acf19eec7dbda",
       "key": "独立行政法人 工業所有権情報・研修館",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381e7af8eda5c57897829",
-      "key": "東海学園大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Kamon-349aa45a3f1381ed99f1dfc199f8ff95",
-      "key": "株式会社Kamon",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
