@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 123,
-  "verified": 115,
-  "patched": 120,
+  "processed": 125,
+  "verified": 117,
+  "patched": 122,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2238.4,
-  "eta_sec": 13139.3,
+  "elapsed_sec": 2270.5,
+  "eta_sec": 13077.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 123,
-      "patched": 120,
+      "processed": 125,
+      "patched": 122,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 123,
-    "key": "株式会社マザアス",
+    "idx": 125,
+    "key": "社会福祉法人 寿陽会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 善光会",
+      "notion_url": "https://www.notion.so/349aa45a3f138195bd0defc0607a602d",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社マザアス",
+      "notion_url": "https://www.notion.so/349aa45a3f13816680f9cdab8419e022",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "メディカル・ケア・サービス株式会社",
       "notion_url": "https://www.notion.so/349aa45a3f1381079dcdfa421a919e19",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "ワイツーエム 株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f1381088fa2cb4bc1860c50",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 ニチイ学館",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381a69155cc69f80ec05a",
       "note": "8項目"
     }
   ]
