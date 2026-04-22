@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 78,
-  "verified": 76,
-  "patched": 77,
+  "processed": 80,
+  "verified": 78,
+  "patched": 79,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1194.0,
-  "eta_sec": 11741.3,
+  "elapsed_sec": 1224.7,
+  "eta_sec": 11710.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 78,
-      "patched": 77,
+      "processed": 80,
+      "patched": 79,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 78,
-    "key": "公益財団法人 愛知県健康づくり振興事業団",
+    "idx": 80,
+    "key": "愛知県東浦町",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/HASSYADAI-SOCIAL-349aa45a3f138103961fe3d64e16b0d3",
+      "key": "HASSYADAI SOCIAL",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f13811fa8c9f0c04ca5d187",
+      "key": "公益財団法人 愛知県健康づくり振興事業団",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Deepcore-349aa45a3f138109b084c391654c2ce2",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13810bb4d8fc6f3eb4b8f6",
       "key": "株式会社 熟豊ファーム",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Dining-Bar-Frutta-347aa45a3f1381718dceeebc8b243d23",
-      "key": "Dining Bar Frutta",
-      "note": "6項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381ae9d94f4900baab98d",
-      "key": "ニッセイ・キャピタル株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
