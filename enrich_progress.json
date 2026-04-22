@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 341,
-  "verified": 335,
-  "patched": 340,
+  "processed": 344,
+  "verified": 338,
+  "patched": 343,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5296.0,
-  "eta_sec": 7827.5,
+  "elapsed_sec": 5333.7,
+  "eta_sec": 7767.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 341,
-      "patched": 340,
+      "processed": 344,
+      "patched": 343,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 341,
-    "key": "株式会社光通信",
+    "idx": 344,
+    "key": "株式会社 ifoods",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381008292e755bd4a1ddb",
+      "key": "名古屋大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e29213ee46646aa346",
+      "key": "みずほ証券株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138131891cc40ad2c91c94",
+      "key": "株式会社光通信",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/MTG-Ventures-Inc-349aa45a3f13817f9bcecc75cf1ae67f",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381908525e0569e083e2c",
       "key": "株式会社環境新聞社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d88fb0f40b7474e666",
-      "key": "株式会社 ヒミカ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13819da5ecd4db14ad5c0f",
-      "key": "株式会社大和総研",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Ole-Creation-349aa45a3f13819b8480debbfd94d25d",
-      "key": "Ole Creation",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
