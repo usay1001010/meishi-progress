@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 177,
-  "verified": 167,
+  "processed": 179,
+  "verified": 168,
   "patched": 166,
-  "unchanged": 4,
+  "unchanged": 5,
   "failed": 0,
-  "low_confidence": 9,
-  "not_found": 6,
-  "elapsed_sec": 3188.4,
-  "eta_sec": 12033.0,
+  "low_confidence": 10,
+  "not_found": 7,
+  "elapsed_sec": 3261.0,
+  "eta_sec": 12133.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,9 +24,9 @@
     },
     "office": {
       "total": 37,
-      "processed": 19,
+      "processed": 21,
       "patched": 10,
-      "not_found": 6,
+      "not_found": 7,
       "failed": 0
     },
     "sh": {
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 177,
-    "key": "医療法人 純正会 / 法人本部事務局",
+    "idx": 179,
+    "key": "社会福祉法人 裾野市社会福祉協議会 / 裾野市居宅介護支援センター",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "empty",
+      "key": "アイエルサポート 株式会社 / 訪問看護ステーション 虹心, 生活介護 彩雲の館",
+      "notion_url": "",
+      "note": "0項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "医療法人 純正会 / 法人本部事務局",
+      "notion_url": "",
+      "note": "3項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -428,22 +444,6 @@
       "key": "OSS 株式会社",
       "notion_url": "https://www.notion.so/OSS-349aa45a3f138101afa7cad5fec6e600",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 センチュリークリエイティブ",
-      "notion_url": "https://www.notion.so/349aa45a3f1381daa7b5c019bd913ece",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 郡上市社会福祉協議会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b99a08fd7ed9d56b93",
-      "note": "9項目"
     }
   ]
 }
