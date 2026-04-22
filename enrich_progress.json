@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 73,
-  "verified": 72,
-  "patched": 72,
+  "processed": 75,
+  "verified": 73,
+  "patched": 74,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 0,
+  "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1083.0,
-  "eta_sec": 11453.0,
+  "elapsed_sec": 1155.2,
+  "eta_sec": 11859.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 73,
-      "patched": 72,
+      "processed": 75,
+      "patched": 74,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 73,
-    "key": "ONETRIP",
+    "idx": 75,
+    "key": "とっとりキャピタル株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/TOM-JAPAN-349aa45a3f13816499e1fac585c03ca0",
+      "key": "TOM JAPAN",
+      "note": "5項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/ONETRIP-349aa45a3f1381119c84d29f347ab7c5",
+      "key": "ONETRIP",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381efa106ed7ce8c7a474",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/SecureNavi-345aa45a3f13812b9adfd95bc301afc7",
       "key": "SecureNavi株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/HEARTBEATS-345aa45a3f1381da9cb5ebec02e7b40a",
-      "key": "株式会社HEARTBEATS",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/bgrass-346aa45a3f13815b9bb7fd06ead1c65a",
-      "key": "bgrass株式会社",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
