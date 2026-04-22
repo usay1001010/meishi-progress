@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 172,
-  "verified": 168,
-  "patched": 171,
+  "processed": 175,
+  "verified": 171,
+  "patched": 174,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 2632.7,
-  "eta_sec": 10301.4,
+  "elapsed_sec": 2684.8,
+  "eta_sec": 10278.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 172,
-      "patched": 171,
+      "processed": 175,
+      "patched": 174,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 172,
-    "key": "株式会社 博報堂プロダクツ",
+    "idx": 175,
+    "key": "株式会社ワイズマン",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13816d864fde173eded5f4",
+      "key": "株式会社 桜企画",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138157bac0f9bf051daa18",
+      "key": "ケアコラボ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f13819ea21bff0ad0a3dd13",
+      "key": "株式会社 博報堂プロダクツ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138170aa45cbb63d61562c",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/MON-345aa45a3f1381a29ae0de5b1d2b36c5",
       "key": "蔵カフェ MON",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/B-Inc-349aa45a3f138100b43bf6dca9a297cd",
-      "key": "株式会社 B Inc. ビーインク",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138111949efd742353396f",
-      "key": "翁玉川屋株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381beb980e13c39184398",
-      "key": "パーソル ベンチャーパートナーズ合同会社",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
