@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 61,
-  "verified": 59,
-  "patched": 60,
-  "unchanged": 0,
+  "processed": 64,
+  "verified": 61,
+  "patched": 62,
+  "unchanged": 1,
   "failed": 0,
-  "low_confidence": 1,
+  "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1065.8,
-  "eta_sec": 13697.9,
+  "elapsed_sec": 1146.6,
+  "eta_sec": 13992.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 61,
-      "patched": 60,
+      "processed": 64,
+      "patched": 62,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 61,
-    "key": "SOUP TOWN",
+    "idx": 64,
+    "key": "社会福祉法人 みどりの里",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "empty",
+      "key": "株式会社 Jフロンティア, 株式会社 やすらぎ",
+      "notion_url": "",
+      "note": "0項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社グッドケアソリューション",
+      "notion_url": "https://www.notion.so/33aaa45a3f138116b14bcb84fb2af880",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "SOUP TOWN",
+      "notion_url": "https://www.notion.so/SOUP-TOWN-349aa45a3f1381b89ba2e136a27317e8",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -419,30 +443,6 @@
       "action": "patched",
       "key": "株式会社ミトリ",
       "notion_url": "https://www.notion.so/349aa45a3f13813685bec1fa3dbca3c4",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "スギホールディングス株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f138167a41beb1d66669e2d",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社フロンティア",
-      "notion_url": "https://www.notion.so/349aa45a3f1381ada827ef6258943acd",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "滝子通一丁目福祉施設",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d3ab56de879ff0b954",
       "note": "9項目"
     }
   ]
