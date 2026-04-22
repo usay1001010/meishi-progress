@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 61,
-  "verified": 60,
-  "patched": 60,
+  "processed": 64,
+  "verified": 63,
+  "patched": 63,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 902.4,
-  "eta_sec": 11598.2,
+  "elapsed_sec": 935.5,
+  "eta_sec": 11415.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 61,
-      "patched": 60,
+      "processed": 64,
+      "patched": 63,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 61,
-    "key": "名古屋銀行",
+    "idx": 64,
+    "key": "イークラウド株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f138185b33fd97a77069b93",
+      "key": "下関市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13814eb805c7273a4a2efa",
+      "key": "堺市",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f138187be1ad53a14ce8d25",
+      "key": "名古屋銀行",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13810dae7ef1ee4b31e99f",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381d1b1f4c8b849c32485",
       "key": "株式会社 天地人",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/East-Ventures-349aa45a3f138138a845f0dec9991d83",
-      "key": "East Ventures",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138127a8c9fbbec1f86a22",
-      "key": "株式会社 電通総研",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f138114b852c614fd1e5db8",
-      "key": "パートナーサクセス株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
