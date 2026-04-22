@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 233,
-  "verified": 228,
-  "patched": 232,
+  "processed": 236,
+  "verified": 231,
+  "patched": 235,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3618.7,
-  "eta_sec": 9505.0,
+  "elapsed_sec": 3658.2,
+  "eta_sec": 9440.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 233,
-      "patched": 232,
+      "processed": 236,
+      "patched": 235,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 233,
-    "key": "株式会社北陸レジャー",
+    "idx": 236,
+    "key": "アステナホールディングス株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Quiny-349aa45a3f13814287f2db74a0c08ff1",
+      "key": "Quiny 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381588b17fe2a175a07e3",
+      "key": "三和物産株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13812ebd01e3b035755e46",
+      "key": "株式会社北陸レジャー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/FURAZOA-349aa45a3f13812ea28dedc402007ea2",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13812c8838ff026e42762e",
       "key": "パラマウントベッド株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138140ada9d2142b12be7e",
-      "key": "株式会社ゼロワンブースター",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381149c48d27ceaadea8f",
-      "key": "株式会社 ビーブリッド",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381508f79fd8c680b638e",
-      "key": "裾野市ケアマネ会",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
