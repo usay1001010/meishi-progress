@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 251,
-  "verified": 246,
-  "patched": 250,
+  "processed": 253,
+  "verified": 248,
+  "patched": 252,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3950.9,
-  "eta_sec": 9349.9,
+  "elapsed_sec": 3985.1,
+  "eta_sec": 9324.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 251,
-      "patched": 250,
+      "processed": 253,
+      "patched": 252,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 251,
-    "key": "イグニション・ポイント ベンチャーパートナーズ 株式会社",
+    "idx": 253,
+    "key": "株式会社テレビ朝日ホールディングス",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/UNERI-346aa45a3f138151a191f767d86a2dd9",
+      "key": "株式会社UNERI",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381ca8296cc841461d2b2",
+      "key": "イグニション・ポイント ベンチャーパートナーズ 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/mint-349aa45a3f1381659b44f8c7c4a920ae",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/NEWRECT-349aa45a3f13815bb0f9df024eced99e",
       "key": "株式会社NEWRECT",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/AlphaDrive-349aa45a3f1381879aefc43dd7dba723",
-      "key": "AlphaDrive",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Creww-349aa45a3f1381319637e03b44db3877",
-      "key": "Creww 株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
