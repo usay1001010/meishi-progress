@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 104,
-  "verified": 102,
-  "patched": 103,
+  "processed": 106,
+  "verified": 104,
+  "patched": 105,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1564.3,
-  "eta_sec": 11145.4,
+  "elapsed_sec": 1597.0,
+  "eta_sec": 11133.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 104,
-      "patched": 103,
+      "processed": 106,
+      "patched": 105,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 104,
-    "key": "株式会社レクリエ",
+    "idx": 106,
+    "key": "株式会社Blank",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Activ8-349aa45a3f138186b1afc9387494b935",
+      "key": "Activ8 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dba62cec1a00adeec3",
+      "key": "株式会社レクリエ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381429959c84ca7cb7d89",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381838e4cd80b99e52a72",
       "key": "株式会社 ひびき精機",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b2bbbdce22ac2a60b4",
-      "key": "株式会社オリナス",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/iA-LINK-349aa45a3f1381ad8fdcf5c3e5afb384",
-      "key": "iA LINK株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
