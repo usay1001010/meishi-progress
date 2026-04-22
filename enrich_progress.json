@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 20,
-  "verified": 19,
-  "patched": 19,
+  "processed": 22,
+  "verified": 21,
+  "patched": 21,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 293.6,
-  "eta_sec": 12109.3,
+  "elapsed_sec": 343.4,
+  "eta_sec": 12846.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 20,
-      "patched": 19,
+      "processed": 22,
+      "patched": 21,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 20,
-    "key": "株式会社HERITAGE"
+    "idx": 22,
+    "key": "I'mbesideyou Inc."
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/344aa45a3f13811292c0ef31e758be52",
+      "status": "ok",
+      "note": "10項目",
+      "key": "城南法律事務所",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/HERITAGE-349aa45a3f1381b7b447c836e1f2b959",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社HERITAGE",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/349aa45a3f138175a9c9ed78f77aa922",
