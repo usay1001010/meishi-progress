@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 366,
-  "verified": 360,
-  "patched": 365,
+  "processed": 369,
+  "verified": 363,
+  "patched": 368,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5673.0,
-  "eta_sec": 7424.5,
+  "elapsed_sec": 5713.4,
+  "eta_sec": 7370.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 366,
-      "patched": 365,
+      "processed": 369,
+      "patched": 368,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 366,
-    "key": "株式会社あいおいニッセイ同和自動車研究所",
+    "idx": 369,
+    "key": "公益財団法人介護労働安定センター",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138168893fc427a2a31fc7",
+      "key": "公益社団法人 全国有料老人ホーム協会",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381df9cb6d6558a389295",
+      "key": "株式会社ケアコム",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138147b6e7ccae6a873d1c",
+      "key": "株式会社あいおいニッセイ同和自動車研究所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/KAERU-345aa45a3f13819db222e74244bc9eac",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/T-T-Adviser-349aa45a3f13812c8868ecef497125ff",
       "key": "合同会社 T・T Adviser",
       "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138172a92eef530e06329c",
-      "key": "弁護士法人 東海総合",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381d0a2d1d1726b9b7b4e",
-      "key": "柴田ハム食品株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13819c9d7afe8fc4e1b1cc",
-      "key": "一般社団法人はんだのたね",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
