@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 114,
-  "verified": 108,
-  "patched": 111,
+  "processed": 117,
+  "verified": 111,
+  "patched": 114,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 2075.6,
-  "eta_sec": 13309.6,
+  "elapsed_sec": 2117.7,
+  "eta_sec": 13176.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 114,
-      "patched": 111,
+      "processed": 117,
+      "patched": 114,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 114,
-    "key": "社会福祉法人「ゼノ」",
+    "idx": 117,
+    "key": "株式会社AMAO",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ピド",
+      "notion_url": "https://www.notion.so/349aa45a3f13814cbe1cc817edcb316a",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ベネッセスタイルケアグループ",
+      "notion_url": "https://www.notion.so/349aa45a3f13817b8635cf0766ab0e63",
+      "note": "7項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人「ゼノ」",
+      "notion_url": "https://www.notion.so/349aa45a3f13819a94b1e84d61744b2d",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -420,30 +444,6 @@
       "key": "社会福祉法人 豐生会",
       "notion_url": "https://www.notion.so/349aa45a3f138132838ed1a7387dc656",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 刈谷市社会福祉協議会",
-      "notion_url": "https://www.notion.so/349aa45a3f13814da2b3d00b040756c9",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "サンケア杜の里株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f138199a1f0f208650d1957",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 みどりの里",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381a6b4fbfffbea67cf3d",
-      "note": "8項目"
     }
   ]
 }
