@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 4,
-  "verified": 3,
-  "patched": 3,
+  "processed": 6,
+  "verified": 5,
+  "patched": 5,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 35.1,
-  "eta_sec": 7372.4,
+  "elapsed_sec": 66.9,
+  "eta_sec": 9348.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 4,
-      "patched": 3,
+      "processed": 6,
+      "patched": 5,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 4,
-    "key": "株式会社CairoPlus"
+    "idx": 6,
+    "key": "TEDxNagoyaU"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/JAPAN-349aa45a3f1381978544d3bd21911dc4",
+      "status": "ok",
+      "note": "10項目",
+      "key": "合同会社 テックスタンドJAPAN",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/CairoPlus-349aa45a3f13812fa9e3dfa99e7dc357",
+      "status": "ok",
+      "note": "8項目",
+      "key": "株式会社CairoPlus",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/349aa45a3f138145aa77e8a94cc62b34",
