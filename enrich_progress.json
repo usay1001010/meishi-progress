@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 264,
-  "verified": 259,
-  "patched": 263,
+  "processed": 267,
+  "verified": 262,
+  "patched": 266,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 4142.8,
-  "eta_sec": 9117.3,
+  "elapsed_sec": 4185.8,
+  "eta_sec": 9061.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 264,
-      "patched": 263,
+      "processed": 267,
+      "patched": 266,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 264,
-    "key": "アサヒグループ食品株式会社",
+    "idx": 267,
+    "key": "株式会社ハンズオン",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/ULS-346aa45a3f138134904ad1878ad9c43b",
+      "key": "ULSコンサルティング株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381889529e3182d8fe742",
+      "key": "日本アイ・ビー・エム株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381678b74d3dec42d5ff6",
+      "key": "アサヒグループ食品株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138185897ef562b4737952",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13812f94c1ea4ba65cac19",
       "key": "朝日新聞社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381d6888beda66639c47c",
-      "key": "メディアバンク株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d58041ce8be03003ce",
-      "key": "株式会社アクセスネット",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381f29600dcc066b70ae6",
-      "key": "みずほキャピタル株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
