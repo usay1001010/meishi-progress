@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 267,
-  "verified": 230,
-  "patched": 224,
+  "processed": 270,
+  "verified": 232,
+  "patched": 226,
   "unchanged": 6,
-  "failed": 22,
+  "failed": 23,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 4792.1,
-  "eta_sec": 10374.0,
+  "elapsed_sec": 4844.0,
+  "eta_sec": 10315.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,42 @@
     },
     "sh": {
       "total": 650,
-      "processed": 72,
-      "patched": 49,
+      "processed": 75,
+      "patched": 51,
       "not_found": 0,
-      "failed": 22
+      "failed": 23
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 267,
-    "key": "株式会社 QUICK",
+    "idx": 270,
+    "key": "Theta Times Ventures",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "中部ニュービジネス協議会",
+      "notion_url": "https://www.notion.so/345aa45a3f138169b2adeee4c7c56125",
+      "note": "9項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社IMOM",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 就労支援, 飲食コンサルティング, カフェ運営"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 QUICK",
+      "notion_url": "https://www.notion.so/QUICK-349aa45a3f13819e90c7d21d354af950",
+      "note": "9項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -391,30 +413,6 @@
       "action": "patched",
       "key": "植草学園大学",
       "notion_url": "https://www.notion.so/349aa45a3f1381a796c3cbab914dc12a",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 世界文化ワンダーグループ",
-      "notion_url": "https://www.notion.so/349aa45a3f138149907acec24184dfbd",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 エイエイピー",
-      "notion_url": "https://www.notion.so/349aa45a3f13812a959aeb5da4bf2945",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社エイエイピー",
-      "notion_url": "https://www.notion.so/345aa45a3f1381b5bd9de26148012955",
       "note": "10項目"
     }
   ]
