@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 304,
-  "verified": 298,
-  "patched": 303,
+  "processed": 307,
+  "verified": 301,
+  "patched": 306,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4792.9,
-  "eta_sec": 8529.5,
+  "elapsed_sec": 4834.9,
+  "eta_sec": 8472.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 304,
-      "patched": 303,
+      "processed": 307,
+      "patched": 306,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 304,
-    "key": "リコー・ジャパン 株式会社",
+    "idx": 307,
+    "key": "荒木洋人 公認会計士 税理士事務所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13810782bddbd60eaf950f",
+      "key": "株式会社トワライズ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138116a84fd5934e7d598d",
+      "key": "積水ホームテクノ株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138172b706cc6485c443d0",
+      "key": "リコー・ジャパン 株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f13811f8e7eea36845cef61",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138157ae4cf49ff4541b1c",
       "key": "グローバルキャリア職業訓練法人",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381e8a551dfc1be2e9a1d",
-      "key": "池森ベンチャーサポート 合同会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381389bfdc26e3fdeecee",
-      "key": "池森ベンチャーサポート合同会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/mediVR-349aa45a3f1381fd8363f16fd8affdfe",
-      "key": "株式会社mediVR",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
