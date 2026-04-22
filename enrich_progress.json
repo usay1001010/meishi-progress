@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 374,
-  "verified": 367,
-  "patched": 373,
+  "processed": 376,
+  "verified": 369,
+  "patched": 375,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 5789.0,
-  "eta_sec": 7290.4,
+  "elapsed_sec": 5821.0,
+  "eta_sec": 7260.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 374,
-      "patched": 373,
+      "processed": 376,
+      "patched": 375,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 374,
-    "key": "株式会社ヘルステクノロジー",
+    "idx": 376,
+    "key": "株式会社セーノー商事",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f4bdabe2c426c6c34e",
+      "key": "一般社団法人 日本ケアテック協会",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381c997bcc2917512e725",
+      "key": "株式会社ヘルステクノロジー",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b58635fece6801b565",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381edb94cd79cada05a1f",
       "key": "よりかけ株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f13812f9a2af3f0245bcaa3",
-      "key": "鳥取市経済観光部",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138165a8b9eb44b885a94c",
-      "key": "中村留精密工業株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
