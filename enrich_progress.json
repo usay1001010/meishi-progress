@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 125,
-  "verified": 117,
-  "patched": 122,
+  "processed": 128,
+  "verified": 120,
+  "patched": 125,
   "unchanged": 2,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 2270.5,
-  "eta_sec": 13077.8,
+  "elapsed_sec": 2312.5,
+  "eta_sec": 12953.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 125,
-      "patched": 122,
+      "processed": 128,
+      "patched": 125,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 125,
-    "key": "社会福祉法人 寿陽会",
+    "idx": 128,
+    "key": "株式会社 センチュリークリエイティブ",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 郡上市社会福祉協議会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b99a08fd7ed9d56b93",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 北伸福祉社会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381fc8ab9db322758d617",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 寿陽会",
+      "notion_url": "https://www.notion.so/349aa45a3f138156bfc4faf90c07fd55",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -419,30 +443,6 @@
       "action": "patched",
       "key": "ともいき会 グループ 医療法人 / 社会福祉法人",
       "notion_url": "https://www.notion.so/349aa45a3f1381e4a8d9d7312d2b4f81",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "Gakken Group メディカル・ケア・サービス株式会社",
-      "notion_url": "https://www.notion.so/Gakken-Group-349aa45a3f138128bad8dba1a85295e2",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 学研ホールディングス",
-      "notion_url": "https://www.notion.so/349aa45a3f13817e8946ed2eaeafaa2d",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "メディカル・ケア・サービス株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f1381079dcdfa421a919e19",
       "note": "8項目"
     }
   ]
