@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 444,
-  "verified": 436,
-  "patched": 443,
+  "processed": 447,
+  "verified": 439,
+  "patched": 446,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6782.2,
-  "eta_sec": 6125.4,
+  "elapsed_sec": 6823.5,
+  "eta_sec": 6075.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 444,
-      "patched": 443,
+      "processed": 447,
+      "patched": 446,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 444,
-    "key": "弁護士法人STORIA",
+    "idx": 447,
+    "key": "株式会社finn",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13819fac19e0d80341543d",
+      "key": "テラオホールディングス株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/i-f-349aa45a3f1381619f72f22d032b6f44",
+      "key": "株式会社i&fホールディングス",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/STORIA-346aa45a3f13813389a8d6715ecf0aae",
+      "key": "弁護士法人STORIA",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/DouDouDoujin-349aa45a3f1381079660efb7f51d87d5",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/TOKYO-KIRABOSHI-FINANCIAL-GROUP-349aa45a3f1381d09232ce93f2d94857",
       "key": "TOKYO KIRABOSHI FINANCIAL GROUP",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f1381feb31cc7ece29e9825",
-      "key": "レガシープロジェクツ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381359e7be15957268ec7",
-      "key": "岐阜スタートアップ専門コンシェルジュ",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138176b7bffaa1983f2875",
-      "key": "インキュベイトファンド株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
