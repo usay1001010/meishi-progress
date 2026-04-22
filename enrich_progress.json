@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 51,
-  "verified": 50,
-  "patched": 50,
+  "processed": 54,
+  "verified": 53,
+  "patched": 53,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 738.0,
-  "eta_sec": 11490.3,
+  "elapsed_sec": 778.9,
+  "eta_sec": 11409.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 51,
-      "patched": 50,
+      "processed": 54,
+      "patched": 53,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 51,
-    "key": "株式会社 風雅AI",
+    "idx": 54,
+    "key": "iA LINK株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d9802ddb42689d2a1c",
+      "key": "一般社団法人 全国携帯電話販売代理店協会",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Umai-Japan-349aa45a3f138140901ffb8b92cf7b10",
+      "key": "Umai Japan 株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/AI-347aa45a3f138171ac18fb991a35265b",
+      "key": "株式会社 風雅AI",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/IchigoJam-349aa45a3f13816c83e7fe873eabf46a",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381f998aae89fb13c2e3f",
       "key": "国立大学法人 鳥取大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/BRJ-349aa45a3f138197b371f346f11a4526",
-      "key": "BRJ 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13813eb9a5d8f9afe5f6db",
-      "key": "中国電力株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381a5b944d2bfd27e2c7c",
-      "key": "テレビせとうち株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
