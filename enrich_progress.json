@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 60,
-  "verified": 58,
-  "patched": 59,
+  "processed": 63,
+  "verified": 61,
+  "patched": 62,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1203.1,
-  "eta_sec": 15740.2,
+  "elapsed_sec": 1243.4,
+  "eta_sec": 15434.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 60,
-      "patched": 59,
+      "processed": 63,
+      "patched": 62,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 60,
-    "key": "株式会社 SEILAN"
+    "idx": 63,
+    "key": "株式会社モノクローム"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f1381599cfdd1ff5e54c338",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社トンボ",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/345aa45a3f1381bb8821d6973424f775",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社山陰合同銀行",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/SEILAN-349aa45a3f1381fdafd7ebe1d4d1aed2",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社 SEILAN",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/346aa45a3f1381dabd06c375dd82b70b",
@@ -419,30 +443,6 @@
       "status": "ok",
       "note": "9項目",
       "key": "株式会社 セブン＆アイ・ネットメディア",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/346aa45a3f138129b928dac8cc656d4d",
-      "status": "ok",
-      "note": "10項目",
-      "key": "株式会社ワイズ",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/349aa45a3f13813fa308e8428abff833",
-      "status": "ok",
-      "note": "8項目",
-      "key": "アートギャラリーショップ むらさきぐも",
-      "action": "patched"
-    },
-    {
-      "phase": "sh",
-      "notion_url": "https://www.notion.so/TERRAISE-349aa45a3f1381f7a0f9e837201d3a1f",
-      "status": "ok",
-      "note": "9項目",
-      "key": "株式会社 TERRAISE",
       "action": "patched"
     }
   ]
