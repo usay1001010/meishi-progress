@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 270,
-  "verified": 232,
-  "patched": 226,
+  "processed": 271,
+  "verified": 233,
+  "patched": 227,
   "unchanged": 6,
   "failed": 23,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 4844.0,
-  "eta_sec": 10315.9,
+  "elapsed_sec": 4875.9,
+  "eta_sec": 10327.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 75,
-      "patched": 51,
+      "processed": 76,
+      "patched": 52,
       "not_found": 0,
       "failed": 23
     }
@@ -40,11 +40,19 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 270,
-    "key": "Theta Times Ventures",
+    "idx": 271,
+    "key": "地域と人と未来株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "Theta Times Ventures",
+      "notion_url": "https://www.notion.so/Theta-Times-Ventures-349aa45a3f13817fbbcbe910dbad5cb5",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -405,14 +413,6 @@
       "action": "patched",
       "key": "公益財団法人 フォーリン・プレスセンター",
       "notion_url": "https://www.notion.so/349aa45a3f13812fb001d7e09c47eaa4",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "植草学園大学",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a796c3cbab914dc12a",
       "note": "10項目"
     }
   ]
