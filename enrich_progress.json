@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 64,
-  "verified": 63,
-  "patched": 63,
+  "processed": 66,
+  "verified": 65,
+  "patched": 65,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 935.5,
-  "eta_sec": 11415.5,
+  "elapsed_sec": 970.2,
+  "eta_sec": 11451.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 64,
-      "patched": 63,
+      "processed": 66,
+      "patched": 65,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 64,
-    "key": "イークラウド株式会社",
+    "idx": 66,
+    "key": "株式会社ツクリエ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/347aa45a3f13814fade0de6f8f8b371a",
+      "key": "クレドホールディングス株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381028f1fe43fb25e76b9",
+      "key": "イークラウド株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f138185b33fd97a77069b93",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13816bb2c2e5c6e2a59985",
       "key": "株式会社ボルテックス",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/DG-Daiwa-Ventures-345aa45a3f13810c9d37d46b676f2325",
-      "key": "株式会社DG Daiwa Ventures",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381d1b1f4c8b849c32485",
-      "key": "株式会社 天地人",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
