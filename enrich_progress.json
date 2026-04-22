@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 294,
-  "verified": 249,
-  "patched": 243,
+  "processed": 296,
+  "verified": 250,
+  "patched": 244,
   "unchanged": 6,
-  "failed": 30,
+  "failed": 31,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5241.6,
-  "eta_sec": 9823.5,
+  "elapsed_sec": 5274.6,
+  "eta_sec": 9782.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,34 @@
     },
     "sh": {
       "total": 650,
-      "processed": 99,
-      "patched": 68,
+      "processed": 101,
+      "patched": 69,
       "not_found": 0,
-      "failed": 30
+      "failed": 31
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 294,
-    "key": "エー・アイ・キャピタル株式会社",
+    "idx": 296,
+    "key": "アシックス・ベンチャーズ株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "ANRI",
+      "notion_url": "https://www.notion.so/ANRI-349aa45a3f1381f2b84bdda579c56a47",
+      "note": "9項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "エー・アイ・キャピタル株式会社",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 投資運用, 投資助言"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -396,20 +410,6 @@
       "phase": "sh",
       "key": "株式会社 Tol Nexus",
       "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, コンサルティング"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "クウジット株式会社",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, システム開発"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "NECソリューションイノベータ株式会社",
-      "notion_url": "https://www.notion.so/NEC-345aa45a3f1381578a58fb6d5e89e783",
-      "note": "10項目"
     }
   ]
 }
