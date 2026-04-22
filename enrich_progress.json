@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 484,
-  "verified": 475,
-  "patched": 483,
+  "processed": 487,
+  "verified": 478,
+  "patched": 486,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 8,
   "not_found": 0,
-  "elapsed_sec": 7422.5,
-  "eta_sec": 5536.2,
+  "elapsed_sec": 7464.5,
+  "eta_sec": 5487.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 484,
-      "patched": 483,
+      "processed": 487,
+      "patched": 486,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 484,
-    "key": "国立大学法人 静岡大学",
+    "idx": 487,
+    "key": "中日新聞",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381c6ace8ee9c1f789fde",
+      "key": "株式会社エムバース",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138173bbbbcff81bf1f074",
+      "key": "皇學館大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381ac8291d830666d9961",
+      "key": "国立大学法人 静岡大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f1381799bb3d97801c64a92",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/QUICK-345aa45a3f1381bdac4dc24d14f97ea8",
       "key": "株式会社Quick",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/KANNON-349aa45a3f138110b466c6597c21e18b",
-      "key": "株式会社KANNON",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381088283eb7319501515",
-      "key": "愛知工業大学名電高等学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/MITRA-datascience-349aa45a3f1381e9a691c2b94073b600",
-      "key": "MITRA datascience",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
