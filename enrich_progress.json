@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 241,
-  "verified": 236,
-  "patched": 240,
+  "processed": 244,
+  "verified": 239,
+  "patched": 243,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3764.2,
-  "eta_sec": 9433.9,
+  "elapsed_sec": 3801.0,
+  "eta_sec": 9362.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 241,
-      "patched": 240,
+      "processed": 244,
+      "patched": 243,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 241,
-    "key": "能崎物産株式会社",
+    "idx": 244,
+    "key": "株式会社コムレイズ・インキュベート",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Team-Make-Capital-349aa45a3f1381149531c8410271b26b",
+      "key": "株式会社 Team Make Capital",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381ccb7a1fe5331f51241",
+      "key": "奥出雲町役場",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381e782b1f0c931e364e7",
+      "key": "能崎物産株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138157a890f80ddcb98676",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/Crystal-349aa45a3f13812a8f3de7968936f963",
       "key": "Crystal株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138166b92dce01fa54a70f",
-      "key": "株式会社キャピタルメディカ・ベンチャーズ",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Acompany-349aa45a3f13812c80d0e1925160d60f",
-      "key": "株式会社 Acompany",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/jig-jp-349aa45a3f1381ccb802f53765b910dc",
-      "key": "株式会社 jig.jp",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
