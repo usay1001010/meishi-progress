@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 98,
-  "verified": 96,
-  "patched": 97,
+  "processed": 101,
+  "verified": 99,
+  "patched": 100,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 1482.4,
-  "eta_sec": 11299.4,
+  "elapsed_sec": 1521.1,
+  "eta_sec": 11204.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 98,
-      "patched": 97,
+      "processed": 101,
+      "patched": 100,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 98,
-    "key": "LobbyAI株式会社",
+    "idx": 101,
+    "key": "鳥取市",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13819b8304cf70ec453425",
+      "key": "株式会社 鳥取銀行",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138171a41ff41074f2399c",
+      "key": "株式会社アトラエ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/LobbyAI-345aa45a3f138147bd14f09d18f1fe30",
+      "key": "LobbyAI株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/GROWTH-VERSE-346aa45a3f138116b9cece65ef309441",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/AI-347aa45a3f138171ac18fb991a35265b",
       "key": "株式会社 風雅AI",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/IchigoJam-349aa45a3f13816c83e7fe873eabf46a",
-      "key": "一般財団法人IchigoJam財団",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b39986c3bbd802d1b2",
-      "key": "こみかるユース福井",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13817683dfc642552ab990",
-      "key": "日本ムーブ株式会社",
       "note": "9項目",
       "action": "patched",
       "phase": "sh"
