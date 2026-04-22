@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 308,
-  "verified": 257,
-  "patched": 251,
+  "processed": 311,
+  "verified": 259,
+  "patched": 254,
   "unchanged": 6,
   "failed": 36,
-  "low_confidence": 14,
+  "low_confidence": 15,
   "not_found": 14,
-  "elapsed_sec": 5523.0,
-  "eta_sec": 9629.4,
+  "elapsed_sec": 5570.4,
+  "eta_sec": 9564.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 113,
-      "patched": 76,
+      "processed": 116,
+      "patched": 79,
       "not_found": 0,
       "failed": 36
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 308,
-    "key": "加納経営事務所株式会社",
+    "idx": 311,
+    "key": "株式会社Vivixy",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 KJホールディングス",
+      "notion_url": "https://www.notion.so/KJ-349aa45a3f1381f3b99cd3a93dd5e5e0",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "名古屋革新法律事務所",
+      "notion_url": "https://www.notion.so/345aa45a3f13817fbabcd6cff08a7d35",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "加納経営事務所株式会社",
+      "notion_url": "https://www.notion.so/349aa45a3f1381da9cf6fd202637b426",
+      "note": "10項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -384,30 +408,6 @@
       "phase": "sh",
       "key": "社会保険労務士法人 ふたば",
       "note": "APIResponseError: Invalid multi_select option, commas not allowed: 社会保険労務士, 労務コンサルティング"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "シンニチ互業株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f1381328531f54df59486c9",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "愛知県中小企業青年中央会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381048feac4a6df9f373f",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "一般社団法人ものづくりパートナーズ",
-      "notion_url": "https://www.notion.so/345aa45a3f13818e8f96c6094a6e63c7",
-      "note": "10項目"
     }
   ]
 }
