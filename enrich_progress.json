@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 313,
-  "verified": 307,
-  "patched": 312,
+  "processed": 315,
+  "verified": 309,
+  "patched": 314,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4918.8,
-  "eta_sec": 8360.3,
+  "elapsed_sec": 4952.8,
+  "eta_sec": 8333.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 313,
-      "patched": 312,
+      "processed": 315,
+      "patched": 314,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 313,
-    "key": "東海学園大学",
+    "idx": 315,
+    "key": "Clothoホールディングス株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381dcb08acf19eec7dbda",
+      "key": "独立行政法人 工業所有権情報・研修館",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381e7af8eda5c57897829",
+      "key": "東海学園大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Kamon-349aa45a3f1381ed99f1dfc199f8ff95",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f1381889529e3182d8fe742",
       "key": "日本アイ・ビー・エム株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381678b74d3dec42d5ff6",
-      "key": "アサヒグループ食品株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138185897ef562b4737952",
-      "key": "ボイット株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
