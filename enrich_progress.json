@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 335,
-  "verified": 329,
-  "patched": 334,
+  "processed": 338,
+  "verified": 332,
+  "patched": 337,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5221.4,
-  "eta_sec": 7948.9,
+  "elapsed_sec": 5260.6,
+  "eta_sec": 7890.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 335,
-      "patched": 334,
+      "processed": 338,
+      "patched": 337,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 335,
-    "key": "国立研究開発法人 情報通信研究機構",
+    "idx": 338,
+    "key": "Dress Code 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13810abedcd1bc385b28d4",
+      "key": "クレイジーゼロ株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/FriSTi-349aa45a3f138130be20d8cdee6e7ba7",
+      "key": "FriSTi",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138123b8c6c3f2d690cd68",
+      "key": "国立研究開発法人 情報通信研究機構",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381e1b4f1ea213980009e",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381dcb84cd253c8c24336",
       "key": "公益財団法人 名古屋産業振興公社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f138128a23bd403334d7460",
-      "key": "株式会社平和テクノシステム",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381399063c8b63248d629",
-      "key": "独立行政法人 日本貿易振興機構（ジェトロ）",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13818b8058d883da918911",
-      "key": "こまきこども未来館",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
