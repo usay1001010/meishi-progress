@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 244,
-  "verified": 239,
-  "patched": 243,
+  "processed": 246,
+  "verified": 241,
+  "patched": 245,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3801.0,
-  "eta_sec": 9362.3,
+  "elapsed_sec": 3831.9,
+  "eta_sec": 9330.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 244,
-      "patched": 243,
+      "processed": 246,
+      "patched": 245,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 244,
-    "key": "株式会社コムレイズ・インキュベート",
+    "idx": 246,
+    "key": "ジークス株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/FACTORY-X-INC-349aa45a3f1381d8b301f6f10455e380",
+      "key": "FACTORY X INC.",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381238433dc4c78de84de",
+      "key": "株式会社コムレイズ・インキュベート",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Team-Make-Capital-349aa45a3f1381149531c8410271b26b",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13815c8d30cadb42a7b460",
       "key": "学校法人 椙山女学園",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f138170a841eda472355361",
-      "key": "株式会社カチノデ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Crystal-349aa45a3f13812a8f3de7968936f963",
-      "key": "Crystal株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
