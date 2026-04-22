@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 194,
-  "verified": 182,
-  "patched": 174,
+  "processed": 196,
+  "verified": 184,
+  "patched": 175,
   "unchanged": 6,
   "failed": 0,
   "low_confidence": 11,
-  "not_found": 13,
-  "elapsed_sec": 3575.5,
-  "eta_sec": 11998.1,
+  "not_found": 14,
+  "elapsed_sec": 3626.2,
+  "eta_sec": 12007.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,27 +24,43 @@
     },
     "office": {
       "total": 37,
-      "processed": 36,
-      "patched": 18,
-      "not_found": 13,
+      "processed": 37,
+      "patched": 19,
+      "not_found": 14,
       "failed": 0
     },
     "sh": {
       "total": 650,
-      "processed": 0,
+      "processed": 1,
       "patched": 0,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "phase": "office",
+    "phase": "sh",
     "patched": false,
-    "idx": 194,
-    "key": "社会福祉法人 豊川市社会福祉協議会 / 豊川市東部福祉相談センター",
+    "idx": 196,
+    "key": "株式会社ビーブリッド",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "社会福祉法人 豊川市社会福祉協議会 / 豊川市東部地域包括支援センター",
+      "notion_url": "https://www.notion.so/349aa45a3f1381eaaee5e0af6e5f7a15",
+      "note": "6項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "社会福祉法人 豊川市社会福祉協議会 / 豊川市東部福祉相談センター",
+      "notion_url": "",
+      "note": "5項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 兼六福祉社会",
       "notion_url": "https://www.notion.so/349aa45a3f1381399bb3e422c63cde94",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "(有)あんしん村グループ",
-      "notion_url": "https://www.notion.so/349aa45a3f138103b1d6ec8f31b32792",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 希清軒傳六会",
-      "notion_url": "https://www.notion.so/349aa45a3f138170ad82e06c3ae50423",
-      "note": "8項目"
     }
   ]
 }
