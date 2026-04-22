@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 0,
-  "verified": 0,
-  "patched": 0,
+  "processed": 4,
+  "verified": 3,
+  "patched": 3,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": null,
-  "eta_sec": null,
+  "elapsed_sec": 35.1,
+  "eta_sec": 7372.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,12 +31,43 @@
     },
     "sh": {
       "total": 650,
-      "processed": 0,
-      "patched": 0,
+      "processed": 4,
+      "patched": 3,
       "not_found": 0,
       "failed": 0
     }
   },
-  "current": null,
-  "recent": []
+  "current": {
+    "phase": "sh",
+    "verified": false,
+    "patched": false,
+    "idx": 4,
+    "key": "株式会社CairoPlus"
+  },
+  "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f138145aa77e8a94cc62b34",
+      "status": "ok",
+      "note": "10項目",
+      "key": "ホームエクスプレス",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/347aa45a3f1381bba8c0fe62eff07bc2",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社ジョシュ",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/NTT-345aa45a3f138181b442c201d2b0ae46",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社NTTデータ",
+      "action": "patched"
+    }
+  ]
 }
