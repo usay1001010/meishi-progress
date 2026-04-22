@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 5,
-  "verified": 4,
-  "patched": 4,
+  "processed": 8,
+  "verified": 7,
+  "patched": 7,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 78.0,
-  "eta_sec": 13099.0,
+  "elapsed_sec": 116.8,
+  "eta_sec": 12215.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 5,
-      "patched": 4,
+      "processed": 8,
+      "patched": 7,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,35 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 5,
-    "key": "株式会社ベネッセスタイルケア",
+    "idx": 8,
+    "key": "ニチイ学館",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 市原寮",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d7af6fdbcf92cfe240",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "長寿メディカル株式会社",
+      "notion_url": "https://www.notion.so/33aaa45a3f138136aaebd9139788d9e5",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ベネッセスタイルケア",
+      "notion_url": "https://www.notion.so/349aa45a3f138199ba5fdfae36538970",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
