@@ -1,69 +1,42 @@
 {
-  "started_at": "2026-04-22 18:27:40",
-  "finished_at": "2026-04-22 18:29:10",
-  "dry_run": true,
+  "started_at": "2026-04-22 18:32:16",
+  "finished_at": null,
+  "dry_run": false,
   "force": false,
   "mode": "overwrite",
-  "total": 158,
-  "processed": 5,
-  "verified": 5,
+  "total": 845,
+  "processed": 0,
+  "verified": 0,
   "patched": 0,
-  "unchanged": 5,
+  "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 79.1,
-  "eta_sec": 2420.1,
+  "elapsed_sec": null,
+  "eta_sec": null,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 5,
+      "processed": 0,
+      "patched": 0,
+      "not_found": 0,
+      "failed": 0
+    },
+    "office": {
+      "total": 37,
+      "processed": 0,
+      "patched": 0,
+      "not_found": 0,
+      "failed": 0
+    },
+    "sh": {
+      "total": 650,
+      "processed": 0,
       "patched": 0,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": null,
-  "recent": [
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "note": "8項目",
-      "action": "dry-run",
-      "key": "株式会社ベネッセスタイルケア",
-      "notion_url": ""
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "note": "8項目",
-      "action": "dry-run",
-      "key": "社会福祉法人 なごや福祉施設協会",
-      "notion_url": ""
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "note": "8項目",
-      "action": "dry-run",
-      "key": "一般社団法人 福祉のまどぐち",
-      "notion_url": ""
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "note": "9項目",
-      "action": "dry-run",
-      "key": "株式会社 SOYOKAZE",
-      "notion_url": ""
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "note": "8項目",
-      "action": "dry-run",
-      "key": "株式会社アルバ",
-      "notion_url": ""
-    }
-  ]
+  "recent": []
 }
