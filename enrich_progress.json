@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 11,
-  "verified": 10,
-  "patched": 10,
+  "processed": 13,
+  "verified": 12,
+  "patched": 12,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 142.7,
-  "eta_sec": 10820.7,
+  "elapsed_sec": 183.8,
+  "eta_sec": 11761.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 11,
-      "patched": 10,
+      "processed": 13,
+      "patched": 12,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,26 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 11,
-    "key": "アートギャラリーショップ むらさきぐも"
+    "idx": 13,
+    "key": "株式会社 セブン＆アイ・ネットメディア"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/346aa45a3f138129b928dac8cc656d4d",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社ワイズ",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f13813fa308e8428abff833",
+      "status": "ok",
+      "note": "8項目",
+      "key": "アートギャラリーショップ むらさきぐも",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/TERRAISE-349aa45a3f1381f7a0f9e837201d3a1f",
