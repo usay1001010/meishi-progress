@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 101,
-  "verified": 98,
-  "patched": 99,
+  "processed": 103,
+  "verified": 100,
+  "patched": 101,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1850.1,
-  "eta_sec": 13628.1,
+  "elapsed_sec": 1882.7,
+  "eta_sec": 13562.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 101,
-      "patched": 99,
+      "processed": 103,
+      "patched": 101,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 101,
-    "key": "医療法人 純正会",
+    "idx": 103,
+    "key": "社会福祉法人 愛徳社会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "社会福祉法人 北伸福祉会",
+      "notion_url": "https://www.notion.so/349aa45a3f13819eb38eff17c0e4428f",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人 純正会",
+      "notion_url": "https://www.notion.so/349aa45a3f1381759211f5e4960d6c43",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 観寿々会",
       "notion_url": "https://www.notion.so/349aa45a3f138180ad31f65386070882",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 麗寿会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381dca077d894697cdce3",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 豊田ほっとかん",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381f89c08f03f680a99f5",
-      "note": "8項目"
     }
   ]
 }
