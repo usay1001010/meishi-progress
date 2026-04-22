@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 290,
+  "processed": 292,
   "verified": 247,
   "patched": 241,
   "unchanged": 6,
-  "failed": 28,
+  "failed": 30,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 5147.4,
-  "eta_sec": 9851.0,
+  "elapsed_sec": 5202.6,
+  "eta_sec": 9852.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,32 @@
     },
     "sh": {
       "total": 650,
-      "processed": 95,
+      "processed": 97,
       "patched": 66,
       "not_found": 0,
-      "failed": 28
+      "failed": 30
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 290,
-    "key": "株式会社エス・エム・エス",
+    "idx": 292,
+    "key": "株式会社富士ワールド",
     "verified": false
   },
   "recent": [
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "WAKON®",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 物流機器製造, 包装資材製造"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社エス・エム・エス",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 医療・介護IT, 人材サービス"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -395,22 +407,6 @@
       "action": "patched",
       "key": "東京大学",
       "notion_url": "https://www.notion.so/349aa45a3f138173b1c0f008bf571858",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "日本ガイシ株式会社",
-      "notion_url": "https://www.notion.so/349aa45a3f1381009de0f9f70cb8e0fe",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "日本電技株式会社",
-      "notion_url": "https://www.notion.so/345aa45a3f1381669fd7d0f1dae1ba90",
       "note": "10項目"
     }
   ]
