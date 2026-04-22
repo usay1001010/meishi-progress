@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 223,
-  "verified": 218,
-  "patched": 222,
+  "processed": 225,
+  "verified": 220,
+  "patched": 224,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3464.9,
-  "eta_sec": 9664.6,
+  "elapsed_sec": 3502.9,
+  "eta_sec": 9652.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 223,
-      "patched": 222,
+      "processed": 225,
+      "patched": 224,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 223,
-    "key": "名古屋工業大学工学部",
+    "idx": 225,
+    "key": "株式会社CROSLAN",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/MEDISY-349aa45a3f1381d998e7c84d3ca80a1b",
+      "key": "MEDISY",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b19478e58d47b3187e",
+      "key": "名古屋工業大学工学部",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/CONOMINI-DESIGN-345aa45a3f138178bc9fda495c4644f2",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381beb314ed6b49938ae4",
       "key": "株式会社ワイズマン",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13816d864fde173eded5f4",
-      "key": "株式会社 桜企画",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138157bac0f9bf051daa18",
-      "key": "ケアコラボ株式会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
