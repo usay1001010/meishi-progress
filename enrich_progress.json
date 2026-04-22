@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 321,
-  "verified": 315,
-  "patched": 320,
+  "processed": 324,
+  "verified": 318,
+  "patched": 323,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5030.1,
-  "eta_sec": 8211.1,
+  "elapsed_sec": 5072.9,
+  "eta_sec": 8157.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 321,
-      "patched": 320,
+      "processed": 324,
+      "patched": 323,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 321,
-    "key": "YORIDO",
+    "idx": 324,
+    "key": "中村留精密工業株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/IRU-inc-349aa45a3f13810487ddfa788e28ee80",
+      "key": "IRU inc.",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/artkake-346aa45a3f1381b58a68d0841c07b8dc",
+      "key": "株式会社artkake",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/YORIDO-349aa45a3f1381ae9e40eaad5df1686b",
+      "key": "YORIDO",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/DMM-com-349aa45a3f1381ba91a5e11254b5a5ed",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/346aa45a3f1381f3a4d7ce149ea009b7",
       "key": "有限会社アドリブ",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f08707c7cf103ba100",
-      "key": "おそうじ本舗",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13815496a1fd6b82b97641",
-      "key": "ジャフコグループ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Scalebase-346aa45a3f1381219841fadacf9f285a",
-      "key": "Scalebase株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
