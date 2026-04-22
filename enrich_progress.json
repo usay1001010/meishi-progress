@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 280,
-  "verified": 240,
-  "patched": 234,
+  "processed": 283,
+  "verified": 243,
+  "patched": 237,
   "unchanged": 6,
   "failed": 25,
   "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 4993.4,
-  "eta_sec": 10076.0,
+  "elapsed_sec": 5048.1,
+  "eta_sec": 10024.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 85,
-      "patched": 59,
+      "processed": 88,
+      "patched": 62,
       "not_found": 0,
       "failed": 25
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 280,
-    "key": "日本政策金融公庫",
+    "idx": 283,
+    "key": "株式会社 地域資源バンクNIU",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "うらかた屋",
+      "notion_url": "https://www.notion.so/349aa45a3f1381a7a87cf40264b93ff5",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社eiicon",
+      "notion_url": "https://www.notion.so/eiicon-346aa45a3f138107a6c5d6adf9f7c196",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "日本政策金融公庫",
+      "notion_url": "https://www.notion.so/349aa45a3f1381bab08df58d1062366c",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -391,30 +415,6 @@
       "action": "patched",
       "key": "香川高等専門学校",
       "notion_url": "https://www.notion.so/345aa45a3f138116a1f8e94f04e66c1f",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "日本放送協会",
-      "notion_url": "https://www.notion.so/345aa45a3f13817e87bbdd3d0dac2a42",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "参議院",
-      "notion_url": "https://www.notion.so/344aa45a3f1381a28b18ea8bd382168c",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "株式会社 新東通信",
-      "notion_url": "https://www.notion.so/345aa45a3f13814cb923d82f092f5d43",
       "note": "10項目"
     }
   ]
