@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 208,
-  "verified": 192,
-  "patched": 183,
+  "processed": 210,
+  "verified": 193,
+  "patched": 184,
   "unchanged": 6,
-  "failed": 4,
+  "failed": 5,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3800.3,
-  "eta_sec": 11638.5,
+  "elapsed_sec": 3834.1,
+  "eta_sec": 11593.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,34 @@
     },
     "sh": {
       "total": 650,
-      "processed": 13,
-      "patched": 8,
+      "processed": 15,
+      "patched": 9,
       "not_found": 0,
-      "failed": 4
+      "failed": 5
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 208,
-    "key": "合同会社 テックスタンドJAPAN",
+    "idx": 210,
+    "key": "(有)名古屋タイトルデザインセンター",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "愛知信用金庫",
+      "notion_url": "https://www.notion.so/345aa45a3f1381beb510f4f22d7af86e",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "合同会社 テックスタンドJAPAN",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: IT機器販売, ドローンレンタル"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -420,22 +434,6 @@
       "key": "ニチイ学館 / GENBA SMILE Lab",
       "notion_url": "",
       "note": "6項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "長寿メディカル株式会社 / 訪問介護ステーション",
-      "notion_url": "https://www.notion.so/349aa45a3f13811ea167d2ac45406dd8",
-      "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ミライプロジェクト",
-      "notion_url": "https://www.notion.so/349aa45a3f138184860ef0f1ee481446",
-      "note": "8項目"
     }
   ]
 }
