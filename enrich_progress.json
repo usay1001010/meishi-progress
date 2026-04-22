@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 49,
-  "verified": 48,
-  "patched": 48,
+  "processed": 51,
+  "verified": 50,
+  "patched": 50,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 703.6,
-  "eta_sec": 11430.5,
+  "elapsed_sec": 738.0,
+  "eta_sec": 11490.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 49,
-      "patched": 48,
+      "processed": 51,
+      "patched": 50,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 49,
-    "key": "こみかるユース福井",
+    "idx": 51,
+    "key": "株式会社 風雅AI",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/IchigoJam-349aa45a3f13816c83e7fe873eabf46a",
+      "key": "一般財団法人IchigoJam財団",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b39986c3bbd802d1b2",
+      "key": "こみかるユース福井",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13817683dfc642552ab990",
