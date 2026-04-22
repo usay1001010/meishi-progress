@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 37,
-  "verified": 36,
-  "patched": 36,
+  "processed": 40,
+  "verified": 39,
+  "patched": 39,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 910.4,
-  "eta_sec": 19881.4,
+  "elapsed_sec": 950.6,
+  "eta_sec": 19130.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 37,
-      "patched": 36,
+      "processed": 40,
+      "patched": 39,
       "not_found": 0,
       "failed": 0
     }
@@ -41,10 +41,34 @@
     "phase": "sh",
     "verified": false,
     "patched": false,
-    "idx": 37,
-    "key": "株式会社Vivixy"
+    "idx": 40,
+    "key": "SHOGO OKAWA DESIGN"
   },
   "recent": [
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/349aa45a3f13814c8d2ed66239481ed5",
+      "status": "ok",
+      "note": "9項目",
+      "key": "非営利型株式会社アスノオト",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/346aa45a3f13813db738e855da6f2572",
+      "status": "ok",
+      "note": "10項目",
+      "key": "セイコーグループ株式会社",
+      "action": "patched"
+    },
+    {
+      "phase": "sh",
+      "notion_url": "https://www.notion.so/Vivixy-345aa45a3f138114a4e7eac58366461c",
+      "status": "ok",
+      "note": "10項目",
+      "key": "株式会社Vivixy",
+      "action": "patched"
+    },
     {
       "phase": "sh",
       "notion_url": "https://www.notion.so/349aa45a3f13813dbba5cd71ff7aa610",
