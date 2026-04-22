@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 113,
-  "verified": 110,
-  "patched": 112,
+  "processed": 115,
+  "verified": 112,
+  "patched": 114,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1705.2,
-  "eta_sec": 11046.2,
+  "elapsed_sec": 1738.9,
+  "eta_sec": 11038.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 113,
-      "patched": 112,
+      "processed": 115,
+      "patched": 114,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 113,
-    "key": "きらぼし銀行",
+    "idx": 115,
+    "key": "Life Circles",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/IZANA-349aa45a3f138139aa4ccebbef964f87",
+      "key": "株式会社 IZANA",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381938af3cee2ac0625db",
+      "key": "きらぼし銀行",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/EMOLVA-349aa45a3f138104b6b4f077824c993e",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f13814fade0de6f8f8b371a",
       "key": "クレドホールディングス株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381028f1fe43fb25e76b9",
-      "key": "イークラウド株式会社",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/347aa45a3f138185b33fd97a77069b93",
-      "key": "下関市",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
