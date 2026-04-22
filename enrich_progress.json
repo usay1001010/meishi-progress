@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 54,
-  "verified": 53,
-  "patched": 53,
+  "processed": 56,
+  "verified": 55,
+  "patched": 55,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 778.9,
-  "eta_sec": 11409.7,
+  "elapsed_sec": 820.1,
+  "eta_sec": 11555.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 54,
-      "patched": 53,
+      "processed": 56,
+      "patched": 55,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 54,
-    "key": "iA LINK株式会社",
+    "idx": 56,
+    "key": "株式会社 ひびき精機",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381b2bbbdce22ac2a60b4",
+      "key": "株式会社オリナス",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/iA-LINK-349aa45a3f1381ad8fdcf5c3e5afb384",
+      "key": "iA LINK株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381d9802ddb42689d2a1c",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/Gazelle-Capital-349aa45a3f13815ea351e8e72b014806",
       "key": "Gazelle Capital 株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381949a70c6cfe4c36775",
-      "key": "きらぼしコンサルティング",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381f998aae89fb13c2e3f",
-      "key": "国立大学法人 鳥取大学",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
