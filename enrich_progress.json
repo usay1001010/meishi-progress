@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 278,
-  "verified": 272,
-  "patched": 277,
+  "processed": 279,
+  "verified": 273,
+  "patched": 278,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4368.9,
-  "eta_sec": 8910.6,
+  "elapsed_sec": 4402.8,
+  "eta_sec": 8931.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,28 @@
     },
     "sh": {
       "total": 650,
-      "processed": 278,
-      "patched": 277,
+      "processed": 279,
+      "patched": 278,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 278,
-    "key": "株式会社 LEO",
+    "idx": 279,
+    "key": "株式会社 BLANCO",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/LEO-349aa45a3f138181b2f1fb474962886f",
+      "key": "株式会社 LEO",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b59c01e78a6cdc7b06",
@@ -433,14 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/344aa45a3f1381c9ac0bd4fe80717e98",
       "key": "石川県",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381a68d37f65236ec13e7",
-      "key": "株式会社タナベコンサルティング",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
