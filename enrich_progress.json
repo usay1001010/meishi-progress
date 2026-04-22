@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 26,
-  "verified": 25,
-  "patched": 25,
+  "processed": 29,
+  "verified": 28,
+  "patched": 28,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 349.2,
-  "eta_sec": 10999.7,
+  "elapsed_sec": 385.4,
+  "eta_sec": 10845.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 26,
-      "patched": 25,
+      "processed": 29,
+      "patched": 28,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 26,
-    "key": "株式会社 ADLS",
+    "idx": 29,
+    "key": "Dining Bar Frutta",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381ae9d94f4900baab98d",
+      "key": "ニッセイ・キャピタル株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13811283baf092e86f2786",
+      "key": "株式会社エー・スター・クオンタム",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/ADLS-349aa45a3f13813f9a95eb0c1edd3f51",
+      "key": "株式会社 ADLS",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/SecureNavi-345aa45a3f13812b9adfd95bc301afc7",
