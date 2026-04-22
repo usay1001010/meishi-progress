@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 221,
-  "verified": 217,
-  "patched": 220,
+  "processed": 223,
+  "verified": 218,
+  "patched": 222,
   "unchanged": 0,
   "failed": 0,
-  "low_confidence": 3,
+  "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3421.8,
-  "eta_sec": 9661.5,
+  "elapsed_sec": 3464.9,
+  "eta_sec": 9664.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 221,
-      "patched": 220,
+      "processed": 223,
+      "patched": 222,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 221,
-    "key": "中京起業サークル",
+    "idx": 223,
+    "key": "名古屋工業大学工学部",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/CONOMINI-DESIGN-345aa45a3f138178bc9fda495c4644f2",
+      "key": "CONOMINI DESIGN",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381a4a6fbc16c498b75a1",
+      "key": "中京起業サークル",
+      "note": "7項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/DCON-345aa45a3f1381f6a5f6e2b6ff8aea00",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f138157bac0f9bf051daa18",
       "key": "ケアコラボ株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f13819ea21bff0ad0a3dd13",
-      "key": "株式会社 博報堂プロダクツ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138170aa45cbb63d61562c",
-      "key": "一宮商工会議所",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
