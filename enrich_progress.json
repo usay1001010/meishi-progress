@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 388,
-  "verified": 381,
-  "patched": 387,
+  "processed": 391,
+  "verified": 384,
+  "patched": 390,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 6,
   "not_found": 0,
-  "elapsed_sec": 6009.0,
-  "eta_sec": 7077.6,
+  "elapsed_sec": 6047.1,
+  "eta_sec": 7021.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 388,
-      "patched": 387,
+      "processed": 391,
+      "patched": 390,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 388,
-    "key": "豊田市",
+    "idx": 391,
+    "key": "株式会社 CROSS",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138126b55eedc7228bec6d",
+      "key": "新城市",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13813fa9dbc7bbf21a1d66",
+      "key": "豊田市役所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f1381beb235d56e0e78f4fa",
+      "key": "豊田市",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381199d98cc598fb0ddc9",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f138131891cc40ad2c91c94",
       "key": "株式会社光通信",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/MTG-Ventures-Inc-349aa45a3f13817f9bcecc75cf1ae67f",
-      "key": "MTG Ventures, Inc.",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381f190c4dd61ca46d78b",
-      "key": "株式会社スペースシフト",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Dress-Code-345aa45a3f138106a802c3df1d97e159",
-      "key": "Dress Code 株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
