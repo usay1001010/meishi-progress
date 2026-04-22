@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 165,
-  "verified": 156,
-  "patched": 158,
+  "processed": 167,
+  "verified": 158,
+  "patched": 159,
   "unchanged": 3,
   "failed": 0,
   "low_confidence": 8,
-  "not_found": 3,
-  "elapsed_sec": 2967.2,
-  "eta_sec": 12228.6,
+  "not_found": 4,
+  "elapsed_sec": 3003.6,
+  "eta_sec": 12194.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,9 +24,9 @@
     },
     "office": {
       "total": 37,
-      "processed": 7,
-      "patched": 2,
-      "not_found": 3,
+      "processed": 9,
+      "patched": 3,
+      "not_found": 4,
       "failed": 0
     },
     "sh": {
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 165,
-    "key": "あいち中央農業協同組合 / 介護支援センター",
+    "idx": 167,
+    "key": "TRINITY PARTNERS / 訪問介護ランウェイ・訪問看護アライブ",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "ハピリス / 訪問看護リハビリステーション",
+      "notion_url": "https://www.notion.so/349aa45a3f138153ae78c75eb0a0684e",
+      "note": "11項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "あいち中央農業協同組合 / 介護支援センター",
+      "notion_url": "",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -428,22 +444,6 @@
       "key": "株式会社AMAO",
       "notion_url": "https://www.notion.so/AMAO-349aa45a3f13818ea938f819fb25c6cd",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ピド",
-      "notion_url": "https://www.notion.so/349aa45a3f13814cbe1cc817edcb316a",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ベネッセスタイルケアグループ",
-      "notion_url": "https://www.notion.so/349aa45a3f13817b8635cf0766ab0e63",
-      "note": "7項目"
     }
   ]
 }
