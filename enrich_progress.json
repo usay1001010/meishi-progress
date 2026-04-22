@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 418,
-  "verified": 410,
-  "patched": 417,
+  "processed": 421,
+  "verified": 413,
+  "patched": 420,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6425.1,
-  "eta_sec": 6563.4,
+  "elapsed_sec": 6473.5,
+  "eta_sec": 6519.6,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 418,
-      "patched": 417,
+      "processed": 421,
+      "patched": 420,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 418,
-    "key": "早稲田大学",
+    "idx": 421,
+    "key": "株式会社AKiKOMA",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381fe82ddfb2c2ddaa0ae",
+      "key": "株式会社フソウ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138162af27e2d9b16f57a5",
+      "key": "鳥羽商船高等専門学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f138166899cf7c279b19b4b",
+      "key": "早稲田大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b4bb67c3fe37eeb2ac",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381b6bbb9fcff1a1f39c4",
       "key": "公益財団法人 東京都中小企業振興公社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138168a441eca6c39ff131",
-      "key": "一般社団法人日本単独居宅介護支援事業所協会",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381a4955cf76453e2e154",
-      "key": "公益財団法人介護労働安定センター",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138168893fc427a2a31fc7",
-      "key": "公益社団法人 全国有料老人ホーム協会",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
