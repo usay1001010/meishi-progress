@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 263,
-  "verified": 229,
-  "patched": 222,
+  "processed": 265,
+  "verified": 230,
+  "patched": 224,
   "unchanged": 6,
   "failed": 20,
-  "low_confidence": 13,
+  "low_confidence": 14,
   "not_found": 14,
-  "elapsed_sec": 4725.1,
-  "eta_sec": 10456.4,
+  "elapsed_sec": 4758.2,
+  "eta_sec": 10414.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 68,
-      "patched": 47,
+      "processed": 70,
+      "patched": 49,
       "not_found": 0,
       "failed": 20
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 263,
-    "key": "城南国際特許事務所",
+    "idx": 265,
+    "key": "城南法律事務所",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 クリエイティブ ネクサス",
+      "notion_url": "https://www.notion.so/349aa45a3f1381f0aff4dafa8feefa6c",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "城南国際特許事務所",
+      "notion_url": "https://www.notion.so/347aa45a3f13819a80ecfcae48079a2d",
+      "note": "9項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -402,20 +418,6 @@
       "key": "株式会社 三菱UFJ銀行",
       "notion_url": "https://www.notion.so/UFJ-346aa45a3f13816291f4ec19f947ca28",
       "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "イノスケケア",
-      "notion_url": "https://www.notion.so/349aa45a3f1381978625e591f1f6af87",
-      "note": "1項目"
-    },
-    {
-      "status": "error",
-      "phase": "sh",
-      "key": "株式会社カナメヤ",
-      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 学生支援, 人材紹介"
     }
   ]
 }
