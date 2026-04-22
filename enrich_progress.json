@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 421,
-  "verified": 413,
-  "patched": 420,
+  "processed": 424,
+  "verified": 416,
+  "patched": 423,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6473.5,
-  "eta_sec": 6519.6,
+  "elapsed_sec": 6510.8,
+  "eta_sec": 6464.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 421,
-      "patched": 420,
+      "processed": 424,
+      "patched": 423,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 421,
-    "key": "株式会社AKiKOMA",
+    "idx": 424,
+    "key": "独立行政法人国立高等専門学校機構 鳥羽商船高等専門学校",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Let-Gift-349aa45a3f13818ea663c8c296fbb224",
+      "key": "株式会社 Let Gift",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f138121b3edd6b55f89bed7",
+      "key": "三重大学",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/AKiKOMA-345aa45a3f1381bc9485edc67c2d1b2e",
+      "key": "株式会社AKiKOMA",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381fe82ddfb2c2ddaa0ae",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381c997bcc2917512e725",
       "key": "株式会社ヘルステクノロジー",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b58635fece6801b565",
-      "key": "株式会社ポケットナース",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/AI-349aa45a3f13817a8974f8c72573089a",
-      "key": "(株)AI予防医学研究所",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381b6bbb9fcff1a1f39c4",
-      "key": "公益財団法人 東京都中小企業振興公社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
