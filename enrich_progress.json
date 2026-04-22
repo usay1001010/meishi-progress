@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 438,
-  "verified": 430,
-  "patched": 437,
+  "processed": 441,
+  "verified": 433,
+  "patched": 440,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6702.9,
-  "eta_sec": 6228.5,
+  "elapsed_sec": 6741.6,
+  "eta_sec": 6175.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 438,
-      "patched": 437,
+      "processed": 441,
+      "patched": 440,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 438,
-    "key": "内閣官房新しい資本主義実現本部事務局",
+    "idx": 441,
+    "key": "株式会社ニューロジカ",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f13817dba4bc95a0aea73c1",
+      "key": "名古屋王者株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381429905ea3a0dbaf098",
+      "key": "富士フイルムシステムサービス株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381b58e24cb5ef2233035",
+      "key": "内閣官房新しい資本主義実現本部事務局",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/QUICK-345aa45a3f1381bdac4dc24d14f97ea8",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/CROSS-349aa45a3f1381d1a381ce20fb8a5954",
       "key": "株式会社 CROSS",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f138126b55eedc7228bec6d",
-      "key": "新城市",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13813fa9dbc7bbf21a1d66",
-      "key": "豊田市役所",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f1381beb235d56e0e78f4fa",
-      "key": "豊田市",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
