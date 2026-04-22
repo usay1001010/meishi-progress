@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 237,
-  "verified": 212,
-  "patched": 204,
+  "processed": 240,
+  "verified": 215,
+  "patched": 207,
   "unchanged": 6,
   "failed": 12,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 4277.1,
-  "eta_sec": 10972.6,
+  "elapsed_sec": 4313.6,
+  "eta_sec": 10873.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 42,
-      "patched": 29,
+      "processed": 45,
+      "patched": 32,
       "not_found": 0,
       "failed": 12
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 237,
-    "key": "株式会社松尾研究所",
+    "idx": 240,
+    "key": "日本電技株式会社",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社テレビ朝日",
+      "notion_url": "https://www.notion.so/345aa45a3f13815e898bdb5afc5cae1d",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "東京大学大学院",
+      "notion_url": "https://www.notion.so/349aa45a3f13811fb197ec79e1ef0896",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社松尾研究所",
+      "notion_url": "https://www.notion.so/345aa45a3f138163b626c1455ac500e1",
+      "note": "9項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -396,30 +420,6 @@
       "key": "合同会社Think Body Japan / リハビリフィットネス訪問看護ステーション守山",
       "notion_url": "https://www.notion.so/349aa45a3f1381d1880ad6e1453d291c",
       "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "株式会社ラシエル / 大阪オフィス",
-      "notion_url": "",
-      "note": "4項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "社会福祉法人 郡上市社会福祉協議会 / すみれ作業所",
-      "notion_url": "",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "empty",
-      "key": "株式会社ミトリ / 三鷹訪問介護ステーション、三鷹訪問看護ステーション",
-      "notion_url": "",
-      "note": "0項目"
     }
   ]
 }
