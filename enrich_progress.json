@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 201,
-  "verified": 187,
-  "patched": 178,
+  "processed": 204,
+  "verified": 189,
+  "patched": 180,
   "unchanged": 6,
-  "failed": 2,
+  "failed": 3,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3691.3,
-  "eta_sec": 11826.7,
+  "elapsed_sec": 3730.8,
+  "eta_sec": 11722.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,42 @@
     },
     "sh": {
       "total": 650,
-      "processed": 6,
-      "patched": 3,
+      "processed": 9,
+      "patched": 5,
       "not_found": 0,
-      "failed": 2
+      "failed": 3
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 201,
-    "key": "ホームエクスプレス",
+    "idx": 204,
+    "key": "中部経済産業局",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社日本政策金融公庫",
+      "notion_url": "https://www.notion.so/345aa45a3f138145865af2ac37dbe6ee",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "岐阜信用金庫",
+      "notion_url": "https://www.notion.so/345aa45a3f138110849bcb324e28582c",
+      "note": "10項目"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "ホームエクスプレス",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 排水管洗浄, 水道工事"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -415,30 +437,6 @@
       "action": "patched",
       "key": "株式会社プラーナ",
       "notion_url": "https://www.notion.so/33aaa45a3f1381d1a7f4c92bcfcf7d47",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 和光会",
-      "notion_url": "https://www.notion.so/349aa45a3f138162bd58c5e5263dfc4c",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社ウェルヴィレッジ",
-      "notion_url": "https://www.notion.so/33aaa45a3f1381c883f0d55c5693e289",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 波の女",
-      "notion_url": "https://www.notion.so/349aa45a3f13818face1efdf183bf995",
       "note": "8項目"
     }
   ]
