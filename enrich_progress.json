@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 82,
-  "verified": 79,
-  "patched": 80,
+  "processed": 84,
+  "verified": 81,
+  "patched": 82,
   "unchanged": 1,
   "failed": 0,
   "low_confidence": 2,
   "not_found": 0,
-  "elapsed_sec": 1488.4,
-  "eta_sec": 13849.6,
+  "elapsed_sec": 1520.0,
+  "eta_sec": 13770.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 82,
-      "patched": 80,
+      "processed": 84,
+      "patched": 82,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 82,
-    "key": "医療法人社団 大和会",
+    "idx": 84,
+    "key": "社会福祉法人市原寮",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "株式会社ベネッセコーポレーション",
+      "notion_url": "https://www.notion.so/349aa45a3f138139a9d7c608ac8a6302",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人社団 大和会",
+      "notion_url": "https://www.notion.so/349aa45a3f138165ac63d660e323338b",
+      "note": "8項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
@@ -428,22 +444,6 @@
       "key": "社会福祉法人 香西会",
       "notion_url": "https://www.notion.so/349aa45a3f13815a920df60aab89ef70",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社 アイシア",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d59a8ae83db0f2b7a8",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "株式会社アイシア",
-      "notion_url": "https://www.notion.so/33aaa45a3f13813998e0e36b4aad4865",
-      "note": "8項目"
     }
   ]
 }
