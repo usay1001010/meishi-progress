@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 298,
-  "verified": 292,
-  "patched": 297,
+  "processed": 301,
+  "verified": 295,
+  "patched": 300,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4701.8,
-  "eta_sec": 8630.4,
+  "elapsed_sec": 4752.8,
+  "eta_sec": 8589.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 298,
-      "patched": 297,
+      "processed": 301,
+      "patched": 300,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 298,
-    "key": "株式会社ブルーオーシャンシステム",
+    "idx": 301,
+    "key": "SysC 株式会社 システムクリエイト",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381ccb477cd5e61cd3606",
+      "key": "エヌ・デーソフトウェア株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381479b19d45f852704f7",
+      "key": "豊田通商株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381038fe4e1e43b44a538",
+      "key": "株式会社ブルーオーシャンシステム",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381a1a628fba03bc3f035",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381ca8296cc841461d2b2",
       "key": "イグニション・ポイント ベンチャーパートナーズ 株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/mint-349aa45a3f1381659b44f8c7c4a920ae",
-      "key": "mint",
-      "note": "8項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13814b8c8ed74e1e4d82d7",
-      "key": "株式会社トコシエ",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/IVS-349aa45a3f138126af03c4ee170e9161",
-      "key": "IVS",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
