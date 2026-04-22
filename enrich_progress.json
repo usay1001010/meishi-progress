@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 254,
+  "processed": 255,
   "verified": 223,
   "patched": 216,
   "unchanged": 6,
-  "failed": 17,
+  "failed": 18,
   "low_confidence": 13,
   "not_found": 14,
-  "elapsed_sec": 4530.1,
-  "eta_sec": 10540.6,
+  "elapsed_sec": 4584.6,
+  "eta_sec": 10607.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,26 @@
     },
     "sh": {
       "total": 650,
-      "processed": 59,
+      "processed": 60,
       "patched": 41,
       "not_found": 0,
-      "failed": 17
+      "failed": 18
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 254,
-    "key": "株式会社Brownie",
+    "idx": 255,
+    "key": "株式会社XLOCAL",
     "verified": false
   },
   "recent": [
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社Brownie",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: AI開発, アプリ開発, DXコンサル"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -408,14 +414,6 @@
       "key": "セーフティー アンド コントロール 株式会社",
       "notion_url": "https://www.notion.so/349aa45a3f138199b5ade713371ffa3f",
       "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "sh",
-      "action": "patched",
-      "key": "中部経済産業局",
-      "notion_url": "https://www.notion.so/349aa45a3f138141b0dec3333ac72b53",
-      "note": "10項目"
     }
   ]
 }
