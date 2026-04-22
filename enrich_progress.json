@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 473,
-  "verified": 465,
-  "patched": 472,
+  "processed": 475,
+  "verified": 467,
+  "patched": 474,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 7248.6,
-  "eta_sec": 5700.8,
+  "elapsed_sec": 7280.2,
+  "eta_sec": 5670.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 473,
-      "patched": 472,
+      "processed": 475,
+      "patched": 474,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 473,
-    "key": "行政書士かわいあい事務所",
+    "idx": 475,
+    "key": "株式会社 丸菱製作所",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138197b6acc02d480594cf",
+      "key": "武豊町",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381138988f6ada1a0aace",
+      "key": "行政書士かわいあい事務所",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381c198e7c7309e2731ae",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f138138a253ff1c3ae6942f",
       "key": "株式会社 京信 ソーシャル キャピタル",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381848262cdbebb633311",
-      "key": "独立行政法人国立高等専門学校機構 鳥羽商船高等専門学校",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Let-Gift-349aa45a3f13818ea663c8c296fbb224",
-      "key": "株式会社 Let Gift",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
