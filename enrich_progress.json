@@ -5,20 +5,20 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 43,
-  "verified": 41,
-  "patched": 42,
+  "processed": 45,
+  "verified": 43,
+  "patched": 44,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 1,
   "not_found": 0,
-  "elapsed_sec": 736.3,
-  "eta_sec": 13732.0,
+  "elapsed_sec": 777.7,
+  "eta_sec": 13826.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
-      "processed": 43,
-      "patched": 42,
+      "processed": 45,
+      "patched": 44,
       "not_found": 0,
       "failed": 0
     },
@@ -40,11 +40,27 @@
   "current": {
     "phase": "kkaku",
     "patched": false,
-    "idx": 43,
-    "key": "医療法人 聖俊会",
+    "idx": 45,
+    "key": "医療法人信愛会",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "ハピリス",
+      "notion_url": "https://www.notion.so/349aa45a3f1381419018efc291462f0b",
+      "note": "8項目"
+    },
+    {
+      "status": "ok",
+      "phase": "kkaku",
+      "action": "patched",
+      "key": "医療法人 聖俊会",
+      "notion_url": "https://www.notion.so/349aa45a3f138139992fc2bab32d5fac",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "kkaku",
