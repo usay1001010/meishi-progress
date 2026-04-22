@@ -66,6 +66,33 @@
   <table id="recent"><thead><tr><th>Key</th><th>Status</th><th>種別</th><th>Notion</th><th>Note</th></tr></thead><tbody></tbody></table>
 </section>
 
+<hr style="border:none;border-top:1px solid #334155;margin:28px 0;">
+
+<h1>verify.py エンリッチ 進捗</h1>
+<div class="sub" id="enrich-status">待機中…</div>
+
+<section>
+  <div class="bar"><div id="enrich-bar" style="width:0%"></div><span class="lbl" id="enrich-label">0%</span></div>
+  <div class="muted" id="enrich-text"></div>
+</section>
+
+<section class="grid" id="enrich-stats"></section>
+
+<section>
+  <h2>現在処理中</h2>
+  <div class="card current-big" id="enrich-current">—</div>
+</section>
+
+<section>
+  <h2>フェーズ別</h2>
+  <div id="enrich-phases"></div>
+</section>
+
+<section>
+  <h2>直近のイベント</h2>
+  <table id="enrich-recent"><thead><tr><th>Phase</th><th>Key</th><th>Status</th><th>Action</th><th>Notion</th><th>Note</th></tr></thead><tbody></tbody></table>
+</section>
+
 <div class="sub" id="last-update">—</div>
 
 <script>
@@ -155,8 +182,72 @@ async function tick(){
     document.getElementById("status").textContent = "再試行中… "+e.message;
   }
 }
+async function tickEnrich(){
+  try {
+    const r = await fetch("./enrich_progress.json?t="+Date.now(), {cache:"no-store"});
+    if(!r.ok){
+      document.getElementById("enrich-status").textContent = "未開始 (enrich_progress.json 無し)";
+      return;
+    }
+    const s = await r.json();
+    const total = s.total || 0;
+    const done = (s.processed || 0);
+    const pct = total ? (done/total*100) : 0;
+    document.getElementById("enrich-bar").style.width = pct.toFixed(2)+"%";
+    document.getElementById("enrich-label").textContent = pct.toFixed(1)+"%";
+    document.getElementById("enrich-text").textContent =
+      `${done} / ${total}件  経過 ${fmt(s.elapsed_sec)}  残り ${fmt(s.eta_sec)}`;
+
+    document.getElementById("enrich-stats").innerHTML = [
+      statCard("Total", total),
+      statCard("Verified", s.verified||0, "ok"),
+      statCard("Patched", s.patched||0, "ok"),
+      statCard("Not found", s.not_found||0, (s.not_found>0?"warn":"")),
+      statCard("Low-conf", s.low_confidence||0, "warn"),
+      statCard("Failed", s.failed||0, (s.failed>0?"err":"")),
+      statCard("Mode", s.dry_run ? "DRY-RUN" : "LIVE", s.dry_run?"warn":"ok"),
+    ].join("");
+
+    const cur = s.current;
+    if(cur){
+      document.getElementById("enrich-current").innerHTML =
+        `<div><span class="pill">${cur.phase}</span> <code>${cur.key||'—'}</code></div>
+         <div class="muted" style="margin-top:6px;">${cur.idx}件目 ${cur.verified?'<span class="ok">✓verified</span>':''} ${cur.patched?'<span class="ok">✓patched</span>':''}</div>`;
+    } else if(s.finished_at) {
+      document.getElementById("enrich-current").innerHTML = `<span class="ok">✓ 完了 ${s.finished_at}</span>`;
+    } else {
+      document.getElementById("enrich-current").innerHTML = `<span class="muted">待機中…</span>`;
+    }
+
+    document.getElementById("enrich-phases").innerHTML =
+      Object.entries(s.by_phase||{}).map(([k,g])=>{
+        const d = (g.processed||0);
+        const p = g.total ? (d/g.total*100) : 0;
+        return `<div class="group-row">
+          <div class="name">${k}</div>
+          <div class="bar sm"><div style="width:${p.toFixed(1)}%"></div></div>
+          <div class="stats">${d}/${g.total} <span class="ok">${g.patched?('✓'+g.patched):''}</span> <span class="warn">${g.not_found?('?'+g.not_found):''}</span> <span class="err">${g.failed?('✕'+g.failed):''}</span></div>
+        </div>`;
+      }).join("") || '<div class="muted">—</div>';
+
+    const rbody = document.querySelector("#enrich-recent tbody");
+    rbody.innerHTML = (s.recent||[]).slice(0,30).map(e=>{
+      const cls = e.status==="ok" ? "ok" : "err";
+      const link = e.notion_url ? `<a href="${e.notion_url}" target="_blank" rel="noopener">開く ↗</a>` : '';
+      return `<tr><td><span class="pill">${e.phase||''}</span></td><td><code>${e.key||''}</code></td><td class="${cls}">${e.status||''}</td><td>${e.action||''}</td><td>${link}</td><td class="muted">${e.note||''}</td></tr>`;
+    }).join("") || '<tr><td colspan="6" class="muted">—</td></tr>';
+
+    document.getElementById("enrich-status").textContent =
+      (s.finished_at ? "完了: "+s.finished_at : (s.started_at ? "開始: "+s.started_at : ""));
+  } catch(e){
+    document.getElementById("enrich-status").textContent = "再試行中… "+e.message;
+  }
+}
+
 tick();
+tickEnrich();
 setInterval(tick, 2000);
+setInterval(tickEnrich, 3000);
 </script>
 </body>
 </html>
