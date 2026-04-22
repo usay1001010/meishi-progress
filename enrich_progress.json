@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 175,
-  "verified": 165,
-  "patched": 165,
+  "processed": 177,
+  "verified": 167,
+  "patched": 166,
   "unchanged": 4,
   "failed": 0,
   "low_confidence": 9,
-  "not_found": 5,
-  "elapsed_sec": 3153.0,
-  "eta_sec": 12071.4,
+  "not_found": 6,
+  "elapsed_sec": 3188.4,
+  "eta_sec": 12033.0,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -24,9 +24,9 @@
     },
     "office": {
       "total": 37,
-      "processed": 17,
-      "patched": 9,
-      "not_found": 5,
+      "processed": 19,
+      "patched": 10,
+      "not_found": 6,
       "failed": 0
     },
     "sh": {
@@ -40,11 +40,27 @@
   "current": {
     "phase": "office",
     "patched": false,
-    "idx": 175,
-    "key": "株式会社 安 里 / 東海橋苑居宅介護支援事業所",
+    "idx": 177,
+    "key": "医療法人 純正会 / 法人本部事務局",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "not_found",
+      "key": "医療法人 純正会 / 法人事務局",
+      "notion_url": "",
+      "note": "3項目"
+    },
+    {
+      "status": "ok",
+      "phase": "office",
+      "action": "patched",
+      "key": "株式会社 安 里 / 東海橋苑居宅介護支援事業所",
+      "notion_url": "https://www.notion.so/349aa45a3f138186bc42e6ec0c234bc9",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "office",
@@ -427,22 +443,6 @@
       "action": "patched",
       "key": "社会福祉法人 郡上市社会福祉協議会",
       "notion_url": "https://www.notion.so/349aa45a3f1381b99a08fd7ed9d56b93",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 北伸福祉社会",
-      "notion_url": "https://www.notion.so/349aa45a3f1381fc8ab9db322758d617",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "kkaku",
-      "action": "patched",
-      "key": "社会福祉法人 寿陽会",
-      "notion_url": "https://www.notion.so/349aa45a3f138156bfc4faf90c07fd55",
       "note": "9項目"
     }
   ]
