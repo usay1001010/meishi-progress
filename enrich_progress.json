@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 357,
-  "verified": 351,
-  "patched": 356,
+  "processed": 359,
+  "verified": 353,
+  "patched": 358,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5521.0,
-  "eta_sec": 7546.9,
+  "elapsed_sec": 5554.8,
+  "eta_sec": 7519.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 357,
-      "patched": 356,
+      "processed": 359,
+      "patched": 358,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 357,
-    "key": "シューペルブリアン株式会社",
+    "idx": 359,
+    "key": "株式会社ブライト・ヴィー",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13818b99eedc9701fcdad5",
+      "key": "株式会社 グッドツリー",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13815a9023ccc5b5306732",
+      "key": "シューペルブリアン株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/IT-349aa45a3f13812fa5bafd9530ae0373",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381c7a770eca6318edc14",
       "key": "愛知ドビー株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381c3a1c9f4a4c71ed4ff",
-      "key": "愛知医科大学病院",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381eb9209c6ec828f00a3",
-      "key": "荒木洋人 公認会計士 税理士事務所",
-      "note": "8項目",
       "action": "patched",
       "phase": "sh"
     }
