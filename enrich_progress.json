@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 217,
-  "verified": 196,
-  "patched": 188,
+  "processed": 220,
+  "verified": 199,
+  "patched": 191,
   "unchanged": 6,
   "failed": 8,
   "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 3947.2,
-  "eta_sec": 11423.2,
+  "elapsed_sec": 3990.5,
+  "eta_sec": 11336.5,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 22,
-      "patched": 13,
+      "processed": 25,
+      "patched": 16,
       "not_found": 0,
       "failed": 8
     }
@@ -40,11 +40,35 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 217,
-    "key": "株式会社エイエイピー",
+    "idx": 220,
+    "key": "植草学園大学",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 世界文化ワンダーグループ",
+      "notion_url": "https://www.notion.so/349aa45a3f138149907acec24184dfbd",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 エイエイピー",
+      "notion_url": "https://www.notion.so/349aa45a3f13812a959aeb5da4bf2945",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社エイエイピー",
+      "notion_url": "https://www.notion.so/345aa45a3f1381b5bd9de26148012955",
+      "note": "10項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -404,30 +428,6 @@
       "key": "社会福祉法人 新城市社会福祉協議会 / しんしろ福祉会館居宅介護支援事業所",
       "notion_url": "https://www.notion.so/349aa45a3f138116bcbcf206b1bdbfaa",
       "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "社会福祉法人 新城市社会福祉協議会 / 新城市地域包括支援センター 介護予防支援事業所",
-      "notion_url": "https://www.notion.so/349aa45a3f13813a9ba6e090688eaa70",
-      "note": "7項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "有限会社ミヤビサポート / ミヤビサポートありがとう居宅介護支援事業所",
-      "notion_url": "https://www.notion.so/349aa45a3f138128937ffde0278ffeff",
-      "note": "9項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "empty",
-      "key": "TRINITY PARTNERS / 訪問介護ランウェイ・訪問看護アライブ",
-      "notion_url": "",
-      "note": "0項目"
     }
   ]
 }
