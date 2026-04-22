@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 39,
-  "verified": 38,
-  "patched": 38,
+  "processed": 41,
+  "verified": 40,
+  "patched": 40,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 544.4,
-  "eta_sec": 11250.4,
+  "elapsed_sec": 580.8,
+  "eta_sec": 11388.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 39,
-      "patched": 38,
+      "processed": 41,
+      "patched": 40,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 39,
-    "key": "株式会社InnoProviZation",
+    "idx": 41,
+    "key": "株式会社 三ッ知",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d7ba0efa9d11056710",
+      "key": "オカヤシステム",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/InnoProviZation-346aa45a3f1381fc9904f381e74d97f7",
+      "key": "株式会社InnoProviZation",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138183b4b2d5174c4fd3de",
