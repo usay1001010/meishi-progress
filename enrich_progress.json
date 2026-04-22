@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 310,
-  "verified": 304,
-  "patched": 309,
+  "processed": 313,
+  "verified": 307,
+  "patched": 312,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 4874.0,
-  "eta_sec": 8411.6,
+  "elapsed_sec": 4918.8,
+  "eta_sec": 8360.3,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 310,
-      "patched": 309,
+      "processed": 313,
+      "patched": 312,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 310,
-    "key": "株式会社 日立製作所",
+    "idx": 313,
+    "key": "東海学園大学",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Kamon-349aa45a3f1381ed99f1dfc199f8ff95",
+      "key": "株式会社Kamon",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Mipox-349aa45a3f138144a5fcc607cd87fca2",
+      "key": "Mipox株式会社",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381e194ccf23fe64ede77",
+      "key": "株式会社 日立製作所",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381c7a770eca6318edc14",
@@ -417,30 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f138185897ef562b4737952",
       "key": "ボイット株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381d682ededdaec82cf1c",
-      "key": "ブティックス株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Seamth-346aa45a3f13812ea137d1b16edd16c1",
-      "key": "株式会社Seamth",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Colibri-346aa45a3f1381c2aa4ae54c7209eebd",
-      "key": "Colibri合同会社",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
