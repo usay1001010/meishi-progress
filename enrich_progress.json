@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 214,
-  "verified": 195,
-  "patched": 186,
+  "processed": 217,
+  "verified": 196,
+  "patched": 188,
   "unchanged": 6,
-  "failed": 7,
-  "low_confidence": 11,
+  "failed": 8,
+  "low_confidence": 12,
   "not_found": 14,
-  "elapsed_sec": 3915.1,
-  "eta_sec": 11544.1,
+  "elapsed_sec": 3947.2,
+  "eta_sec": 11423.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,42 @@
     },
     "sh": {
       "total": 650,
-      "processed": 19,
-      "patched": 11,
+      "processed": 22,
+      "patched": 13,
       "not_found": 0,
-      "failed": 7
+      "failed": 8
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 214,
-    "key": "イノスケケア",
+    "idx": 217,
+    "key": "株式会社エイエイピー",
     "verified": false
   },
   "recent": [
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社善光総合研究所",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 介護DX, 介護SaaS, コンサルティング, 人材育成"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "株式会社 三菱UFJ銀行",
+      "notion_url": "https://www.notion.so/UFJ-346aa45a3f13816291f4ec19f947ca28",
+      "note": "10項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "イノスケケア",
+      "notion_url": "https://www.notion.so/349aa45a3f1381978625e591f1f6af87",
+      "note": "1項目"
+    },
     {
       "status": "error",
       "phase": "sh",
@@ -406,30 +428,6 @@
       "key": "TRINITY PARTNERS / 訪問介護ランウェイ・訪問看護アライブ",
       "notion_url": "",
       "note": "0項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "ハピリス / 訪問看護リハビリステーション",
-      "notion_url": "https://www.notion.so/349aa45a3f138153ae78c75eb0a0684e",
-      "note": "11項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "あいち中央農業協同組合 / 介護支援センター",
-      "notion_url": "",
-      "note": "8項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "patched",
-      "key": "株式会社ミトリ / 三鷹訪問介護ステーション, 三鷹訪問看護ステーション",
-      "notion_url": "https://www.notion.so/349aa45a3f13815480d7e57fc45e5d26",
-      "note": "10項目"
     }
   ]
 }
