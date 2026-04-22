@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 213,
-  "verified": 209,
-  "patched": 212,
+  "processed": 216,
+  "verified": 212,
+  "patched": 215,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 3,
   "not_found": 0,
-  "elapsed_sec": 3299.6,
-  "eta_sec": 9790.3,
+  "elapsed_sec": 3343.8,
+  "eta_sec": 9737.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 213,
-      "patched": 212,
+      "processed": 216,
+      "patched": 215,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 213,
-    "key": "株式会社ディープコア",
+    "idx": 216,
+    "key": "メディアバンク株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f1381d58041ce8be03003ce",
+      "key": "株式会社アクセスネット",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381f29600dcc066b70ae6",
+      "key": "みずほキャピタル株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f138108803eef87de567df0",
+      "key": "株式会社ディープコア",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/Queue-349aa45a3f138177979ff64358e1c256",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f1381e09c45eb23b3f9d19a",
       "key": "トーテックアメニティ株式会社",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381ff9dbedbbbe2b4604a",
-      "key": "ベルメディカルケア株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381fabd4ec9a5858c3dd8",
-      "key": "株式会社カナミックネットワーク",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f1381a3b74ef3b36d07ae7b",
-      "key": "株式会社タカオ",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
