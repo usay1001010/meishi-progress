@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 66,
-  "verified": 65,
-  "patched": 65,
+  "processed": 68,
+  "verified": 67,
+  "patched": 67,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 970.2,
-  "eta_sec": 11451.2,
+  "elapsed_sec": 1000.6,
+  "eta_sec": 11433.2,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 66,
-      "patched": 65,
+      "processed": 68,
+      "patched": 67,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 66,
-    "key": "株式会社ツクリエ",
+    "idx": 68,
+    "key": "グーグル・クラウド・ジャパン合同会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/UNCOVERED-FUND-INC-349aa45a3f1381019f89d6648d624ec2",
+      "key": "UNCOVERED FUND INC.",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/344aa45a3f13814cb967cbd8d06ecbff",
+      "key": "株式会社ツクリエ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/347aa45a3f13814fade0de6f8f8b371a",
@@ -425,22 +441,6 @@
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f1381d185a2f5f32caee849",
       "key": "セイノーホールディングス株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13818f9b49fcb20da55d5a",
-      "key": "いよぎんキャピタル株式会社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/346aa45a3f13816bb2c2e5c6e2a59985",
-      "key": "株式会社ボルテックス",
       "note": "10項目",
       "action": "patched",
       "phase": "sh"
