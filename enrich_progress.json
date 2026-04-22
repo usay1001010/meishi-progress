@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 210,
-  "verified": 193,
-  "patched": 184,
+  "processed": 212,
+  "verified": 195,
+  "patched": 186,
   "unchanged": 6,
   "failed": 5,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3834.1,
-  "eta_sec": 11593.7,
+  "elapsed_sec": 3881.5,
+  "eta_sec": 11589.7,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,8 +31,8 @@
     },
     "sh": {
       "total": 650,
-      "processed": 15,
-      "patched": 9,
+      "processed": 17,
+      "patched": 11,
       "not_found": 0,
       "failed": 5
     }
@@ -40,11 +40,27 @@
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 210,
-    "key": "(有)名古屋タイトルデザインセンター",
+    "idx": 212,
+    "key": "TEDxNagoyaU",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "神田家",
+      "notion_url": "https://www.notion.so/349aa45a3f1381bd8b7be191916ccaa0",
+      "note": "9項目"
+    },
+    {
+      "status": "ok",
+      "phase": "sh",
+      "action": "patched",
+      "key": "(有)名古屋タイトルデザインセンター",
+      "notion_url": "https://www.notion.so/349aa45a3f1381aca563de7d2210d205",
+      "note": "9項目"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -418,22 +434,6 @@
       "key": "スギホールディングス株式会社 / 関東本部",
       "notion_url": "",
       "note": "5項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "滝子通一丁目福祉施設 / 小規模多機能・クラブ滝子",
-      "notion_url": "",
-      "note": "6項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "ニチイ学館 / GENBA SMILE Lab",
-      "notion_url": "",
-      "note": "6項目"
     }
   ]
 }
