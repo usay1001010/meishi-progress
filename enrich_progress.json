@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 56,
-  "verified": 55,
-  "patched": 55,
+  "processed": 59,
+  "verified": 58,
+  "patched": 58,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 0,
   "not_found": 0,
-  "elapsed_sec": 820.1,
-  "eta_sec": 11555.3,
+  "elapsed_sec": 865.3,
+  "eta_sec": 11527.4,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 56,
-      "patched": 55,
+      "processed": 59,
+      "patched": 58,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 56,
-    "key": "株式会社 ひびき精機",
+    "idx": 59,
+    "key": "Frontier Innovations 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/GOAT-trip-347aa45a3f13819caeabc8efb42dfd37",
+      "key": "GOAT trip株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381ebaca2c5962ed2a069",
+      "key": "中部電力株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f1381838e4cd80b99e52a72",
+      "key": "株式会社 ひびき精機",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381b2bbbdce22ac2a60b4",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/349aa45a3f1381e88e62e8da9318c66b",
       "key": "株式会社スマートエコー",
       "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381d38056f1d79ed89ef9",
-      "key": "株式会社ベンチャーラボイノベーション",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13817d8ea6d4dd4d328a83",
-      "key": "株式会社ベンチャーラボインベストメント",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Gazelle-Capital-349aa45a3f13815ea351e8e72b014806",
-      "key": "Gazelle Capital 株式会社",
-      "note": "9項目",
       "action": "patched",
       "phase": "sh"
     }
