@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 249,
-  "verified": 244,
-  "patched": 248,
+  "processed": 251,
+  "verified": 246,
+  "patched": 250,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 4,
   "not_found": 0,
-  "elapsed_sec": 3894.0,
-  "eta_sec": 9320.6,
+  "elapsed_sec": 3950.9,
+  "eta_sec": 9349.9,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 249,
-      "patched": 248,
+      "processed": 251,
+      "patched": 250,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 249,
-    "key": "株式会社トコシエ",
+    "idx": 251,
+    "key": "イグニション・ポイント ベンチャーパートナーズ 株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/mint-349aa45a3f1381659b44f8c7c4a920ae",
+      "key": "mint",
+      "note": "8項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13814b8c8ed74e1e4d82d7",
+      "key": "株式会社トコシエ",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/IVS-349aa45a3f138126af03c4ee170e9161",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/Creww-349aa45a3f1381319637e03b44db3877",
       "key": "Creww 株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f138173bafbe115f2c2c3f5",
-      "key": "株式会社 電波新聞社",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f13810e99fde67c15cd2821",
-      "key": "三井住友海上キャピタル株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
