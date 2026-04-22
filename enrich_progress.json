@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 327,
-  "verified": 321,
-  "patched": 326,
+  "processed": 329,
+  "verified": 323,
+  "patched": 328,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 5,
   "not_found": 0,
-  "elapsed_sec": 5112.4,
-  "eta_sec": 8098.6,
+  "elapsed_sec": 5143.4,
+  "eta_sec": 8066.8,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,36 @@
     },
     "sh": {
       "total": 650,
-      "processed": 327,
-      "patched": 326,
+      "processed": 329,
+      "patched": 328,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 327,
-    "key": "独立行政法人国立高等専門学校機構 豊田工業高等専門学校",
+    "idx": 329,
+    "key": "株式会社はんぽさき",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381588ebdcb62c768371f",
+      "key": "丸紅株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/346aa45a3f13817d8050daea6aba8417",
+      "key": "独立行政法人国立高等専門学校機構 豊田工業高等専門学校",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/349aa45a3f1381edb94cd79cada05a1f",
@@ -426,22 +442,6 @@
       "notion_url": "https://www.notion.so/BLANCO-349aa45a3f138157965ff09ebf064cd5",
       "key": "株式会社 BLANCO",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/LEO-349aa45a3f138181b2f1fb474962886f",
-      "key": "株式会社 LEO",
-      "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381b59c01e78a6cdc7b06",
-      "key": "小学館",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
