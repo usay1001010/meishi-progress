@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 427,
-  "verified": 419,
-  "patched": 426,
+  "processed": 430,
+  "verified": 422,
+  "patched": 429,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 7,
   "not_found": 0,
-  "elapsed_sec": 6550.4,
-  "eta_sec": 6412.3,
+  "elapsed_sec": 6586.9,
+  "eta_sec": 6357.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,44 @@
     },
     "sh": {
       "total": 650,
-      "processed": 427,
-      "patched": 426,
+      "processed": 430,
+      "patched": 429,
       "not_found": 0,
       "failed": 0
     }
   },
   "current": {
-    "idx": 427,
-    "key": "愛知キャピタル株式会社",
+    "idx": 430,
+    "key": "東京大学協創プラットフォーム開発株式会社",
     "patched": false,
     "phase": "sh",
     "verified": false
   },
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/349aa45a3f13817e955ff62cdc6029b4",
+      "key": "株式会社マイスター・ギルド",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/KeyWeave-347aa45a3f1381eb8497dc86eb40766e",
+      "key": "株式会社KeyWeave",
+      "note": "9項目",
+      "action": "patched",
+      "phase": "sh"
+    },
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/345aa45a3f1381f8b0b2ce388b3c5112",
+      "key": "愛知キャピタル株式会社",
+      "note": "10項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/345aa45a3f13814caf0cc938fd95c3cd",
@@ -418,30 +442,6 @@
       "notion_url": "https://www.notion.so/SUNDRED-349aa45a3f1381958a1ae11743751169",
       "key": "SUNDRED 株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/349aa45a3f1381db8be7ed5693345831",
-      "key": "株式会社 文祥堂",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/344aa45a3f1381b49dfce791fcc19912",
-      "key": "九州工業大学",
-      "note": "10項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/Logistics-and-Supply-Chain-MultiTech-R-D-Centre-Limited-345aa45a3f138189821af9959caacf33",
-      "key": "Logistics and Supply Chain MultiTech R&D Centre Limited",
-      "note": "7項目",
       "action": "patched",
       "phase": "sh"
     }
