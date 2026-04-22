@@ -1,13 +1,13 @@
 {
   "started_at": "2026-04-22 23:26:42",
-  "finished_at": null,
+  "finished_at": "2026-04-23 01:32:29",
   "dry_run": false,
   "force": false,
   "mode": "overwrite",
   "total": 845,
   "processed": 489,
-  "verified": 480,
-  "patched": 488,
+  "verified": 481,
+  "patched": 489,
   "unchanged": 0,
   "failed": 0,
   "low_confidence": 8,
@@ -32,19 +32,21 @@
     "sh": {
       "total": 650,
       "processed": 489,
-      "patched": 488,
+      "patched": 489,
       "not_found": 0,
       "failed": 0
     }
   },
-  "current": {
-    "idx": 489,
-    "key": "Ascent Venture Group",
-    "patched": false,
-    "phase": "sh",
-    "verified": false
-  },
+  "current": null,
   "recent": [
+    {
+      "status": "ok",
+      "notion_url": "https://www.notion.so/Ascent-Venture-Group-345aa45a3f1381e4bd07c3edf5e205f8",
+      "key": "Ascent Venture Group",
+      "note": "6項目",
+      "action": "patched",
+      "phase": "sh"
+    },
     {
       "status": "ok",
       "notion_url": "https://www.notion.so/346aa45a3f13813b8a05ca3d96b29648",
@@ -434,14 +436,6 @@
       "notion_url": "https://www.notion.so/345aa45a3f13817dba4bc95a0aea73c1",
       "key": "名古屋王者株式会社",
       "note": "9項目",
-      "action": "patched",
-      "phase": "sh"
-    },
-    {
-      "status": "ok",
-      "notion_url": "https://www.notion.so/345aa45a3f1381429905ea3a0dbaf098",
-      "key": "富士フイルムシステムサービス株式会社",
-      "note": "10項目",
       "action": "patched",
       "phase": "sh"
     }
