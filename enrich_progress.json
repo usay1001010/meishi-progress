@@ -5,15 +5,15 @@
   "force": false,
   "mode": "overwrite",
   "total": 845,
-  "processed": 212,
+  "processed": 214,
   "verified": 195,
   "patched": 186,
   "unchanged": 6,
-  "failed": 5,
+  "failed": 7,
   "low_confidence": 11,
   "not_found": 14,
-  "elapsed_sec": 3881.5,
-  "eta_sec": 11589.7,
+  "elapsed_sec": 3915.1,
+  "eta_sec": 11544.1,
   "by_phase": {
     "kkaku": {
       "total": 158,
@@ -31,20 +31,32 @@
     },
     "sh": {
       "total": 650,
-      "processed": 17,
+      "processed": 19,
       "patched": 11,
       "not_found": 0,
-      "failed": 5
+      "failed": 7
     }
   },
   "current": {
     "phase": "sh",
     "patched": false,
-    "idx": 212,
-    "key": "TEDxNagoyaU",
+    "idx": 214,
+    "key": "イノスケケア",
     "verified": false
   },
   "recent": [
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "株式会社カナメヤ",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: 学生支援, 人材紹介"
+    },
+    {
+      "status": "error",
+      "phase": "sh",
+      "key": "TEDxNagoyaU",
+      "note": "APIResponseError: Invalid multi_select option, commas not allowed: イベント企画・運営, 教育・啓発"
+    },
     {
       "status": "ok",
       "phase": "sh",
@@ -418,22 +430,6 @@
       "key": "株式会社ミトリ / 三鷹訪問介護ステーション, 三鷹訪問看護ステーション",
       "notion_url": "https://www.notion.so/349aa45a3f13815480d7e57fc45e5d26",
       "note": "10項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "empty",
-      "key": "株式会社ミトリ / 三凪訪問介護ステーション, 三凪訪問看護ステーション",
-      "notion_url": "",
-      "note": "0項目"
-    },
-    {
-      "status": "ok",
-      "phase": "office",
-      "action": "not_found",
-      "key": "スギホールディングス株式会社 / 関東本部",
-      "notion_url": "",
-      "note": "5項目"
     }
   ]
 }
